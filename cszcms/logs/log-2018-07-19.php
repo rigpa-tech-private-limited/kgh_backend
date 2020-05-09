@@ -1,0 +1,10 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-19 09:24:22 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 10:43:09 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 10:45:26 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 10:45:57 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 10:47:00 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 10:57:34 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 12:20:48 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-07-19 12:21:42 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0

@@ -1,0 +1,25 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-02-22 09:11:19 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 09:31:33 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:35:54 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:36:04 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:36:07 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:36:21 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:36:48 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:37:25 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:37:56 --> Unable to delete cache file for plugin/article/rss
+ERROR - 2018-02-22 12:38:01 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:38:01 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:38:06 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:38:13 --> Unable to delete cache file for plugin/article/rss
+ERROR - 2018-02-22 12:38:23 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 12:40:42 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 16:21:35 --> Unable to delete cache file for plugin/article/rss
+ERROR - 2018-02-22 16:22:48 --> Unable to delete cache file for plugin/article/rss
+ERROR - 2018-02-22 16:27:30 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 16:32:46 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 16:36:44 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 16:39:06 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 17:35:10 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-02-22 20:03:27 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib/php/20151012/php_mysqli.dll' - /usr/lib/php/20151012/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0

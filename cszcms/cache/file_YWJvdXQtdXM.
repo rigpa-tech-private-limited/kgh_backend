@@ -1,0 +1,29 @@
+a:3:{s:4:"time";i:1588538932;s:3:"ttl";i:60;s:4:"data";O:8:"stdClass":13:{s:8:"pages_id";s:1:"2";s:9:"page_name";s:8:"About Us";s:8:"page_url";s:8:"about-us";s:8:"lang_iso";s:2:"en";s:10:"page_title";s:16:"CSZ-CMS About Us";s:13:"page_keywords";s:111:"CMS, Contact Management System, HTML, CSS, JS, JavaScript, framework, bootstrap, web development, thai, aboutus";s:9:"page_desc";s:42:"CSKAZA Template for Bootstrap with CSZ-CMS";s:7:"content";s:1138:"<div class="jumbotron">
+<div class="container">
+<h1>About Us!</h1>
+<p>CSKAZA Template for Bootstrap with CSZ-CMS. CSZ-CMS build by CSKAZA.</p>
+<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more »</a></p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="panel panel-default">
+<div class="panel-heading">Panel heading</div>
+<div class="panel-body">
+<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="panel panel-default">
+<div class="panel-heading">Panel heading</div>
+<div class="panel-body">
+<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container"></div>
+<p></p>";s:10:"custom_css";s:0:"";s:9:"custom_js";s:0:"";s:6:"active";s:1:"1";s:16:"timestamp_create";s:19:"2016-04-11 15:17:18";s:16:"timestamp_update";s:19:"2016-05-01 15:16:13";}}

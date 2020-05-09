@@ -1,0 +1,1597 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:20:{i:0;a:23:{s:13:"article_db_id";s:3:"134";s:11:"url_rewrite";s:45:"ph-d-management-and-organization-development-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658150_1-org.jpg";s:5:"title";s:48:"Ph.D. (Management and Organization Development) ";s:7:"keyword";s:50:"Hua Mak Campus# Part-time, Friday to Sunday#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546515057_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:896:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English ,Managerial Attitude Test and Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br>5 years</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation, International seminar and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 54</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Thai: 1,500,000 THB<br>Non-Thai: 1,500,000 THB<br>US$ : 46,287</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-30 12:57:02";s:16:"timestamp_update";s:19:"2019-01-03 11:30:57";}i:1;a:23:{s:13:"article_db_id";s:3:"133";s:11:"url_rewrite";s:44:"m-m-organization-development-and-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658097_1-org.jpg";s:5:"title";s:47:"M.M. (Organization Development and Management) ";s:7:"keyword";s:60:"Hua Mak Campus#Part-time, weekend#2 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546513661_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:797:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A: Thesis option <br>- Plan B: Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>5 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 500,000 THB<br> Non-Thai: 550,000 THB<br> US$ 16,667</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-30 12:49:11";s:16:"timestamp_update";s:19:"2019-01-03 11:07:41";}i:2;a:23:{s:13:"article_db_id";s:3:"132";s:11:"url_rewrite";s:39:"m-s-investment-analysis-and-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658067_1-org.jpg";s:5:"title";s:41:"M.S. (Investment Analysis and Management)";s:7:"keyword";s:44:"ABAC City Campus#Part-time, weekend#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546513551_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:716:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>Interview&nbsp;&amp; Group Assessment</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>Thesis/IR and Comprehensive test</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 45</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 5 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 451,500 THB<br> Non-Thai : 474,000 THB<br> US$ : 14,364</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-30 12:44:38";s:16:"timestamp_update";s:19:"2019-01-03 11:05:51";}i:3;a:23:{s:13:"article_db_id";s:3:"131";s:11:"url_rewrite";s:21:"joint-degree-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509271142_1-org.jpg";s:5:"title";s:21:"Joint Degree Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:4114:"<div class="txt-content">Assumption University has several joint degree programs that allow students to study partially at Au and then to complete their degree at a western university. The degree, awarded by the western university, is thus obtained at a substantially lower cost than having studied at the overseas university full-time. Au currently has seven Post-Graduate joint degree programs and one Undergraduate joint degree program and is exploring others. Au expects to soon endorse additional joint degree programs with colleges in India especially in the areas of Information Technology. These agreements will permit International students to study partially at their home institution and then come to AU to complete their degrees.<br> <br>
+<div class="table-responsive js-add">
+<table class="table js-add">
+<tbody>
+<tr>
+<td colspan="2">
+<h5>Bachelor Degree Programs&nbsp;</h5>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Au - Wollongong (Australia)</td>
+<td>&nbsp;B.B.A.</td>
+</tr>
+<tr>
+<td colspan="2">
+<h5>&nbsp;Master’s Degree Programs</h5>
+</td>
+</tr>
+<tr>
+<td>
+<h6>&nbsp;Business &amp; Management</h6>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Financial Management **</td>
+<td>&nbsp;MSc-FM - Financial Management</td>
+</tr>
+<tr>
+<td>&nbsp;International Business *</td>
+<td>&nbsp;MSc-IB - International Business</td>
+</tr>
+<tr>
+<td>&nbsp;International Marketing *</td>
+<td>&nbsp;MSC-IM - International Marketing</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Law</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;International Business Law **</td>
+<td>&nbsp;LLM - International Business Law</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Engineering</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Telecommun. &amp; Computer Network Engr. *</td>
+<td>&nbsp;MScTeCNE - Tele. &amp; Comp Net Engr</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Information Technology</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Internet and Multimedia Engineering *</td>
+<td>&nbsp;MScc-IME - Internet and Multimedia Engr.</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Education, Language, Philosophy, Religion &amp; Tourism</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Teaching English as a Second Language</td>
+<td>&nbsp;&nbsp;* MA-TESL - Teaching English as a 2nd Lang.</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Doctoral Degree Programs</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Internet &amp; Multimedia Engineering *</td>
+<td>&nbsp;Ph.D. - IME</td>
+</tr>
+<tr>
+<td>&nbsp;Telecommun. &amp; Computer Network Engr. *</td>
+<td>&nbsp;Ph.D. - TeCNE</td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;* Joint program with South Bank University, UK<br> ** Joint program with the University of Exeter, UK</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br> Further studies at Prominent Universities in the East and in the West<br> <br> Over the past 37 years Assumption university graduates have been accepted into programs of pride in the Canada, United State, United Kingdom, Europe, Asia and Australia.<br> <br> Acceptance modes by overseas universities :<br> <br> Assumption University has numerous agreements of cooperation with institutions in 33 countries. Most agreements include elements for student exchange, faculty exchange, sharing of research and more. Universities that have worked with Au on such arrangements include though not exhaustively, quite actively, include:<br> <br> United State:<br> <br>
+<ul>
+<li>Pepperdine University, California</li>
+<li>University of Dayton</li>
+<li>Ball State University</li>
+<li>Pittsburgh State University</li>
+<li>Tarleton State University</li>
+<li>The University of the Incarnate Word</li>
+<li>Monterary Institute in California</li>
+<li>Loyola College at Baltimore</li>
+<li>De Paul University in Chicago</li>
+</ul>
+<br> United Kingdom : <br>
+<ul>
+<li>Warwick University</li>
+<li>University of Exeter</li>
+<li>London South Bank University</li>
+</ul>
+<br> Europe :<br>
+<ul>
+<li>Louvain Catholic University</li>
+<li>The University of Utrecht</li>
+<li>The Hague University</li>
+<li>The Catholic University of the West</li>
+</ul>
+<br> For more information http://www.oia.au.edu</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"129";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:59:02";s:16:"timestamp_update";s:19:"2017-10-29 09:59:02";}i:4;a:23:{s:13:"article_db_id";s:3:"130";s:11:"url_rewrite";s:13:"accreditation";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509271021_1-org.jpg";s:5:"title";s:13:"Accreditation";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:938:"<div class="txt-content">The University is fully accredited by the Ministry of University Affairs. Its graduates enjoy the privileges accorded to State University graduates. Its academic standards are accepted by the Civil Service Commission of Thailand.<br> <br> Assumption University is recognized in the USA and other countries and transfer of credits from the University is accepted abroad. Graduates from the University can pursue advanced Degrees anywhere in the world. Assumption University is listed in the Handbook of Universities and other Institutions of the INTERNATIONAL ASSOCIATION OF UNIVERSITIES in Paris, France.<br> <br> The University is recognized by:<br> <br>
+<ul>
+<li>The Association of Christian Universities and Colleges in Asia (ACUCA)</li>
+<li>The Association of Southeast Asian Institution of Higher Learning (ASAIHL)</li>
+<li>The International Federation of Catholic Universities (IFCU)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"129";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:56:05";s:16:"timestamp_update";s:19:"2017-10-29 09:57:01";}i:5;a:23:{s:13:"article_db_id";s:3:"128";s:11:"url_rewrite";s:19:"the-residence-halls";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509269663_1-org.jpg";s:5:"title";s:19:"The Residence Halls";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:4889:"<div class="txt-content">
+<h4 style="color: #099ad1;">The Three Dormitories: Solomon, Sheba &amp; King David</h4>
+<br> The three 13-story dormitories form a U-shape embracing the basketball grounds and the middle pyramid. <br> <br> The grounds, with rows of seats all round it, is called the King’s court. Named after characters in the Old Testament, the salubrious dorms have all modern facilities and an underground car park. The safety measures to protect against fire include smoke detectors, sprinklers, fire escapes and emergency lighting. They are located in a windy area with plenty of sun and fresh air. They are on the western side of the campus so in the evening, one sees sunset rays suffuse the colorful flags on the Boulevard des Nations, which connects the residence halls to the front of the Cathedral of Learning. <br> <br>
+<h4 style="color: #099ad1;">King Solomon Hall</h4>
+In the Old Testament, King Solomon inherited the kingdom from his father, King David. He built a temple dedicated to the God of the Israelites, which transformed Jerusalem into an important center during his time. But King Solomon here is a dormitory for male students. It has 505 rooms with an interior and facilities akin to a standard hotel, designed for quiet rest and study. Each room has a cable TV set, a small refrigerator, a direct line telephone and a pair of connections for computer Internet access. It faces the Queen of Sheba Dormitory. <br> <br>
+<h4 style="color: #099ad1;">Queen of Sheba Hall</h4>
+The Queen of Sheba went to Jerusalem after she heard of Solomon’s fame, through the name of the Lord. Their legendary love not only had a deep influence on Jerusalem, but on numerous cultures. The Queen of Sheba dormitory is akin to that of King Solomon in the number of rooms, its exterior and interior, but it is for female students. There is a nursing room and study room on the second floor. Around both dormitories are outdoor sports grounds. Together, the twin halls stand as a testimony of love and hold young men and women bound for a bright future. <br> <br>
+<h4 style="color: #099ad1;">King David Hall</h4>
+<br> Long before Jesus Christ was born, King David ruled Israel. He was a valiant soldier, a musician and the man who defeated Goliath. King David is a hotel for visitors with 266 rooms in the same style as the other two dormitories. The back terrace of every room overlooks a wide green field. It is quiet at daytime and in the night. Only at Kind David are a mini-mart, a laundry shop and an ATM. An ABAC Dummy Perpetual Fund and a Student Affairs Fund to give financial support for youth activities and needy students in rural areas created the mini-mart or “U-Mate” convenient store. The total surplus generated by the story will be contributed to the Fund. <br> <br> Long before Jesus Christ was born, King David ruled Israel. He was a valiant soldier, a musician and the man who defeated Goliath. King David is a hotel for visitors with 266 rooms in the same style as the other two dormitories. The back terrace of every room overlooks a wide green field. It is quiet at daytime and in the night. Only at Kind David are a mini-mart, a laundry shop and an ATM. An ABAC Dummy Perpetual Fund and a Student Affairs Fund to give financial support for youth activities and needy students in rural areas created the mini-mart or “U-Mate” convenient store. The total surplus generated by the story will be contributed to the Fund <br> <br> <b>AU Residence Halls Advisor :</b> <br> 1. To provide orientation and information to the residents,<br> 2. To give advice and assistance to the residents who experience difficulties and encounter problems as hostel students,<br> 3. To create a multicultural learning environment free from prejudice and promote harmonious relations,<br> 4. To prepare development programs to enable students to enhance their potential,<br> 5. To make the residents observe the code of conduct and, if necessary, to initiate procedures that will lead to remedial action against violators.<br> <br> <b>Contact Information :</b> <br> Suvarnabhumi Campus, Service <br> Hours : Mon-Fri (09.00 am. – 04.00 pm.) <br> Location : 2nd Floor, Queen of Sheba <br> Tel : 0 2723-2222 Ext. 5297, Fax : 0 2723-2222 Ext. 6523 <br> <br>
+<ul>
+<li><strong>In-Off Campus Dorm </strong>- <a href="http://www.au.edu/images/pdf/2013/accomodationjan2014_2.pdf" target="_blank">File I</a> | <a href="http://www.au.edu/images/pdf/2013/accomodationmay2013_2.pdf" target="_blank">File II</a></li>
+<li><strong>Room Reservation for Intensive Courses/ Academic Year 2017</strong> - <a href="http://www.au.edu/images/pdf/2017/Intensive2017Checkin-Eng.pdf" target="_blank" rel="alternate">English Version</a> | <a href="http://www.au.edu/images/pdf/2017/Intensive2560Checkin-Thai.pdf" target="_blank" rel="alternate">Thai Version</a></li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:34:23";s:16:"timestamp_update";s:19:"2017-11-20 12:35:56";}i:6;a:23:{s:13:"article_db_id";s:3:"127";s:11:"url_rewrite";s:19:"technology-services";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509269308_1-org.jpg";s:5:"title";s:19:"Technology Services";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:740:"<div class="txt-content">The Network, which spans across the campus, is secure and reliable. The fast Ethernet Links and fiber optic cables allow students to cross geographical links in seconds. Voice and data communication between Hua Mak and Bang Na Campuses is available all day. The redundant gateways to the internet provide fault tolerance and reliability in case of Network Failures. <br> <br> Students are not limited to using the Network just from the campus. Students living off campus can dial up to the access server and make equal use of the Network. There are about 720 telephone lines that can be used for dial up connectivity at the speed reaching 56 kbps. The number of telephone lines will soon be increased to 1200.</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:23:27";s:16:"timestamp_update";s:19:"2017-10-29 09:28:28";}i:7;a:23:{s:13:"article_db_id";s:3:"126";s:11:"url_rewrite";s:11:"housing-faq";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:13:"Housing : FAQ";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:6403:"<div class="txt-content">
+<h4 style="color: #099ad1;">Why stay in the residence halls?</h4>
+The objective of the residence halls is to foster appropriate "campus life" which includes both student residents and commuting students. The AU Residence Hall is not merely a place to rest and sleep but is a place filled with facilities, proper security, and architectural beauty that will enable students to learn and acquire knowledge. In addition, there are residence hall advisors who are able to help and advise students with any problems that they may have. Overall, these factors contribute to a residence hall of high standard and allow students to manage their time effectively in order to develop themselves mentally and emotionally. <br> <br> The reason for the creation of residence halls is not to obtain profit but the money obtained from residence fees is to foster effective service and an appropriate atmosphere. Therefore, the university has decided on a residence fee of 3,500 Baht per person per month. In addition, the student pays electricity, water, and damage deposit fees. Damage deposit fees will be returned to the student at the contract termination period. <br> <br>
+<h4 style="color: #099ad1;">Who Can Stay In The Residence Halls?</h4>
+Students can stay in the residence hall for one academic year, excluding the summer session. All students must move out at the end of the academic year. If any student would like to stay on for another academic year, he will be required to submit a special request. This is to allow all students to have an equal chance to stay at the residence hall. <br> <br> All Assumption University students have an opportunity to stay at the residence halls depending on the number of available rooms. Students are given priority according to the following categories: 1. students whose courses (or most of them) are located at Bang Na campus 2. International students and 3. students whose homes are in the provinces. <br> <br>
+<h4 style="color: #099ad1;">What will you find at the Residence Halls?</h4>
+The residence halls are open 24 hours a day. However, student residents who will not be spending the night at the residence halls need to notify the residence hall staff in advance since residence hall staff will check the number of student residents every night. <br> <br> Only student residents are allowed to enter the residence halls. There will be a security check before students can enter the residence halls. Security guards are available 24 hours a day. To ensure the safety of student residents, there are smoke detectors and sprinklers in every room (students will not be allowed to smoke in their rooms and in the corridors) and fire escapes, emergency lights, and a 24-hour closed circuit television monitoring system. <br> <br> The rules and regulations of the AU residence halls are related to the philosophy and objectives of the university. We would like to emphasize a positive and safe environment in order to foster self-discipline and responsibility and to help students to develop themselves mentally and emotionally. Overall, rules and regulations have been established since the University has a responsibility to parents for their children. <br> <br> All rooms are double rooms and it is recommended that students apply in pairs. If a student does not have a roommate, then the residence hall staff will find a roommate for him or her. <br> <br>
+<h4 style="color: #099ad1;">Safety Measures</h4>
+In order to ensure the safety of all students, all students who bring their friends into the residence halls are requested to ask their friends to sign in/sign out. However, male student residents will not be able to enter the rooms of the female student residents and vice versa. <br> <br> To prevent fire hazards and other problems, students are not allowed to bring electrical appliances such as irons, rice cookers, microwaves, kettles, and electrical stoves. Students may make use of the kitchens, laundry services, and the mini marts available in the residence halls. <br> <br>
+<h4 style="color: #099ad1;">What will you need to bring?</h4>
+The residence halls already have all the necessary items except for bed sheets, pillowcases, blankets, and towels. Students are requested to bring the above items themselves. Students may also purchase these items at the AU bookstore. <br> <br>
+<h4 style="color: #099ad1;">Each room has the following conveniences :</h4>
+<ul>
+<li>Two 3.5' x 6.5' size beds including a mattress and a pillow. Students should bring their own bed sheets, pillow cases, and blankets; or they can be purchased at the book store.</li>
+<li>Two closet and shoe cabinets</li>
+<li>Two desks and chairs</li>
+<li>A direct-line telephone</li>
+<li>A water heater</li>
+<li>A pair of on-line connections for computer internet access</li>
+<li>An air-conditioner</li>
+<li>A 2.1 cubic foot refrigerator</li>
+<li>A 21" color television with UBC (21 channels)</li>
+<li>A smoke detector</li>
+</ul>
+<br> <br>
+<h4 style="color: #099ad1;">The services available are the following :</h4>
+<ul>
+<li>Weekly room cleaning</li>
+<li>Public telephones (coin &amp; card) accommodating both domestic and international calls. Fax and xerox machines are also available.</li>
+<li>24 - hour security guard service for the residents' convenience</li>
+<li>Pay-per-use water purifying machines</li>
+<li>Soft drink vending machines</li>
+<li>A mini-mart, a lounge, a kitchen, a fitness room, and a recreation hall.</li>
+<li>A 20-bed medical center complete with qualified nurses, and doctor services at the "Primary care center".</li>
+</ul>
+<br> <br>
+<h4 style="color: #099ad1;">Support Facilities in the Residence Halls</h4>
+Apart from the facilities provided in the rooms, there is a fitness gym, a games room, a soccer field, tennis courts, basketball courts, and volleyball courts for students. In addition, there is a mini-mart and laundry service. In the future, there will be a plaza in front of the resident halls, which will contain restaurants and other services. <br> <br> There is a cleaning service (once per week) for all rooms. All students should clean their rooms regularly every day to ensure their own physical and mental health. In addition, residence halls staff provide cleaning of all common areas, garbage disposal, 24-hour repair service, and 24-hour medical emergency service.</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:20:58";s:16:"timestamp_update";s:19:"2017-10-29 09:20:58";}i:8;a:23:{s:13:"article_db_id";s:3:"125";s:11:"url_rewrite";s:15:"health-services";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268748_1.jpg";s:5:"title";s:15:"Health Services";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1085:"<div class="txt-content">Assumption University provides health services on both campuses. Students are responsible for making arrangements for their own health care except in case of emergency. Registered nurses are on duty Monday through Friday from 8.00 a.m. to 4.30 p.m. and are available for emergencies, first aid, and medical counseling. <br> <br> Students, faculty and staff members with medical problems are encouraged to keep their files active at the Health Center regarding the nature of their problems so that appropriate action can be taken in the event of an emergency. <br> <br>
+<h4 style="color: #099ad1;">Hua Mak Campus</h4>
+<ul>
+<li>Infirmary Room : (Martin De Tours Hall (M Bldg.) - floating floor)</li>
+<li>Contact : 0-2300-4543-62 ext. 3504</li>
+<li>Service Hours : Mon – Fri (8.00 a.m. - 4.30 p.m.)</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus</h4>
+<ul>
+<li>Infirmary Room : (Queen of Sheba, 2nd Floor) Residence Halls</li>
+<li>Contact : 0-2723-6296</li>
+<li>Service Hours : Mon – Fri (8.00 a.m. - 4.30 p.m.)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:19:08";s:16:"timestamp_update";s:19:"2017-10-29 09:19:08";}i:9;a:23:{s:13:"article_db_id";s:3:"124";s:11:"url_rewrite";s:43:"campus-ministry-chapel-and-religious-center";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268639_1.jpg";s:5:"title";s:44:"Campus Ministry, Chapel and Religious Center";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:734:"<div class="txt-content">The Campus Ministry is designed for the Catholic community and makes use of a spacious and beautiful Chapel where as the Religious Center is a multi-religion house of prayer, meditation, congregation, preaching, and for soul-searching pursuit of the true source of all knowledge and life. Space is provided for each community applying to establish a house of meditation and prayer. <br> <br>
+<h4 style="color: #099ad1;">Hua Mak Campus</h4>
+<ul>
+<li>Location: Assumption Hall (A Bldg.), (Christian Library room, 3rd Floor)</li>
+<li>Contact: 0-2300-4543-62 ext. 1306</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus</h4>
+<ul>
+<li>Behide the John Paul Conference XXIII</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:17:19";s:16:"timestamp_update";s:19:"2017-10-29 09:17:19";}i:10;a:23:{s:13:"article_db_id";s:3:"123";s:11:"url_rewrite";s:10:"bookstores";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268570_1.jpg";s:5:"title";s:11:"Bookstores ";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:768:"<div class="txt-content">Bookstores on each campus provide a wide range of magazines, periodicals, educational equipment, textbooks and professional books usually not available at regular commercial bookstores. In addition, they of er a wide range of Thai style gifts for friends and visitors. <br> <br>
+<h4 style="color: #099ad1;">Hua Mak Campus</h4>
+<ul>
+<li>St. Philip &amp; Bernard Hall (P Bldg.), Ground Floor</li>
+<li>Contact : 0-2300-4543-62 ext. 1218</li>
+<li>Service Hours : Mon–Sat (7.30 a.m. – 7.00 p.m.)</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus</h4>
+<ul>
+<li>Cathedral of Learning (CL Bldg.), Ground Floor</li>
+<li>Contact : 0-2723-2003</li>
+<li>Service Hours : Mon - Fri (8.30 a.m. – 4.30 p.m.)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:16:11";s:16:"timestamp_update";s:19:"2017-10-29 09:16:11";}i:11;a:23:{s:13:"article_db_id";s:3:"122";s:11:"url_rewrite";s:7:"banking";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509268494_1-org.jpg";s:5:"title";s:7:"Banking";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:808:"<div class="txt-content">AU Students can easily pay their tuition fees by sending a request to debit fund from their Bank of Ayudhya account during Payment period from ANYWHERE over the Internet.<br>
+<h4 style="color: #099ad1;">Hua Mak Campus ( Bank of Ayudhya Public Co., Ltd. )</h4>
+<ul>
+<li>Location : In front of the University, near Post Office.</li>
+<li>Mon. - Sat. (8.30 a.m. – 5.30 p.m.)</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus (Bank of Ayudhya Public Co., Ltd.)</h4>
+<ul>
+<li>Location : Cathedral of Learning (CL Bldg.), Ground Floor</li>
+<li>Contact : 0-2707-0350-4</li>
+<li>Open Hour : Mon. - Fri. (8.30 a.m. – 5.00 p.m.)</li>
+</ul>
+<ul>
+<li>Location : AU Plaza, Ground Floor</li>
+<li>Open Hour : Mon. - Fri. (8.30 a.m. – 5.00 p.m.)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:14:54";s:16:"timestamp_update";s:19:"2017-11-21 11:40:10";}i:12;a:23:{s:13:"article_db_id";s:3:"121";s:11:"url_rewrite";s:27:"food-service-and-cafeterias";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268372_1.jpg";s:5:"title";s:27:"Food Service and Cafeterias";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:2027:"<div class="txt-content">Catering facilities are available to faculty, staff and students throughout both campuses. Contractoroperated facilities are in operation daily from 7.00 a.m. to 8.00 p.m. (Hours may change during semester breaks). <br> <br>
+<h4 style="color: #099ad1;">AU Mall</h4>
+Located in Assumption University, Suvarnabhumi Campus. There are two buildings as the followings : <br>
+<ul>
+<li>Two storey commercial Building</li>
+<li>Three storey cafeteria</li>
+</ul>
+<br> <b>Objective</b>
+<ul>
+<li>To provide the facility for students, lecturers and university staffs.</li>
+<li>Being the integrated retail store where provide the center for food, service and edutainment.</li>
+</ul>
+<br> <b>Project Details</b><br> 1. AU Mall retail store – Two storeys with usuable area of 5,031.40 sq.m. Total 47 units. <br> 2. Cafeteria – Threes Storeys with usable are of 1,879.07 sq.m. <br> - 1st and 2nd Floor – Cafeteria with total 15 restaurants. <br> - 3rd Floor – The entertainment hall “Albert Hall” of 100 seats<br> <br>
+<h4 style="color: #099ad1;">AU Plaza</h4>
+Located on the ground floor of Cathedral of Learning (CL Building) at Assumption University, Suvarnabhumi Campus.<br> <br> <b>Objectives :</b> <br>
+<ul>
+<li>To provide the facility for students, lecturers and university staffs to have the fantastic university life.</li>
+<li>Being the center of beverage, bakery and coffee shop.</li>
+<li>Being the center for service to facilitate university life.</li>
+</ul>
+<br> <b>Project Details</b> <br> Cathedral of Learning (CL Building) is a 38 storey building where compose of :<br>
+<ul>
+<li>Classrooms, lecturer office and management office – 37 storeys</li>
+<li>Plaza Zone with usable are 7,445.13 sq.m. – Ground Floor (51 units)</li>
+</ul>
+<br> <b>Contact Information :</b> <br> Pasupat Realty Co., Ltd., 12nd Fl. Chartered Square Building, 152 North Sathorn Road Silom Bangrak Bangkok 10500. Tel. 02-637-8989 ext. 301 – 304, Fax 02-6378990 Email: info@pasupat.com</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:12:52";s:16:"timestamp_update";s:19:"2017-10-29 09:12:52";}i:13;a:23:{s:13:"article_db_id";s:3:"120";s:11:"url_rewrite";s:8:"campuses";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509268263_1-org.jpg";s:5:"title";s:8:"Campuses";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1439:"<div class="txt-content">Assumption University maintains two campuses: the original campus located at Hua Mak in the city, and the new campus at Suvarnabhumi, <br> <br> some thirty minutes from the South of the city campus and twenty minutes from Suvarnabhumi Airport on the way to the Eastern Seaboard. The original campus is a compact, vertical campus comprised of 17 buildings with the tallest having a total of 16 floors. A small lake surrounded by lush gardens and seating is a focal point of beauty and tranquility. Food, convenience, and service shops to support student needs surround the campus. This will become the home of the postgraduate faculties. <br> <br> The Suvarnabhumi Campus, constructed as a “University in a Park”, comprises 200 acres of a beautifully landscaped assembly of mixed architecture surrounded by lush tropical gardens and trees. Designed to host the university’s undergraduate degree programs, it offers everything: a meeting/exhibition center, hotel, non-coeducational dormitories, a magnificent chapel, a museum, eleven academic halls, and much more. The centerpiece of the campus is the Cathedral of Learning, a 39-story tower, which houses student support services, the library, reception halls, seminar rooms and offices. Transportation between the two campuses is convenient and inexpensive. Shuttles run throughout the day between various points in Bangkok and the Suvarnabhumi Campus.</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:11:03";s:16:"timestamp_update";s:19:"2017-10-29 09:11:03";}i:14;a:23:{s:13:"article_db_id";s:3:"118";s:11:"url_rewrite";s:19:"e-learning-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:19:"e-Learning Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:11080:"<div class="txt-content">
+<h4><strong><span style="color: #23263d;">M.S. MANAGEMENT (MSMGT) </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Earn a Bachelor’s degree from an accredited institution</li>
+<li>Show proficiency in English or take the English Proficiency Test conducted by The Graduate School of eLearning .</li>
+</ul>
+<br>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>2. Submit required documents as indicated in the email from GSeL</li>
+<li>Remit fees for English Proficiency Test and interview</li>
+</ul>
+<br>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>Complete the <a href="http://ews.elearning.au.edu/ApplicationForm/Apply.php"> Online Application Form</a> and submit it online with file attachment of the following items</li>
+</ul>
+<p style="padding-left: 30px;">(i) Two (2) color photos (1x1inche size , formal attire not in graduation Gown)</p>
+<p style="padding-left: 30px;">(ii) Two (2) copies of resident registration (สำเนาทะเบียนบ้าน)</p>
+<p style="padding-left: 30px;">(iii) Four (2) copies of passport for foreign students (The page with your photo posted)</p>
+<p style="padding-left: 30px;">(iv) Two (2) copies of citizen ID (สำเนาบัตรประชาชน)</p>
+<p style="padding-left: 30px;">(v) Two (2) copies of marital status registration documents(for married female students only)(สำเนาใบทะเบียนสมรส สำหรับผู้หญิงที่แต่งงานแล้วและเปลี่ยนนามสกุลเท่านั้น)</p>
+<p style="padding-left: 30px;">(vi) Four (4) copies of official university transcripts(with Graduate on date shown)</p>
+<p style="padding-left: 30px;">(vii) Three (3) copies of bachelor’s degree diploma.(สำเนาใบปริญญาบัตร)</p>
+<p style="padding-left: 30px;">(viii) Two (2) Letters of Recommendation (if any)(download attached file)</p>
+<p style="padding-left: 30px;">(ix) Optional for students possessing TOEFL Score of 550 PBT (213 CBT) or IELTS of 6.0</p>
+<p style="padding-left: 30px;"><strong><em>*The Original certified copies of the document must be submitted to GSeL(Graduate School of eLearning) before interview date.</em></strong></p>
+<ul>
+<li>Contact GSeL staff at : 02-723-2944. To confirm the receipt of your documents.</li>
+<li>Your qualifications will be considered by the admission committee of GSeL and if you qualified you will received email regarding online EPT and Interview payment within 2 weeks.</li>
+<li>The Native speakers, from USA, UK and Australia countries, are only excluded to take the EPT Test, but they still required to take the interview examination during the admission process.</li>
+<li>After You’re Admitted, you will receive email admission result and a username and a password, which enable you to access the elearning system and other services and information.</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/msmgt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;">INFORMATION TECHNOLOGY MANAGEMENT (MSITM) </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Bachelor’s degree in any field from accredited institutions.</li>
+<li>Proficiency in English through: TOEFL score of at least 550 on Paper-Based Test (PBT), or 213 on Computer-Based Test (CBT), or 79 Internet-Based Test (iBT), or IELTS score of at least 6.0, or take the English proficiency test conducted by Graduate School of eLearning (GSeL).</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>3. Remit fees for English Proficiency Test and interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/msitm/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;"> Teaching Technology (MEdTT)<br> </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Earn a Bachelor’s degree in any field from the institution accredited by the Ministry of Education, Thailand</li>
+<li>Show proficiency in English or taking the English Proficiency Test conducted by Graduate School of eLearning (GSeL), Assumption University.</li>
+<li>Pass an interview with the admission committee.</li>
+<li>Submit required documents as indicated in the e-mail from GSeL. <a href="http://www.elearning.au.edu/medtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf"> (Download recommendation letter form for M.Ed.)</a></li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>Remit fees for English Proficiency Test and interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/medtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;"> eLEARNING METHODOLOGY (PhDeLM)<br> </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Please note that to get admission in the PhD eLearning Methodology program at GSeL following documents are required. If you uploaded the needed documents we would acknowledge it immediately.</li>
+<li>It is quite possible that you may not have uploaded all the documents. If you missed uploading a few required documents, you make sure to send them separately via email to <a href="mailto:phdelm@au.edu">phdelm@au.edu</a><br> A list of documents required for your admission to GSeL is given below. Please Upload:</li>
+</ul>
+<p style="padding-left: 30px;">1. Most recent digital photograph (1)</p>
+<p style="padding-left: 30px;">2. One (1) digital copy of your passport (For Foreigners)</p>
+<p style="padding-left: 30px;">3. One (1) digital copy of your Citizen ID (For Thai Citizens only)</p>
+<p style="padding-left: 30px;">4. One (1) digital copy of your of Residence Registration (For Thai Citizens only)</p>
+<p style="padding-left: 30px;">5. One (1) digital copy of your last Degree you acquired (Master/PhD)</p>
+<p style="padding-left: 30px;">6. Transcript (Mark-Sheet) of your last degree</p>
+<p style="padding-left: 30px;">7. One (1) digital copy of your brief CV or Resume</p>
+<p style="padding-left: 30px;">8. One (1) digital copy of your Research Concept Paper (CP) (2-3 Pages)</p>
+<ul>
+<li>After uploading 1-8 please pay interview fee- (2000 Baht) if you transfer Thai currency through a bank in Thailand and approximately (US$110) if you transfer from overseas banks. Then send a copy of receipt or transfer slip to:<a href="mailto:phdelm@au.edu"> Phdelm@au.edu</a></li>
+<li>As soon as the tasks mentioned above are taken care you will be informed about face-to-face or online interview which will be held using any of the popular conferencing tools such as WebEx, Skype, Facebook Messenger or any other VDO conferencing tool you may be using. Your admission will be finalized within one week after you complete all requirements and an official Admission Letter will be sent to you.</li>
+<li>Thank you for applying at GSeL. We are very pleased that you will study with one of the best international university in Thailand, ASEAN and beyond. Welcome aboard.</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>1Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>Interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/phdelm/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;"> Teaching &amp; Technology (PhDTT)</span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Earn a Master’s degree from an accredited institution</li>
+<li>Show proficiency in English</li>
+<li>Submit <a href="http://www.elearning.au.edu/phdtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">two letters of recommendation</a></li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Selection Criteria</span><br> </strong></span></h6>
+<ul>
+<li>The selection will be based on the admission qualifications, the interview, and approval of the program committees.</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>Interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/phdtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong></div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:24:36";s:16:"timestamp_update";s:19:"2019-01-04 11:31:08";}i:15;a:23:{s:13:"article_db_id";s:3:"117";s:11:"url_rewrite";s:17:"doctoral-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:17:"Doctoral Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:8654:"<div class="txt-content">
+<h5><span style="color: #23263d;"><strong><span style="color: #23263d;">Documents Required for all Doctoral Programs</span><br></strong></span></h5>
+<ul>
+<li>A completed application form</li>
+<li>Bachelor’s Degree Official Transcript 2 copies</li>
+<li>Master’s Degree Official Transcript 2 copies</li>
+<li>Bachelor’s Degree Certificate 2 copies</li>
+<li>Master’s Degree Certificate 2 copies</li>
+<li>Citizen identification card and residence registration For Thai Applicants 2 copies</li>
+<li>Passport &amp; For Non-Thai Applicants 2 copies</li>
+<li>Recent Photo (1x1” size) 4 photos</li>
+<li>Resume 1 copy</li>
+<li>Statement of Purpose 1 copy</li>
+<li>Recommendation letter 2 letters )</li>
+<li><strong><em>Copy of passport. (First two Pages) </em></strong></li>
+<li><strong><em>Criminal record (Chinese applicants) </em></strong></li>
+<li><strong><em>Criminal record and bank statement covering total all tuition fees (African applicants)</em></strong></li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF BUSINESS</span></strong></h4>
+<strong><span style="color: #23263d;">DOCTOR OF PHILOSOPHY IN ORGANIZATION DEVELOPMENT (Ph.D. OD)</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>At least 3 years of work experience in organizations in the area of interest and expertise.</li>
+<li>Master’s Degree in related fields (MBA, MM,) or any other field, with GPA above 3.50 on scale of 4.00 or equivalent</li>
+<li>A valid TOEFL score of 580 PBT or 237 CBT or an IELTS (Academic) overall band of at least 6.5 or GMAT score of 550. (These scores are valid for 2 years).</li>
+<li>Any applicant who does not obtain the required score must take the AU English Proficiency Test.</li>
+<li>All applicants must submit “statement of purpose.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Entrance Examination (English) : Baht 600</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br> <strong><span style="color: #23263d;">DOCTOR OF PHILOSOPHY IN HOSPITALITY AND TOURISM MANAGEMENT PROGRAM (Ph.D. HTM)</span></strong> <br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Have at least 3 years of work experience in organizations in the area of interest and expertise.</li>
+<li>Hold a Master’s Degree in related fields (MBA, Msc in Tourism) or equivalent degrees in any other fields, with GPA above 3.50 on a scale of 4.00 or equivalent.</li>
+<li>Obtain TOEFL score of 550 PBT or 213 CBT or an IELTS (Academic) overall band of at least 6.5 or</li>
+<li>Obtain GMAT score of 550. (The scores are valid for 2 years). Any applicant who does not obtain the required score must take the English Entrance Examination.</li>
+<li>Present a brief research proposal in the field of hospitality and tourism studies.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF ENGLISH</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree with a thesis in a field related to English language teaching Required GPA of at least 3.5</li>
+<li>Required TOEFL score of 600 or above or IELTS score of 7.0 or above or equivalent</li>
+<li>Work experience of at least 2 years in a field related to the use of English</li>
+<li>Pass the Entrance Examination of Assumption University</li>
+<li>Research proposal</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Entrance Examination (English) : Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">VINCENT MARY SCHOOL OF SCIENCE AND TECHNOLOGY</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree in Telecommunication Science, Communication and Computer Network Technology or related fields from institutions accredited by the Ministry of Education, Thailand</li>
+<li>GPA of at least 3.25 on scale of 4.0 for a Master’s degree holder</li>
+<li>a TOEFL score of at least 90 (iBT) or 550 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</li>
+<li>Research Proposal</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">MARTIN DE TOURS SCHOOL OF MANAGEMENT AND ECONOMICS</span></strong></h4>
+<br> <strong><span style="color: #23263d;">Ph.D. BA</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree from the institutions accredited by the Ministry of Education, Thailand.</li>
+<li>GPA of at least 3.25</li>
+<li>A GMAT score or GRE score or pass the internal exam of the School</li>
+<li>Master’s degree from the institutions accredited by the Ministry of Education, Thailand.</li>
+<li>A research proposal</li>
+<li>Statement of Purpose indicating why the applicant wants to pursue a doctoral degree.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Interview Entrance Examination : Baht 1,500</li>
+<li>Writen exam</li>
+</ul>
+<p style="padding-left: 30px;">- GMAT : Baht 500</p>
+<ul>
+<li>AU English Proficiency Test: Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF BIOTECHNOLOGY</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Student must hold a Bachelor's degree or a Master’s degree in Food Science, Biotechnology, Biological Science or related subjects.</li>
+<li>Receive a cumulative GPA of at least 3.0 for student holding a Master degree.</li>
+<li>Receive a cumulative GP A of at least 3.5 for student holding a Bachelor degree.</li>
+<li>Pass English Examination with a TOEFL score of more than 500 or equivalent.</li>
+<li>The Program Committee and the Dean of office of Graduate School may make exemptions of the above.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Application Form : Baht 500</li>
+<li>Specific Knowledge in Biotechnology Examination: Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview : Baht 2000</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF EDUCATION</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Submit a research proposal.</li>
+<li>Take the entrance exam in English language proficiency test, Leadership Potential Aptitude Test (LPAT), and interview. The applicants who submitted the TOEFL score of at least 550 PBT/213 CBT/79 IBT or the IELTS score of 6.0 or the English native speaker applicants are exempted from English language proficiency test.</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PSYCHOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree in counseling psychology, psychology or any related discipline from an accredited university with a GPA not less than 3.25. Related life or work experience is a plus.</li>
+<li>TOEFL score of at least 550 (paper-based)/213 (computer-based) or an IELTS score of at least 6.5. Submission of the original or certi¬fied copy of the TOEFL or IELTS scores is required and will be con-firmed for authenticity.</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PHILOSOPHY AND RELIGION</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>BA in Philosophy / Religious Studies from an accredited institution, or</li>
+<li>MA in Philosophy / Religious Studies from an accredited institution, or</li>
+<li>MA (or equivalent) in other fields from an accredited institution</li>
+<li>Good command of English</li>
+<li>Computer literacy</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:22:40";s:16:"timestamp_update";s:19:"2019-01-04 11:30:29";}i:16;a:23:{s:13:"article_db_id";s:3:"116";s:11:"url_rewrite";s:15:"master-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:15:"Master Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:9854:"<div class="txt-content">
+<h5 name="master"><strong><span style="color: #23263d;"><span style="color: #099ad1;">Documents Required for all Master Programs</span><br> </span></strong></h5>
+<ul>
+<li>A completed application form</li>
+<li>Official transcript of the previous university attended (2 copies)</li>
+<li>Bachelor’s degree certificate (2 copies)</li>
+<li>Citizen identification card and residence registration (2 copies) – for Thai applicants<br></li>
+<li>Four (1x1-inch size) photographs (formal attire, not in graduation gown)</li>
+<li><strong><em>Copy of passport. (First two Pages) - 2 copies</em></strong></li>
+<li><strong><em>Criminal record (Chinese applicants) </em></strong></li>
+<li><strong><em>Criminal record and bank statement covering total all tuition fees (African applicants)</em></strong></li>
+</ul>
+<br>
+<h4 style="color: #23263d;">GRADUATE SCHOOL OF BUSINESS</h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree or equivalent from an accredited institution in any fields</li>
+<li>A minimum CGPA of 2.00 on 4.00 scales</li>
+<li>Enough undergraduate training to do graduate work in the M.B.A. Program</li>
+<li>At least TWO YEARS of work experience in private or public organization (for Evening Program)</li>
+<li>Good command of English</li>
+<li>Computer literacy</li>
+<li>The English entrance examination can be exempted depending on which of the following conditions you satisfy.</li>
+</ul>
+<p style="padding-left: 30px;">- a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</p>
+<p style="padding-left: 30px;">- a Bachelor’s degree or a higher degree from native English speaking countries (e.g. USA, Canada, UK, Australia and New Zealand)</p>
+<p style="padding-left: 30px;">- student graduated from AU have English courses 1-4 with grade of B+ )</p>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF ENGLISH</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree or equivalent from an accredited institution in any fields</li>
+<li>A minimum CGPA of 2.00 on 4.00 scales, TOEFL score of at least 575 or IELTS score of at least 6.5 or pass the AU English Proficiency&nbsp;Test of the Graduate School of English</li>
+<li>The English entrance examination can be exempted depending on which of the following conditions you satisfy.</li>
+</ul>
+<p style="padding-left: 30px;">– a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</p>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">VINCENT MARY SCHOOL OF SCIENCE AND TECHNOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree from an accredited institution. The applicants must graduate from the following academic field: Computer Science, Computer Engineering, Information Technology, or equivalent</li>
+<li>a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</li>
+<li>Three letters of recommendation from lecturers or employers.</li>
+<li>Required GPA of at least 2.5 (M.S. in Computer Science)</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test and Interview Examination: Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">MARTIN DE TOURS SCHOOL OF MANAGEMENT AND ECONOMICS</span></strong></h4>
+<strong><span style="color: #23263d;">M.Sc. (SCM) MASTER OF SCIENCE IN SUPPLY CHAIN MANAGEMENT</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree or equivalent from an accredited institution in any fields.</li>
+<li>Good command of English</li>
+<li>At least 2 years of professional or practical work experience</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test and Interview Examination: Baht 500</li>
+</ul>
+<br> <strong><span style="color: #23263d;">M.Sc. FE MASTER OF SCIENCE PROGRAM IN FINANCE AND ECONOMICS</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree in any fields from the institutions accredited by the Ministry of Education, Thailand</li>
+<li>a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</li>
+<li>A score of 500 on the Graduate Management Admission Test (GMAT) or 1000 on the Graduate Record Exam (GRE) or a passing grade on AU Test</li>
+<li>Three Recommendation letters from employers/or lecturers</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test and Interview Examination: Baht 500</li>
+<li>Writen exam <br>GMAT : Baht 500<br>AU English Proficiency Test: Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF LAW</span></strong></h4>
+<strong><span style="color: #23263d;">MASTER OF ARTS PROGRAM IN INTERNATIONAL LAW AND DIPLOMACY (M.A. ILD)</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree in any ¬field from the institutions accredited by the Ministry of Education, Thailand.</li>
+<li>GPA of at least 2.5 from a scale of 4.</li>
+<li>Pass the AU English Proficiency Examination of the Graduate School of Business or TOEFL score of at least 575 or IELTS score of at least 6.6</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test : Baht 500</li>
+</ul>
+<br> <strong><span style="color: #23263d;">LL.M BUSINESS LAW</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>LL.B. Graduate from the acceptable institution either in Thailand or aboard</li>
+<li>GPA 2.75 and above, or equivalent result, or having working experiences</li>
+<li>Never been expelled from educational institutions on the ground of misbehavior</li>
+<li>Being in good health</li>
+<li>Having TOEFL score not less than 575 PBT, 213 CBT, 79 IBT or IELTS score not less than 6.5 or passing the AU English Proficiency Test provided by Assumption University</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF BIOTECHNOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Candidates are required to hold a bachelor’s degree in Food Science and Technology, Biological Science, Biotechnology or related fields.</li>
+<li>Candidates who do not hold the degree as specified will be requested to enroll in foundation courses.</li>
+<li>Candidates must have earned a G.P.A. of at least 2.5 on a scale of 4.0.</li>
+<li>a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years).</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>- Application Form: Baht 500</li>
+<li>- Specific Knowledge in Biotechnology Examination: Baht 500</li>
+<li>- AU English Proficiency Test: Baht 500</li>
+<li>- Interview Entrance Examination: Baht 2,000</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF EDUCATION</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>The applicants must have taken the entrance exam in English language proficiency test, and interview. The applicants who submitted the TOEFL score of at least 575 PBT/213 CBT/79 IBT or the IELTS score of 6.5 or the English native speaker applicants are exempted from English language proficiency test. Applicants who failed in English language proficiency test are required to take and pass the noncredit English Proficiency Course</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PSYCHOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree from an accredited institution with a GPA of at least 2.5 on a scale of 4</li>
+<li>TOEFL Score of 575 (paper-based) /213 (computer-based) or the equivalent or satisfactory result on the written entrance exam</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PHILOSOPHY AND RELIGION</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>BA in Philosophy / Religious Studies from an accredited institution, or</li>
+<li>BA (or equivalent) in other fields from an accredited institution</li>
+<li>Good command of English</li>
+<li>Computer literacy</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:20:39";s:16:"timestamp_update";s:19:"2019-01-04 11:29:59";}i:17;a:23:{s:13:"article_db_id";s:3:"115";s:11:"url_rewrite";s:22:"undergraduate-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:22:"Undergraduate Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:5480:"<ol>
+<li>Must have graduated, or to receive graduate status of their high school, successfully completed Grade 12 or other qualifications stated above.</li>
+<li>Optional Test scores
+<ul style="padding-left: 40px;">
+<li>TOEFL score of 60 (IBT) / 500 (PBT) or above</li>
+<li>IELTS score of 5.0 and above in overall bands with a validity of 2 years</li>
+<li>SAT 1 (Mathematics) score of 500 or above<br> <span class="textremark"><strong>Remark:</strong></span> The University will consider the applications with a TOEFL score of 60 (IBT)/ 500 (PBT) and above or an IELTS of 5.0 or above to be exempted from the English Placement test and English Intensive course(s). SAT1 (Mathematics) score of 500 or above are exempted from the mathematics Placement test and Mathematics Intensive course or Pre-Calculus .<br> Kindly specify the score in the Application form for admission and attach copies of the official score (original required at the time of registration).</li>
+</ul>
+</li>
+<li>Transfer students<br> The transfer of credits will be approved only under the following conditions:
+<p><br></p>
+<ul style="padding-left: 40px;">
+<li>Should have at least a GPA of 2.00 out of 4.00 scale;</li>
+<li>Diplomas of any sort do not qualify.</li>
+<li>The institution must have at least a standard 4-year degree completion</li>
+<li>The course was completed at an institution accredited by the Civil Service Commission;</li>
+<li>The course content is equivalent to that specified in the University’s curriculum;</li>
+<li>The course must have been taken within 5 years from the time of application;</li>
+<li>Only a course with an earned grade of “c” or higher in a general education course and an earned grade of “B” or higher in a professional core course will be considered as transfer credit depending on the dean’s final approval;</li>
+<li>A maximum of 70 credits can be transferred.</li>
+<li>If you qualify, please submit your official transcript, course description according to the transcript, your name, contact number, contact email, desired faculty to transfer.</li>
+<li>Transfer subject Fee 1,000 Baht/Subject</li>
+<li>Process 3 weeks and Admission officer will confirm with you via email and mobile phone.</li>
+</ul>
+</li>
+<li>For Albert Laurence School of Communication Arts, Majoring in Advertising, Public Relations, Performance Communication, New Media Communication;
+<ul style="padding-left: 40px;">
+<li>All applicants must take aptitude test.</li>
+<li>The students who pass exam must have the interview with the department.</li>
+</ul>
+</li>
+<li>For Albert Laurence School of Communication Arts, Majoring in Visual Communication Design and Generated Imagery;
+<ul style="padding-left: 40px;">
+<li>All applicants must take drawing and design test. The department will consider minimum score at 150 marks (out of 300 marks) or above in order to enter the program.</li>
+<li>Applicants who transfer from other institutions must submit portfolios to the Department Academic Committee before due date (last day to submit is the last day for admission) specified by the Office of Registrar.</li>
+<li>The result of the portfolios revision and entrance examination will be final. Any objection will not be accepted.</li>
+</ul>
+</li>
+<li>For ABAC School of Management, Majoring in Business Economics. Requirements for passing the placement tests of Assumption University:
+<ul style="padding-left: 40px;">
+<li>50% or above for Mathematics placement test .or</li>
+<li>Obtained SAT 1 (Mathematics) score of 500 or above or passed the Mathematics placement tests with score of 50% or above</li>
+</ul>
+</li>
+<li>For Bernadette de Lourdes School of Nursing Science. <span><span>Requirements for passing the placement tests of Assumption University:<br> </span></span>
+<p><br></p>
+<ul style="padding-left: 40px;">
+<li>Grade 12 or M.6 in Science Major with certificate issued by the Ministry of Education.</li>
+<li>Height is not less than 150 cm. and weight is not lower than 40 kg.</li>
+<li>Being healthy (normal result of chest X-ray and blood test for hepatitis B; HBsAG &amp; AntiHBs reports by the hospital physician)</li>
+<li>Clean record of criminal charges and free from accusation of misbehavior conduct and/ or discipline behavior.</li>
+<li>Passing the written examination and interview.</li>
+<li>English proficiency is required at the satisfactory level.</li>
+</ul>
+</li>
+<li>For Vincent Mary School of Engineering. <span>Requirements for passing the placement tests of Assumption University: </span>
+<ul style="padding-left: 40px;">
+<li>All applicants must take placement tests for Mathematics and Physics.</li>
+<li>Should have earned at least 3.00 grade point average with minimum score 25% or above in order the program</li>
+<li>Have height ranges of 165 cm. and above for male or 160 cm. for female.</li>
+<li>Medical certificate of at least Class 1 from Bangkok Hospital.</li>
+</ul>
+</li>
+<li>For Montfort del Rosario School of Architecture and Design. <span>Requirements for passing the placement tests of Assumption University: </span>
+<ul style="padding-left: 40px;">
+<li>Applicants need to sit for Aptitude test.</li>
+</ul>
+</li>
+<li>For ABAC School of Music. <span>Requirements for passing the placement tests of Assumption University: </span>
+<ul style="padding-left: 40px;">
+<li>Applicants need to do the theory paper exam at the same day of the performing audition.</li>
+</ul>
+</li>
+</ol>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:17:13";s:16:"timestamp_update";s:19:"2019-01-04 11:29:37";}i:18;a:23:{s:13:"article_db_id";s:3:"114";s:11:"url_rewrite";s:8:"why-abac";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509263684_1-org.jpg";s:5:"title";s:8:"Why ABAC";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:2063:"<div>
+<p><span style="color: #099ad1;"><strong>Wide range of degree and career paths</strong></span><br> Over 100 modern degree programs offered, AU degrees deliver the theory you need to be successful, with the practical experience that employers value.</p>
+<p><span style="color: #099ad1;"><strong>Outstanding locations</strong></span><br> Ideally located in the center of Southeast Asia.</p>
+<p><span style="color: #099ad1;"><strong>Academic excellence in teaching and support</strong></span><br> Our courses and academic standards have received many awards in Thailand and <a href="https://www.top10forex.net/top-forex-brokers-in-australia">International </a>Competitions such as the Most Trusted Brand 2011-2013 from Reader’s Digest Magazine, Thailand, Trust Mark from the Ministry of Commerce, etc.</p>
+<p><span style="color: #099ad1;"><strong>Facilities fit for the twenty-first century</strong></span><br> Outstanding study and IT facilities.</p>
+<p><span style="color: #099ad1;"><strong>Comparatively low fees and living costs</strong></span><br> Availability of reasonably-priced and well-located accommodations.</p>
+<p><span style="color: #099ad1;"><strong>Innovative and relevant</strong></span><br> Reputation as the First International University in Thailand, AU courses are continually revised and kept up to date.</p>
+<p><span style="color: #099ad1;"><strong>Public Service at the Heart of Experience</strong></span><br> Public Service is a requirement in the curriculum which will help you to care for and make an impact on society.</p>
+<p><span style="color: #099ad1;"><strong>High rate of graduate employment</strong></span><br> From the results of a survey, leading companies hire our graduates with higher salaries than graduates of other institutions.</p>
+<p><span style="color: #099ad1;"><strong>Global opportunities with a Global Network</strong></span><br> International study can give you a competitive edge for your future success by networking with our current students and alumni who come from around the world.</p>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 07:54:44";s:16:"timestamp_update";s:19:"2017-10-29 07:54:44";}i:19;a:23:{s:13:"article_db_id";s:3:"113";s:11:"url_rewrite";s:11:"scholarship";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509190975_1-org.jpg";s:5:"title";s:11:"Scholarship";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:491:"<p>For undergraduate students who have completed 50 credit hours and have maintained a Cumulative GPA of 3.85, they may apply for a full-tuition scholarship. Certain academic fees must still be paid, but tuition would be fully covered. Other scholarships should be sought through personal or business contacts at home, through government resources and public or private Foundations.</p>
+<p>visit here :</p>
+<p><a href="http://www.scholarship.au.edu/">http://www.scholarship.au.edu/</a></p>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-28 11:42:55";s:16:"timestamp_update";s:19:"2019-01-08 07:51:09";}}s:13:"result_object";a:20:{i:0;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"134";s:11:"url_rewrite";s:45:"ph-d-management-and-organization-development-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658150_1-org.jpg";s:5:"title";s:48:"Ph.D. (Management and Organization Development) ";s:7:"keyword";s:50:"Hua Mak Campus# Part-time, Friday to Sunday#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546515057_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:896:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English ,Managerial Attitude Test and Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br>5 years</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation, International seminar and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 54</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Thai: 1,500,000 THB<br>Non-Thai: 1,500,000 THB<br>US$ : 46,287</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-30 12:57:02";s:16:"timestamp_update";s:19:"2019-01-03 11:30:57";}i:1;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"133";s:11:"url_rewrite";s:44:"m-m-organization-development-and-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658097_1-org.jpg";s:5:"title";s:47:"M.M. (Organization Development and Management) ";s:7:"keyword";s:60:"Hua Mak Campus#Part-time, weekend#2 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546513661_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:797:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A: Thesis option <br>- Plan B: Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>5 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 500,000 THB<br> Non-Thai: 550,000 THB<br> US$ 16,667</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-30 12:49:11";s:16:"timestamp_update";s:19:"2019-01-03 11:07:41";}i:2;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"132";s:11:"url_rewrite";s:39:"m-s-investment-analysis-and-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658067_1-org.jpg";s:5:"title";s:41:"M.S. (Investment Analysis and Management)";s:7:"keyword";s:44:"ABAC City Campus#Part-time, weekend#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546513551_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:716:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>Interview&nbsp;&amp; Group Assessment</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>Thesis/IR and Comprehensive test</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 45</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 5 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 451,500 THB<br> Non-Thai : 474,000 THB<br> US$ : 14,364</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-30 12:44:38";s:16:"timestamp_update";s:19:"2019-01-03 11:05:51";}i:3;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"131";s:11:"url_rewrite";s:21:"joint-degree-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509271142_1-org.jpg";s:5:"title";s:21:"Joint Degree Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:4114:"<div class="txt-content">Assumption University has several joint degree programs that allow students to study partially at Au and then to complete their degree at a western university. The degree, awarded by the western university, is thus obtained at a substantially lower cost than having studied at the overseas university full-time. Au currently has seven Post-Graduate joint degree programs and one Undergraduate joint degree program and is exploring others. Au expects to soon endorse additional joint degree programs with colleges in India especially in the areas of Information Technology. These agreements will permit International students to study partially at their home institution and then come to AU to complete their degrees.<br> <br>
+<div class="table-responsive js-add">
+<table class="table js-add">
+<tbody>
+<tr>
+<td colspan="2">
+<h5>Bachelor Degree Programs&nbsp;</h5>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Au - Wollongong (Australia)</td>
+<td>&nbsp;B.B.A.</td>
+</tr>
+<tr>
+<td colspan="2">
+<h5>&nbsp;Master’s Degree Programs</h5>
+</td>
+</tr>
+<tr>
+<td>
+<h6>&nbsp;Business &amp; Management</h6>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Financial Management **</td>
+<td>&nbsp;MSc-FM - Financial Management</td>
+</tr>
+<tr>
+<td>&nbsp;International Business *</td>
+<td>&nbsp;MSc-IB - International Business</td>
+</tr>
+<tr>
+<td>&nbsp;International Marketing *</td>
+<td>&nbsp;MSC-IM - International Marketing</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Law</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;International Business Law **</td>
+<td>&nbsp;LLM - International Business Law</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Engineering</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Telecommun. &amp; Computer Network Engr. *</td>
+<td>&nbsp;MScTeCNE - Tele. &amp; Comp Net Engr</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Information Technology</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Internet and Multimedia Engineering *</td>
+<td>&nbsp;MScc-IME - Internet and Multimedia Engr.</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Education, Language, Philosophy, Religion &amp; Tourism</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Teaching English as a Second Language</td>
+<td>&nbsp;&nbsp;* MA-TESL - Teaching English as a 2nd Lang.</td>
+</tr>
+<tr>
+<td colspan="2">
+<h6>&nbsp;Doctoral Degree Programs</h6>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Internet &amp; Multimedia Engineering *</td>
+<td>&nbsp;Ph.D. - IME</td>
+</tr>
+<tr>
+<td>&nbsp;Telecommun. &amp; Computer Network Engr. *</td>
+<td>&nbsp;Ph.D. - TeCNE</td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;* Joint program with South Bank University, UK<br> ** Joint program with the University of Exeter, UK</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br> Further studies at Prominent Universities in the East and in the West<br> <br> Over the past 37 years Assumption university graduates have been accepted into programs of pride in the Canada, United State, United Kingdom, Europe, Asia and Australia.<br> <br> Acceptance modes by overseas universities :<br> <br> Assumption University has numerous agreements of cooperation with institutions in 33 countries. Most agreements include elements for student exchange, faculty exchange, sharing of research and more. Universities that have worked with Au on such arrangements include though not exhaustively, quite actively, include:<br> <br> United State:<br> <br>
+<ul>
+<li>Pepperdine University, California</li>
+<li>University of Dayton</li>
+<li>Ball State University</li>
+<li>Pittsburgh State University</li>
+<li>Tarleton State University</li>
+<li>The University of the Incarnate Word</li>
+<li>Monterary Institute in California</li>
+<li>Loyola College at Baltimore</li>
+<li>De Paul University in Chicago</li>
+</ul>
+<br> United Kingdom : <br>
+<ul>
+<li>Warwick University</li>
+<li>University of Exeter</li>
+<li>London South Bank University</li>
+</ul>
+<br> Europe :<br>
+<ul>
+<li>Louvain Catholic University</li>
+<li>The University of Utrecht</li>
+<li>The Hague University</li>
+<li>The Catholic University of the West</li>
+</ul>
+<br> For more information http://www.oia.au.edu</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"129";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:59:02";s:16:"timestamp_update";s:19:"2017-10-29 09:59:02";}i:4;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"130";s:11:"url_rewrite";s:13:"accreditation";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509271021_1-org.jpg";s:5:"title";s:13:"Accreditation";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:938:"<div class="txt-content">The University is fully accredited by the Ministry of University Affairs. Its graduates enjoy the privileges accorded to State University graduates. Its academic standards are accepted by the Civil Service Commission of Thailand.<br> <br> Assumption University is recognized in the USA and other countries and transfer of credits from the University is accepted abroad. Graduates from the University can pursue advanced Degrees anywhere in the world. Assumption University is listed in the Handbook of Universities and other Institutions of the INTERNATIONAL ASSOCIATION OF UNIVERSITIES in Paris, France.<br> <br> The University is recognized by:<br> <br>
+<ul>
+<li>The Association of Christian Universities and Colleges in Asia (ACUCA)</li>
+<li>The Association of Southeast Asian Institution of Higher Learning (ASAIHL)</li>
+<li>The International Federation of Catholic Universities (IFCU)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"129";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:56:05";s:16:"timestamp_update";s:19:"2017-10-29 09:57:01";}i:5;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"128";s:11:"url_rewrite";s:19:"the-residence-halls";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509269663_1-org.jpg";s:5:"title";s:19:"The Residence Halls";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:4889:"<div class="txt-content">
+<h4 style="color: #099ad1;">The Three Dormitories: Solomon, Sheba &amp; King David</h4>
+<br> The three 13-story dormitories form a U-shape embracing the basketball grounds and the middle pyramid. <br> <br> The grounds, with rows of seats all round it, is called the King’s court. Named after characters in the Old Testament, the salubrious dorms have all modern facilities and an underground car park. The safety measures to protect against fire include smoke detectors, sprinklers, fire escapes and emergency lighting. They are located in a windy area with plenty of sun and fresh air. They are on the western side of the campus so in the evening, one sees sunset rays suffuse the colorful flags on the Boulevard des Nations, which connects the residence halls to the front of the Cathedral of Learning. <br> <br>
+<h4 style="color: #099ad1;">King Solomon Hall</h4>
+In the Old Testament, King Solomon inherited the kingdom from his father, King David. He built a temple dedicated to the God of the Israelites, which transformed Jerusalem into an important center during his time. But King Solomon here is a dormitory for male students. It has 505 rooms with an interior and facilities akin to a standard hotel, designed for quiet rest and study. Each room has a cable TV set, a small refrigerator, a direct line telephone and a pair of connections for computer Internet access. It faces the Queen of Sheba Dormitory. <br> <br>
+<h4 style="color: #099ad1;">Queen of Sheba Hall</h4>
+The Queen of Sheba went to Jerusalem after she heard of Solomon’s fame, through the name of the Lord. Their legendary love not only had a deep influence on Jerusalem, but on numerous cultures. The Queen of Sheba dormitory is akin to that of King Solomon in the number of rooms, its exterior and interior, but it is for female students. There is a nursing room and study room on the second floor. Around both dormitories are outdoor sports grounds. Together, the twin halls stand as a testimony of love and hold young men and women bound for a bright future. <br> <br>
+<h4 style="color: #099ad1;">King David Hall</h4>
+<br> Long before Jesus Christ was born, King David ruled Israel. He was a valiant soldier, a musician and the man who defeated Goliath. King David is a hotel for visitors with 266 rooms in the same style as the other two dormitories. The back terrace of every room overlooks a wide green field. It is quiet at daytime and in the night. Only at Kind David are a mini-mart, a laundry shop and an ATM. An ABAC Dummy Perpetual Fund and a Student Affairs Fund to give financial support for youth activities and needy students in rural areas created the mini-mart or “U-Mate” convenient store. The total surplus generated by the story will be contributed to the Fund. <br> <br> Long before Jesus Christ was born, King David ruled Israel. He was a valiant soldier, a musician and the man who defeated Goliath. King David is a hotel for visitors with 266 rooms in the same style as the other two dormitories. The back terrace of every room overlooks a wide green field. It is quiet at daytime and in the night. Only at Kind David are a mini-mart, a laundry shop and an ATM. An ABAC Dummy Perpetual Fund and a Student Affairs Fund to give financial support for youth activities and needy students in rural areas created the mini-mart or “U-Mate” convenient store. The total surplus generated by the story will be contributed to the Fund <br> <br> <b>AU Residence Halls Advisor :</b> <br> 1. To provide orientation and information to the residents,<br> 2. To give advice and assistance to the residents who experience difficulties and encounter problems as hostel students,<br> 3. To create a multicultural learning environment free from prejudice and promote harmonious relations,<br> 4. To prepare development programs to enable students to enhance their potential,<br> 5. To make the residents observe the code of conduct and, if necessary, to initiate procedures that will lead to remedial action against violators.<br> <br> <b>Contact Information :</b> <br> Suvarnabhumi Campus, Service <br> Hours : Mon-Fri (09.00 am. – 04.00 pm.) <br> Location : 2nd Floor, Queen of Sheba <br> Tel : 0 2723-2222 Ext. 5297, Fax : 0 2723-2222 Ext. 6523 <br> <br>
+<ul>
+<li><strong>In-Off Campus Dorm </strong>- <a href="http://www.au.edu/images/pdf/2013/accomodationjan2014_2.pdf" target="_blank">File I</a> | <a href="http://www.au.edu/images/pdf/2013/accomodationmay2013_2.pdf" target="_blank">File II</a></li>
+<li><strong>Room Reservation for Intensive Courses/ Academic Year 2017</strong> - <a href="http://www.au.edu/images/pdf/2017/Intensive2017Checkin-Eng.pdf" target="_blank" rel="alternate">English Version</a> | <a href="http://www.au.edu/images/pdf/2017/Intensive2560Checkin-Thai.pdf" target="_blank" rel="alternate">Thai Version</a></li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:34:23";s:16:"timestamp_update";s:19:"2017-11-20 12:35:56";}i:6;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"127";s:11:"url_rewrite";s:19:"technology-services";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509269308_1-org.jpg";s:5:"title";s:19:"Technology Services";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:740:"<div class="txt-content">The Network, which spans across the campus, is secure and reliable. The fast Ethernet Links and fiber optic cables allow students to cross geographical links in seconds. Voice and data communication between Hua Mak and Bang Na Campuses is available all day. The redundant gateways to the internet provide fault tolerance and reliability in case of Network Failures. <br> <br> Students are not limited to using the Network just from the campus. Students living off campus can dial up to the access server and make equal use of the Network. There are about 720 telephone lines that can be used for dial up connectivity at the speed reaching 56 kbps. The number of telephone lines will soon be increased to 1200.</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:23:27";s:16:"timestamp_update";s:19:"2017-10-29 09:28:28";}i:7;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"126";s:11:"url_rewrite";s:11:"housing-faq";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:13:"Housing : FAQ";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:6403:"<div class="txt-content">
+<h4 style="color: #099ad1;">Why stay in the residence halls?</h4>
+The objective of the residence halls is to foster appropriate "campus life" which includes both student residents and commuting students. The AU Residence Hall is not merely a place to rest and sleep but is a place filled with facilities, proper security, and architectural beauty that will enable students to learn and acquire knowledge. In addition, there are residence hall advisors who are able to help and advise students with any problems that they may have. Overall, these factors contribute to a residence hall of high standard and allow students to manage their time effectively in order to develop themselves mentally and emotionally. <br> <br> The reason for the creation of residence halls is not to obtain profit but the money obtained from residence fees is to foster effective service and an appropriate atmosphere. Therefore, the university has decided on a residence fee of 3,500 Baht per person per month. In addition, the student pays electricity, water, and damage deposit fees. Damage deposit fees will be returned to the student at the contract termination period. <br> <br>
+<h4 style="color: #099ad1;">Who Can Stay In The Residence Halls?</h4>
+Students can stay in the residence hall for one academic year, excluding the summer session. All students must move out at the end of the academic year. If any student would like to stay on for another academic year, he will be required to submit a special request. This is to allow all students to have an equal chance to stay at the residence hall. <br> <br> All Assumption University students have an opportunity to stay at the residence halls depending on the number of available rooms. Students are given priority according to the following categories: 1. students whose courses (or most of them) are located at Bang Na campus 2. International students and 3. students whose homes are in the provinces. <br> <br>
+<h4 style="color: #099ad1;">What will you find at the Residence Halls?</h4>
+The residence halls are open 24 hours a day. However, student residents who will not be spending the night at the residence halls need to notify the residence hall staff in advance since residence hall staff will check the number of student residents every night. <br> <br> Only student residents are allowed to enter the residence halls. There will be a security check before students can enter the residence halls. Security guards are available 24 hours a day. To ensure the safety of student residents, there are smoke detectors and sprinklers in every room (students will not be allowed to smoke in their rooms and in the corridors) and fire escapes, emergency lights, and a 24-hour closed circuit television monitoring system. <br> <br> The rules and regulations of the AU residence halls are related to the philosophy and objectives of the university. We would like to emphasize a positive and safe environment in order to foster self-discipline and responsibility and to help students to develop themselves mentally and emotionally. Overall, rules and regulations have been established since the University has a responsibility to parents for their children. <br> <br> All rooms are double rooms and it is recommended that students apply in pairs. If a student does not have a roommate, then the residence hall staff will find a roommate for him or her. <br> <br>
+<h4 style="color: #099ad1;">Safety Measures</h4>
+In order to ensure the safety of all students, all students who bring their friends into the residence halls are requested to ask their friends to sign in/sign out. However, male student residents will not be able to enter the rooms of the female student residents and vice versa. <br> <br> To prevent fire hazards and other problems, students are not allowed to bring electrical appliances such as irons, rice cookers, microwaves, kettles, and electrical stoves. Students may make use of the kitchens, laundry services, and the mini marts available in the residence halls. <br> <br>
+<h4 style="color: #099ad1;">What will you need to bring?</h4>
+The residence halls already have all the necessary items except for bed sheets, pillowcases, blankets, and towels. Students are requested to bring the above items themselves. Students may also purchase these items at the AU bookstore. <br> <br>
+<h4 style="color: #099ad1;">Each room has the following conveniences :</h4>
+<ul>
+<li>Two 3.5' x 6.5' size beds including a mattress and a pillow. Students should bring their own bed sheets, pillow cases, and blankets; or they can be purchased at the book store.</li>
+<li>Two closet and shoe cabinets</li>
+<li>Two desks and chairs</li>
+<li>A direct-line telephone</li>
+<li>A water heater</li>
+<li>A pair of on-line connections for computer internet access</li>
+<li>An air-conditioner</li>
+<li>A 2.1 cubic foot refrigerator</li>
+<li>A 21" color television with UBC (21 channels)</li>
+<li>A smoke detector</li>
+</ul>
+<br> <br>
+<h4 style="color: #099ad1;">The services available are the following :</h4>
+<ul>
+<li>Weekly room cleaning</li>
+<li>Public telephones (coin &amp; card) accommodating both domestic and international calls. Fax and xerox machines are also available.</li>
+<li>24 - hour security guard service for the residents' convenience</li>
+<li>Pay-per-use water purifying machines</li>
+<li>Soft drink vending machines</li>
+<li>A mini-mart, a lounge, a kitchen, a fitness room, and a recreation hall.</li>
+<li>A 20-bed medical center complete with qualified nurses, and doctor services at the "Primary care center".</li>
+</ul>
+<br> <br>
+<h4 style="color: #099ad1;">Support Facilities in the Residence Halls</h4>
+Apart from the facilities provided in the rooms, there is a fitness gym, a games room, a soccer field, tennis courts, basketball courts, and volleyball courts for students. In addition, there is a mini-mart and laundry service. In the future, there will be a plaza in front of the resident halls, which will contain restaurants and other services. <br> <br> There is a cleaning service (once per week) for all rooms. All students should clean their rooms regularly every day to ensure their own physical and mental health. In addition, residence halls staff provide cleaning of all common areas, garbage disposal, 24-hour repair service, and 24-hour medical emergency service.</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:20:58";s:16:"timestamp_update";s:19:"2017-10-29 09:20:58";}i:8;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"125";s:11:"url_rewrite";s:15:"health-services";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268748_1.jpg";s:5:"title";s:15:"Health Services";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1085:"<div class="txt-content">Assumption University provides health services on both campuses. Students are responsible for making arrangements for their own health care except in case of emergency. Registered nurses are on duty Monday through Friday from 8.00 a.m. to 4.30 p.m. and are available for emergencies, first aid, and medical counseling. <br> <br> Students, faculty and staff members with medical problems are encouraged to keep their files active at the Health Center regarding the nature of their problems so that appropriate action can be taken in the event of an emergency. <br> <br>
+<h4 style="color: #099ad1;">Hua Mak Campus</h4>
+<ul>
+<li>Infirmary Room : (Martin De Tours Hall (M Bldg.) - floating floor)</li>
+<li>Contact : 0-2300-4543-62 ext. 3504</li>
+<li>Service Hours : Mon – Fri (8.00 a.m. - 4.30 p.m.)</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus</h4>
+<ul>
+<li>Infirmary Room : (Queen of Sheba, 2nd Floor) Residence Halls</li>
+<li>Contact : 0-2723-6296</li>
+<li>Service Hours : Mon – Fri (8.00 a.m. - 4.30 p.m.)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:19:08";s:16:"timestamp_update";s:19:"2017-10-29 09:19:08";}i:9;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"124";s:11:"url_rewrite";s:43:"campus-ministry-chapel-and-religious-center";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268639_1.jpg";s:5:"title";s:44:"Campus Ministry, Chapel and Religious Center";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:734:"<div class="txt-content">The Campus Ministry is designed for the Catholic community and makes use of a spacious and beautiful Chapel where as the Religious Center is a multi-religion house of prayer, meditation, congregation, preaching, and for soul-searching pursuit of the true source of all knowledge and life. Space is provided for each community applying to establish a house of meditation and prayer. <br> <br>
+<h4 style="color: #099ad1;">Hua Mak Campus</h4>
+<ul>
+<li>Location: Assumption Hall (A Bldg.), (Christian Library room, 3rd Floor)</li>
+<li>Contact: 0-2300-4543-62 ext. 1306</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus</h4>
+<ul>
+<li>Behide the John Paul Conference XXIII</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:17:19";s:16:"timestamp_update";s:19:"2017-10-29 09:17:19";}i:10;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"123";s:11:"url_rewrite";s:10:"bookstores";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268570_1.jpg";s:5:"title";s:11:"Bookstores ";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:768:"<div class="txt-content">Bookstores on each campus provide a wide range of magazines, periodicals, educational equipment, textbooks and professional books usually not available at regular commercial bookstores. In addition, they of er a wide range of Thai style gifts for friends and visitors. <br> <br>
+<h4 style="color: #099ad1;">Hua Mak Campus</h4>
+<ul>
+<li>St. Philip &amp; Bernard Hall (P Bldg.), Ground Floor</li>
+<li>Contact : 0-2300-4543-62 ext. 1218</li>
+<li>Service Hours : Mon–Sat (7.30 a.m. – 7.00 p.m.)</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus</h4>
+<ul>
+<li>Cathedral of Learning (CL Bldg.), Ground Floor</li>
+<li>Contact : 0-2723-2003</li>
+<li>Service Hours : Mon - Fri (8.30 a.m. – 4.30 p.m.)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:16:11";s:16:"timestamp_update";s:19:"2017-10-29 09:16:11";}i:11;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"122";s:11:"url_rewrite";s:7:"banking";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509268494_1-org.jpg";s:5:"title";s:7:"Banking";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:808:"<div class="txt-content">AU Students can easily pay their tuition fees by sending a request to debit fund from their Bank of Ayudhya account during Payment period from ANYWHERE over the Internet.<br>
+<h4 style="color: #099ad1;">Hua Mak Campus ( Bank of Ayudhya Public Co., Ltd. )</h4>
+<ul>
+<li>Location : In front of the University, near Post Office.</li>
+<li>Mon. - Sat. (8.30 a.m. – 5.30 p.m.)</li>
+</ul>
+<br>
+<h4 style="color: #099ad1;">Suvarnabhumi Campus (Bank of Ayudhya Public Co., Ltd.)</h4>
+<ul>
+<li>Location : Cathedral of Learning (CL Bldg.), Ground Floor</li>
+<li>Contact : 0-2707-0350-4</li>
+<li>Open Hour : Mon. - Fri. (8.30 a.m. – 5.00 p.m.)</li>
+</ul>
+<ul>
+<li>Location : AU Plaza, Ground Floor</li>
+<li>Open Hour : Mon. - Fri. (8.30 a.m. – 5.00 p.m.)</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:14:54";s:16:"timestamp_update";s:19:"2017-11-21 11:40:10";}i:12;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"121";s:11:"url_rewrite";s:27:"food-service-and-cafeterias";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:21:"2017/1509268372_1.jpg";s:5:"title";s:27:"Food Service and Cafeterias";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:2027:"<div class="txt-content">Catering facilities are available to faculty, staff and students throughout both campuses. Contractoroperated facilities are in operation daily from 7.00 a.m. to 8.00 p.m. (Hours may change during semester breaks). <br> <br>
+<h4 style="color: #099ad1;">AU Mall</h4>
+Located in Assumption University, Suvarnabhumi Campus. There are two buildings as the followings : <br>
+<ul>
+<li>Two storey commercial Building</li>
+<li>Three storey cafeteria</li>
+</ul>
+<br> <b>Objective</b>
+<ul>
+<li>To provide the facility for students, lecturers and university staffs.</li>
+<li>Being the integrated retail store where provide the center for food, service and edutainment.</li>
+</ul>
+<br> <b>Project Details</b><br> 1. AU Mall retail store – Two storeys with usuable area of 5,031.40 sq.m. Total 47 units. <br> 2. Cafeteria – Threes Storeys with usable are of 1,879.07 sq.m. <br> - 1st and 2nd Floor – Cafeteria with total 15 restaurants. <br> - 3rd Floor – The entertainment hall “Albert Hall” of 100 seats<br> <br>
+<h4 style="color: #099ad1;">AU Plaza</h4>
+Located on the ground floor of Cathedral of Learning (CL Building) at Assumption University, Suvarnabhumi Campus.<br> <br> <b>Objectives :</b> <br>
+<ul>
+<li>To provide the facility for students, lecturers and university staffs to have the fantastic university life.</li>
+<li>Being the center of beverage, bakery and coffee shop.</li>
+<li>Being the center for service to facilitate university life.</li>
+</ul>
+<br> <b>Project Details</b> <br> Cathedral of Learning (CL Building) is a 38 storey building where compose of :<br>
+<ul>
+<li>Classrooms, lecturer office and management office – 37 storeys</li>
+<li>Plaza Zone with usable are 7,445.13 sq.m. – Ground Floor (51 units)</li>
+</ul>
+<br> <b>Contact Information :</b> <br> Pasupat Realty Co., Ltd., 12nd Fl. Chartered Square Building, 152 North Sathorn Road Silom Bangrak Bangkok 10500. Tel. 02-637-8989 ext. 301 – 304, Fax 02-6378990 Email: info@pasupat.com</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:12:52";s:16:"timestamp_update";s:19:"2017-10-29 09:12:52";}i:13;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"120";s:11:"url_rewrite";s:8:"campuses";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509268263_1-org.jpg";s:5:"title";s:8:"Campuses";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1439:"<div class="txt-content">Assumption University maintains two campuses: the original campus located at Hua Mak in the city, and the new campus at Suvarnabhumi, <br> <br> some thirty minutes from the South of the city campus and twenty minutes from Suvarnabhumi Airport on the way to the Eastern Seaboard. The original campus is a compact, vertical campus comprised of 17 buildings with the tallest having a total of 16 floors. A small lake surrounded by lush gardens and seating is a focal point of beauty and tranquility. Food, convenience, and service shops to support student needs surround the campus. This will become the home of the postgraduate faculties. <br> <br> The Suvarnabhumi Campus, constructed as a “University in a Park”, comprises 200 acres of a beautifully landscaped assembly of mixed architecture surrounded by lush tropical gardens and trees. Designed to host the university’s undergraduate degree programs, it offers everything: a meeting/exhibition center, hotel, non-coeducational dormitories, a magnificent chapel, a museum, eleven academic halls, and much more. The centerpiece of the campus is the Cathedral of Learning, a 39-story tower, which houses student support services, the library, reception halls, seminar rooms and offices. Transportation between the two campuses is convenient and inexpensive. Shuttles run throughout the day between various points in Bangkok and the Suvarnabhumi Campus.</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"119";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 09:11:03";s:16:"timestamp_update";s:19:"2017-10-29 09:11:03";}i:14;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"118";s:11:"url_rewrite";s:19:"e-learning-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:19:"e-Learning Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:11080:"<div class="txt-content">
+<h4><strong><span style="color: #23263d;">M.S. MANAGEMENT (MSMGT) </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Earn a Bachelor’s degree from an accredited institution</li>
+<li>Show proficiency in English or take the English Proficiency Test conducted by The Graduate School of eLearning .</li>
+</ul>
+<br>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>2. Submit required documents as indicated in the email from GSeL</li>
+<li>Remit fees for English Proficiency Test and interview</li>
+</ul>
+<br>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>Complete the <a href="http://ews.elearning.au.edu/ApplicationForm/Apply.php"> Online Application Form</a> and submit it online with file attachment of the following items</li>
+</ul>
+<p style="padding-left: 30px;">(i) Two (2) color photos (1x1inche size , formal attire not in graduation Gown)</p>
+<p style="padding-left: 30px;">(ii) Two (2) copies of resident registration (สำเนาทะเบียนบ้าน)</p>
+<p style="padding-left: 30px;">(iii) Four (2) copies of passport for foreign students (The page with your photo posted)</p>
+<p style="padding-left: 30px;">(iv) Two (2) copies of citizen ID (สำเนาบัตรประชาชน)</p>
+<p style="padding-left: 30px;">(v) Two (2) copies of marital status registration documents(for married female students only)(สำเนาใบทะเบียนสมรส สำหรับผู้หญิงที่แต่งงานแล้วและเปลี่ยนนามสกุลเท่านั้น)</p>
+<p style="padding-left: 30px;">(vi) Four (4) copies of official university transcripts(with Graduate on date shown)</p>
+<p style="padding-left: 30px;">(vii) Three (3) copies of bachelor’s degree diploma.(สำเนาใบปริญญาบัตร)</p>
+<p style="padding-left: 30px;">(viii) Two (2) Letters of Recommendation (if any)(download attached file)</p>
+<p style="padding-left: 30px;">(ix) Optional for students possessing TOEFL Score of 550 PBT (213 CBT) or IELTS of 6.0</p>
+<p style="padding-left: 30px;"><strong><em>*The Original certified copies of the document must be submitted to GSeL(Graduate School of eLearning) before interview date.</em></strong></p>
+<ul>
+<li>Contact GSeL staff at : 02-723-2944. To confirm the receipt of your documents.</li>
+<li>Your qualifications will be considered by the admission committee of GSeL and if you qualified you will received email regarding online EPT and Interview payment within 2 weeks.</li>
+<li>The Native speakers, from USA, UK and Australia countries, are only excluded to take the EPT Test, but they still required to take the interview examination during the admission process.</li>
+<li>After You’re Admitted, you will receive email admission result and a username and a password, which enable you to access the elearning system and other services and information.</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/msmgt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;">INFORMATION TECHNOLOGY MANAGEMENT (MSITM) </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Bachelor’s degree in any field from accredited institutions.</li>
+<li>Proficiency in English through: TOEFL score of at least 550 on Paper-Based Test (PBT), or 213 on Computer-Based Test (CBT), or 79 Internet-Based Test (iBT), or IELTS score of at least 6.0, or take the English proficiency test conducted by Graduate School of eLearning (GSeL).</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>3. Remit fees for English Proficiency Test and interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/msitm/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;"> Teaching Technology (MEdTT)<br> </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Earn a Bachelor’s degree in any field from the institution accredited by the Ministry of Education, Thailand</li>
+<li>Show proficiency in English or taking the English Proficiency Test conducted by Graduate School of eLearning (GSeL), Assumption University.</li>
+<li>Pass an interview with the admission committee.</li>
+<li>Submit required documents as indicated in the e-mail from GSeL. <a href="http://www.elearning.au.edu/medtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf"> (Download recommendation letter form for M.Ed.)</a></li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>Remit fees for English Proficiency Test and interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/medtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;"> eLEARNING METHODOLOGY (PhDeLM)<br> </span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Please note that to get admission in the PhD eLearning Methodology program at GSeL following documents are required. If you uploaded the needed documents we would acknowledge it immediately.</li>
+<li>It is quite possible that you may not have uploaded all the documents. If you missed uploading a few required documents, you make sure to send them separately via email to <a href="mailto:phdelm@au.edu">phdelm@au.edu</a><br> A list of documents required for your admission to GSeL is given below. Please Upload:</li>
+</ul>
+<p style="padding-left: 30px;">1. Most recent digital photograph (1)</p>
+<p style="padding-left: 30px;">2. One (1) digital copy of your passport (For Foreigners)</p>
+<p style="padding-left: 30px;">3. One (1) digital copy of your Citizen ID (For Thai Citizens only)</p>
+<p style="padding-left: 30px;">4. One (1) digital copy of your of Residence Registration (For Thai Citizens only)</p>
+<p style="padding-left: 30px;">5. One (1) digital copy of your last Degree you acquired (Master/PhD)</p>
+<p style="padding-left: 30px;">6. Transcript (Mark-Sheet) of your last degree</p>
+<p style="padding-left: 30px;">7. One (1) digital copy of your brief CV or Resume</p>
+<p style="padding-left: 30px;">8. One (1) digital copy of your Research Concept Paper (CP) (2-3 Pages)</p>
+<ul>
+<li>After uploading 1-8 please pay interview fee- (2000 Baht) if you transfer Thai currency through a bank in Thailand and approximately (US$110) if you transfer from overseas banks. Then send a copy of receipt or transfer slip to:<a href="mailto:phdelm@au.edu"> Phdelm@au.edu</a></li>
+<li>As soon as the tasks mentioned above are taken care you will be informed about face-to-face or online interview which will be held using any of the popular conferencing tools such as WebEx, Skype, Facebook Messenger or any other VDO conferencing tool you may be using. Your admission will be finalized within one week after you complete all requirements and an official Admission Letter will be sent to you.</li>
+<li>Thank you for applying at GSeL. We are very pleased that you will study with one of the best international university in Thailand, ASEAN and beyond. Welcome aboard.</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>1Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>Interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/phdelm/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong> <br> <br>
+<h4><strong><span style="color: #23263d;"> Teaching &amp; Technology (PhDTT)</span></strong></h4>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Requirement</span><br> </strong></span></h6>
+<ul>
+<li>Earn a Master’s degree from an accredited institution</li>
+<li>Show proficiency in English</li>
+<li>Submit <a href="http://www.elearning.au.edu/phdtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">two letters of recommendation</a></li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Selection Criteria</span><br> </strong></span></h6>
+<ul>
+<li>The selection will be based on the admission qualifications, the interview, and approval of the program committees.</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Procedures</span><br> </strong></span></h6>
+<ul>
+<li>Complete an online application form at http://www.elearning.au.edu</li>
+<li>Submit required documents as indicated in the email from GSeL</li>
+<li>Interview</li>
+</ul>
+<h6 name="master"><span style="color: #099ad1;"><strong><span style="color: #099ad1;">Admission Documents</span><br> </strong></span></h6>
+<ul>
+<li>You can download the following forms in PDF format</li>
+</ul>
+<strong><em><a href="http://www.elearning.au.edu/phdtt/wp-content/uploads/2015/09/Recommedation_Form_2015.pdf">Recommendation Form </a></em></strong></div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:24:36";s:16:"timestamp_update";s:19:"2019-01-04 11:31:08";}i:15;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"117";s:11:"url_rewrite";s:17:"doctoral-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:17:"Doctoral Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:8654:"<div class="txt-content">
+<h5><span style="color: #23263d;"><strong><span style="color: #23263d;">Documents Required for all Doctoral Programs</span><br></strong></span></h5>
+<ul>
+<li>A completed application form</li>
+<li>Bachelor’s Degree Official Transcript 2 copies</li>
+<li>Master’s Degree Official Transcript 2 copies</li>
+<li>Bachelor’s Degree Certificate 2 copies</li>
+<li>Master’s Degree Certificate 2 copies</li>
+<li>Citizen identification card and residence registration For Thai Applicants 2 copies</li>
+<li>Passport &amp; For Non-Thai Applicants 2 copies</li>
+<li>Recent Photo (1x1” size) 4 photos</li>
+<li>Resume 1 copy</li>
+<li>Statement of Purpose 1 copy</li>
+<li>Recommendation letter 2 letters )</li>
+<li><strong><em>Copy of passport. (First two Pages) </em></strong></li>
+<li><strong><em>Criminal record (Chinese applicants) </em></strong></li>
+<li><strong><em>Criminal record and bank statement covering total all tuition fees (African applicants)</em></strong></li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF BUSINESS</span></strong></h4>
+<strong><span style="color: #23263d;">DOCTOR OF PHILOSOPHY IN ORGANIZATION DEVELOPMENT (Ph.D. OD)</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>At least 3 years of work experience in organizations in the area of interest and expertise.</li>
+<li>Master’s Degree in related fields (MBA, MM,) or any other field, with GPA above 3.50 on scale of 4.00 or equivalent</li>
+<li>A valid TOEFL score of 580 PBT or 237 CBT or an IELTS (Academic) overall band of at least 6.5 or GMAT score of 550. (These scores are valid for 2 years).</li>
+<li>Any applicant who does not obtain the required score must take the AU English Proficiency Test.</li>
+<li>All applicants must submit “statement of purpose.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Entrance Examination (English) : Baht 600</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br> <strong><span style="color: #23263d;">DOCTOR OF PHILOSOPHY IN HOSPITALITY AND TOURISM MANAGEMENT PROGRAM (Ph.D. HTM)</span></strong> <br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Have at least 3 years of work experience in organizations in the area of interest and expertise.</li>
+<li>Hold a Master’s Degree in related fields (MBA, Msc in Tourism) or equivalent degrees in any other fields, with GPA above 3.50 on a scale of 4.00 or equivalent.</li>
+<li>Obtain TOEFL score of 550 PBT or 213 CBT or an IELTS (Academic) overall band of at least 6.5 or</li>
+<li>Obtain GMAT score of 550. (The scores are valid for 2 years). Any applicant who does not obtain the required score must take the English Entrance Examination.</li>
+<li>Present a brief research proposal in the field of hospitality and tourism studies.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF ENGLISH</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree with a thesis in a field related to English language teaching Required GPA of at least 3.5</li>
+<li>Required TOEFL score of 600 or above or IELTS score of 7.0 or above or equivalent</li>
+<li>Work experience of at least 2 years in a field related to the use of English</li>
+<li>Pass the Entrance Examination of Assumption University</li>
+<li>Research proposal</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Entrance Examination (English) : Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">VINCENT MARY SCHOOL OF SCIENCE AND TECHNOLOGY</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree in Telecommunication Science, Communication and Computer Network Technology or related fields from institutions accredited by the Ministry of Education, Thailand</li>
+<li>GPA of at least 3.25 on scale of 4.0 for a Master’s degree holder</li>
+<li>a TOEFL score of at least 90 (iBT) or 550 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</li>
+<li>Research Proposal</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">MARTIN DE TOURS SCHOOL OF MANAGEMENT AND ECONOMICS</span></strong></h4>
+<br> <strong><span style="color: #23263d;">Ph.D. BA</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree from the institutions accredited by the Ministry of Education, Thailand.</li>
+<li>GPA of at least 3.25</li>
+<li>A GMAT score or GRE score or pass the internal exam of the School</li>
+<li>Master’s degree from the institutions accredited by the Ministry of Education, Thailand.</li>
+<li>A research proposal</li>
+<li>Statement of Purpose indicating why the applicant wants to pursue a doctoral degree.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>Interview Entrance Examination : Baht 1,500</li>
+<li>Writen exam</li>
+</ul>
+<p style="padding-left: 30px;">- GMAT : Baht 500</p>
+<ul>
+<li>AU English Proficiency Test: Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF BIOTECHNOLOGY</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Student must hold a Bachelor's degree or a Master’s degree in Food Science, Biotechnology, Biological Science or related subjects.</li>
+<li>Receive a cumulative GPA of at least 3.0 for student holding a Master degree.</li>
+<li>Receive a cumulative GP A of at least 3.5 for student holding a Bachelor degree.</li>
+<li>Pass English Examination with a TOEFL score of more than 500 or equivalent.</li>
+<li>The Program Committee and the Dean of office of Graduate School may make exemptions of the above.</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Application Form : Baht 500</li>
+<li>Specific Knowledge in Biotechnology Examination: Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview : Baht 2000</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF EDUCATION</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Submit a research proposal.</li>
+<li>Take the entrance exam in English language proficiency test, Leadership Potential Aptitude Test (LPAT), and interview. The applicants who submitted the TOEFL score of at least 550 PBT/213 CBT/79 IBT or the IELTS score of 6.0 or the English native speaker applicants are exempted from English language proficiency test.</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PSYCHOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Master’s degree in counseling psychology, psychology or any related discipline from an accredited university with a GPA not less than 3.25. Related life or work experience is a plus.</li>
+<li>TOEFL score of at least 550 (paper-based)/213 (computer-based) or an IELTS score of at least 6.5. Submission of the original or certi¬fied copy of the TOEFL or IELTS scores is required and will be con-firmed for authenticity.</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PHILOSOPHY AND RELIGION</span></strong></h4>
+<br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>BA in Philosophy / Religious Studies from an accredited institution, or</li>
+<li>MA in Philosophy / Religious Studies from an accredited institution, or</li>
+<li>MA (or equivalent) in other fields from an accredited institution</li>
+<li>Good command of English</li>
+<li>Computer literacy</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:22:40";s:16:"timestamp_update";s:19:"2019-01-04 11:30:29";}i:16;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"116";s:11:"url_rewrite";s:15:"master-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:15:"Master Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:9854:"<div class="txt-content">
+<h5 name="master"><strong><span style="color: #23263d;"><span style="color: #099ad1;">Documents Required for all Master Programs</span><br> </span></strong></h5>
+<ul>
+<li>A completed application form</li>
+<li>Official transcript of the previous university attended (2 copies)</li>
+<li>Bachelor’s degree certificate (2 copies)</li>
+<li>Citizen identification card and residence registration (2 copies) – for Thai applicants<br></li>
+<li>Four (1x1-inch size) photographs (formal attire, not in graduation gown)</li>
+<li><strong><em>Copy of passport. (First two Pages) - 2 copies</em></strong></li>
+<li><strong><em>Criminal record (Chinese applicants) </em></strong></li>
+<li><strong><em>Criminal record and bank statement covering total all tuition fees (African applicants)</em></strong></li>
+</ul>
+<br>
+<h4 style="color: #23263d;">GRADUATE SCHOOL OF BUSINESS</h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree or equivalent from an accredited institution in any fields</li>
+<li>A minimum CGPA of 2.00 on 4.00 scales</li>
+<li>Enough undergraduate training to do graduate work in the M.B.A. Program</li>
+<li>At least TWO YEARS of work experience in private or public organization (for Evening Program)</li>
+<li>Good command of English</li>
+<li>Computer literacy</li>
+<li>The English entrance examination can be exempted depending on which of the following conditions you satisfy.</li>
+</ul>
+<p style="padding-left: 30px;">- a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</p>
+<p style="padding-left: 30px;">- a Bachelor’s degree or a higher degree from native English speaking countries (e.g. USA, Canada, UK, Australia and New Zealand)</p>
+<p style="padding-left: 30px;">- student graduated from AU have English courses 1-4 with grade of B+ )</p>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF ENGLISH</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree or equivalent from an accredited institution in any fields</li>
+<li>A minimum CGPA of 2.00 on 4.00 scales, TOEFL score of at least 575 or IELTS score of at least 6.5 or pass the AU English Proficiency&nbsp;Test of the Graduate School of English</li>
+<li>The English entrance examination can be exempted depending on which of the following conditions you satisfy.</li>
+</ul>
+<p style="padding-left: 30px;">– a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</p>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test: Baht 500</li>
+<li>Interview Entrance Examination : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">VINCENT MARY SCHOOL OF SCIENCE AND TECHNOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree from an accredited institution. The applicants must graduate from the following academic field: Computer Science, Computer Engineering, Information Technology, or equivalent</li>
+<li>a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</li>
+<li>Three letters of recommendation from lecturers or employers.</li>
+<li>Required GPA of at least 2.5 (M.S. in Computer Science)</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test and Interview Examination: Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">MARTIN DE TOURS SCHOOL OF MANAGEMENT AND ECONOMICS</span></strong></h4>
+<strong><span style="color: #23263d;">M.Sc. (SCM) MASTER OF SCIENCE IN SUPPLY CHAIN MANAGEMENT</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree or equivalent from an accredited institution in any fields.</li>
+<li>Good command of English</li>
+<li>At least 2 years of professional or practical work experience</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test and Interview Examination: Baht 500</li>
+</ul>
+<br> <strong><span style="color: #23263d;">M.Sc. FE MASTER OF SCIENCE PROGRAM IN FINANCE AND ECONOMICS</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree in any fields from the institutions accredited by the Ministry of Education, Thailand</li>
+<li>a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years)</li>
+<li>A score of 500 on the Graduate Management Admission Test (GMAT) or 1000 on the Graduate Record Exam (GRE) or a passing grade on AU Test</li>
+<li>Three Recommendation letters from employers/or lecturers</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test and Interview Examination: Baht 500</li>
+<li>Writen exam <br>GMAT : Baht 500<br>AU English Proficiency Test: Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF LAW</span></strong></h4>
+<strong><span style="color: #23263d;">MASTER OF ARTS PROGRAM IN INTERNATIONAL LAW AND DIPLOMACY (M.A. ILD)</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree in any ¬field from the institutions accredited by the Ministry of Education, Thailand.</li>
+<li>GPA of at least 2.5 from a scale of 4.</li>
+<li>Pass the AU English Proficiency Examination of the Graduate School of Business or TOEFL score of at least 575 or IELTS score of at least 6.6</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test : Baht 500</li>
+</ul>
+<br> <strong><span style="color: #23263d;">LL.M BUSINESS LAW</span></strong><br> <strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>LL.B. Graduate from the acceptable institution either in Thailand or aboard</li>
+<li>GPA 2.75 and above, or equivalent result, or having working experiences</li>
+<li>Never been expelled from educational institutions on the ground of misbehavior</li>
+<li>Being in good health</li>
+<li>Having TOEFL score not less than 575 PBT, 213 CBT, 79 IBT or IELTS score not less than 6.5 or passing the AU English Proficiency Test provided by Assumption University</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>Admission Fee : Baht 500</li>
+<li>AU English Proficiency Test : Baht 500</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF BIOTECHNOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Candidates are required to hold a bachelor’s degree in Food Science and Technology, Biological Science, Biotechnology or related fields.</li>
+<li>Candidates who do not hold the degree as specified will be requested to enroll in foundation courses.</li>
+<li>Candidates must have earned a G.P.A. of at least 2.5 on a scale of 4.0.</li>
+<li>a TOEFL score of at least 90 (iBT) or 575 (PBT) or an IELTS (Academic) score of at least 6.5 (Validation: Two years).</li>
+</ul>
+<strong><span style="color: #099ad1;">Admission &amp; Examination Fees<br> </span></strong>
+<ul>
+<li>- Application Form: Baht 500</li>
+<li>- Specific Knowledge in Biotechnology Examination: Baht 500</li>
+<li>- AU English Proficiency Test: Baht 500</li>
+<li>- Interview Entrance Examination: Baht 2,000</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF EDUCATION</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>The applicants must have taken the entrance exam in English language proficiency test, and interview. The applicants who submitted the TOEFL score of at least 575 PBT/213 CBT/79 IBT or the IELTS score of 6.5 or the English native speaker applicants are exempted from English language proficiency test. Applicants who failed in English language proficiency test are required to take and pass the noncredit English Proficiency Course</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PSYCHOLOGY</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>Bachelor’s degree from an accredited institution with a GPA of at least 2.5 on a scale of 4</li>
+<li>TOEFL Score of 575 (paper-based) /213 (computer-based) or the equivalent or satisfactory result on the written entrance exam</li>
+</ul>
+<br>
+<h4><strong><span style="color: #23263d;">GRADUATE SCHOOL OF PHILOSOPHY AND RELIGION</span></strong></h4>
+<strong><span style="color: #099ad1;">Eligibility Criteria</span></strong>
+<ul>
+<li>BA in Philosophy / Religious Studies from an accredited institution, or</li>
+<li>BA (or equivalent) in other fields from an accredited institution</li>
+<li>Good command of English</li>
+<li>Computer literacy</li>
+</ul>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:20:39";s:16:"timestamp_update";s:19:"2019-01-04 11:29:59";}i:17;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"115";s:11:"url_rewrite";s:22:"undergraduate-programs";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:0:"";s:5:"title";s:22:"Undergraduate Programs";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:5480:"<ol>
+<li>Must have graduated, or to receive graduate status of their high school, successfully completed Grade 12 or other qualifications stated above.</li>
+<li>Optional Test scores
+<ul style="padding-left: 40px;">
+<li>TOEFL score of 60 (IBT) / 500 (PBT) or above</li>
+<li>IELTS score of 5.0 and above in overall bands with a validity of 2 years</li>
+<li>SAT 1 (Mathematics) score of 500 or above<br> <span class="textremark"><strong>Remark:</strong></span> The University will consider the applications with a TOEFL score of 60 (IBT)/ 500 (PBT) and above or an IELTS of 5.0 or above to be exempted from the English Placement test and English Intensive course(s). SAT1 (Mathematics) score of 500 or above are exempted from the mathematics Placement test and Mathematics Intensive course or Pre-Calculus .<br> Kindly specify the score in the Application form for admission and attach copies of the official score (original required at the time of registration).</li>
+</ul>
+</li>
+<li>Transfer students<br> The transfer of credits will be approved only under the following conditions:
+<p><br></p>
+<ul style="padding-left: 40px;">
+<li>Should have at least a GPA of 2.00 out of 4.00 scale;</li>
+<li>Diplomas of any sort do not qualify.</li>
+<li>The institution must have at least a standard 4-year degree completion</li>
+<li>The course was completed at an institution accredited by the Civil Service Commission;</li>
+<li>The course content is equivalent to that specified in the University’s curriculum;</li>
+<li>The course must have been taken within 5 years from the time of application;</li>
+<li>Only a course with an earned grade of “c” or higher in a general education course and an earned grade of “B” or higher in a professional core course will be considered as transfer credit depending on the dean’s final approval;</li>
+<li>A maximum of 70 credits can be transferred.</li>
+<li>If you qualify, please submit your official transcript, course description according to the transcript, your name, contact number, contact email, desired faculty to transfer.</li>
+<li>Transfer subject Fee 1,000 Baht/Subject</li>
+<li>Process 3 weeks and Admission officer will confirm with you via email and mobile phone.</li>
+</ul>
+</li>
+<li>For Albert Laurence School of Communication Arts, Majoring in Advertising, Public Relations, Performance Communication, New Media Communication;
+<ul style="padding-left: 40px;">
+<li>All applicants must take aptitude test.</li>
+<li>The students who pass exam must have the interview with the department.</li>
+</ul>
+</li>
+<li>For Albert Laurence School of Communication Arts, Majoring in Visual Communication Design and Generated Imagery;
+<ul style="padding-left: 40px;">
+<li>All applicants must take drawing and design test. The department will consider minimum score at 150 marks (out of 300 marks) or above in order to enter the program.</li>
+<li>Applicants who transfer from other institutions must submit portfolios to the Department Academic Committee before due date (last day to submit is the last day for admission) specified by the Office of Registrar.</li>
+<li>The result of the portfolios revision and entrance examination will be final. Any objection will not be accepted.</li>
+</ul>
+</li>
+<li>For ABAC School of Management, Majoring in Business Economics. Requirements for passing the placement tests of Assumption University:
+<ul style="padding-left: 40px;">
+<li>50% or above for Mathematics placement test .or</li>
+<li>Obtained SAT 1 (Mathematics) score of 500 or above or passed the Mathematics placement tests with score of 50% or above</li>
+</ul>
+</li>
+<li>For Bernadette de Lourdes School of Nursing Science. <span><span>Requirements for passing the placement tests of Assumption University:<br> </span></span>
+<p><br></p>
+<ul style="padding-left: 40px;">
+<li>Grade 12 or M.6 in Science Major with certificate issued by the Ministry of Education.</li>
+<li>Height is not less than 150 cm. and weight is not lower than 40 kg.</li>
+<li>Being healthy (normal result of chest X-ray and blood test for hepatitis B; HBsAG &amp; AntiHBs reports by the hospital physician)</li>
+<li>Clean record of criminal charges and free from accusation of misbehavior conduct and/ or discipline behavior.</li>
+<li>Passing the written examination and interview.</li>
+<li>English proficiency is required at the satisfactory level.</li>
+</ul>
+</li>
+<li>For Vincent Mary School of Engineering. <span>Requirements for passing the placement tests of Assumption University: </span>
+<ul style="padding-left: 40px;">
+<li>All applicants must take placement tests for Mathematics and Physics.</li>
+<li>Should have earned at least 3.00 grade point average with minimum score 25% or above in order the program</li>
+<li>Have height ranges of 165 cm. and above for male or 160 cm. for female.</li>
+<li>Medical certificate of at least Class 1 from Bangkok Hospital.</li>
+</ul>
+</li>
+<li>For Montfort del Rosario School of Architecture and Design. <span>Requirements for passing the placement tests of Assumption University: </span>
+<ul style="padding-left: 40px;">
+<li>Applicants need to sit for Aptitude test.</li>
+</ul>
+</li>
+<li>For ABAC School of Music. <span>Requirements for passing the placement tests of Assumption University: </span>
+<ul style="padding-left: 40px;">
+<li>Applicants need to do the theory paper exam at the same day of the performing audition.</li>
+</ul>
+</li>
+</ol>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:3:"112";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 08:17:13";s:16:"timestamp_update";s:19:"2019-01-04 11:29:37";}i:18;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"114";s:11:"url_rewrite";s:8:"why-abac";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509263684_1-org.jpg";s:5:"title";s:8:"Why ABAC";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:2063:"<div>
+<p><span style="color: #099ad1;"><strong>Wide range of degree and career paths</strong></span><br> Over 100 modern degree programs offered, AU degrees deliver the theory you need to be successful, with the practical experience that employers value.</p>
+<p><span style="color: #099ad1;"><strong>Outstanding locations</strong></span><br> Ideally located in the center of Southeast Asia.</p>
+<p><span style="color: #099ad1;"><strong>Academic excellence in teaching and support</strong></span><br> Our courses and academic standards have received many awards in Thailand and <a href="https://www.top10forex.net/top-forex-brokers-in-australia">International </a>Competitions such as the Most Trusted Brand 2011-2013 from Reader’s Digest Magazine, Thailand, Trust Mark from the Ministry of Commerce, etc.</p>
+<p><span style="color: #099ad1;"><strong>Facilities fit for the twenty-first century</strong></span><br> Outstanding study and IT facilities.</p>
+<p><span style="color: #099ad1;"><strong>Comparatively low fees and living costs</strong></span><br> Availability of reasonably-priced and well-located accommodations.</p>
+<p><span style="color: #099ad1;"><strong>Innovative and relevant</strong></span><br> Reputation as the First International University in Thailand, AU courses are continually revised and kept up to date.</p>
+<p><span style="color: #099ad1;"><strong>Public Service at the Heart of Experience</strong></span><br> Public Service is a requirement in the curriculum which will help you to care for and make an impact on society.</p>
+<p><span style="color: #099ad1;"><strong>High rate of graduate employment</strong></span><br> From the results of a survey, leading companies hire our graduates with higher salaries than graduates of other institutions.</p>
+<p><span style="color: #099ad1;"><strong>Global opportunities with a Global Network</strong></span><br> International study can give you a competitive edge for your future success by networking with our current students and alumni who come from around the world.</p>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-29 07:54:44";s:16:"timestamp_update";s:19:"2017-10-29 07:54:44";}i:19;O:8:"stdClass":23:{s:13:"article_db_id";s:3:"113";s:11:"url_rewrite";s:11:"scholarship";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509190975_1-org.jpg";s:5:"title";s:11:"Scholarship";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:491:"<p>For undergraduate students who have completed 50 credit hours and have maintained a Cumulative GPA of 3.85, they may apply for a full-tuition scholarship. Certain academic fees must still be paid, but tuition would be fully covered. Other scholarships should be sought through personal or business contacts at home, through government resources and public or private Foundations.</p>
+<p>visit here :</p>
+<p><a href="http://www.scholarship.au.edu/">http://www.scholarship.au.edu/</a></p>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-28 11:42:55";s:16:"timestamp_update";s:19:"2019-01-08 07:51:09";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:20;s:8:"row_data";N;}

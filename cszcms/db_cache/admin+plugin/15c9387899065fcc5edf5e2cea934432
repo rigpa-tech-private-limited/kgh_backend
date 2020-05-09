@@ -1,0 +1,489 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:20:{i:0;a:23:{s:13:"article_db_id";s:2:"88";s:11:"url_rewrite";s:23:"m-s-food-biotechnology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2018/1518256759_1-org.png";s:5:"title";s:25:"M.S. (Food Biotechnology)";s:7:"keyword";s:76:"Hua Mak Campus#Full-time, weekday#Joint Program with UC, Davis, USA#1-2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523566_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:865:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test<br>Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A, Type A1 : Thesis&nbsp;Only<br>- Plan A,&nbsp;Type A2 : Thesis + Coursework<br>- Plan B: Coursework + Independent Study</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Semester System:</span><br>2 Semesters/year</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 290,400 THB<br> Non-Thai: 312,900 THB<br> US$: 9,482</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">More Info</span> :<br>Line: @au_biotech<br>Website: www.biotech.au.edu</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"35";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:10:37";s:16:"timestamp_update";s:19:"2019-01-03 13:52:46";}i:1;a:23:{s:13:"article_db_id";s:2:"87";s:11:"url_rewrite";s:58:"llm-business-law-llm-commercial-law-double-degree-with-uwe";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726008_1-org.jpg";s:5:"title";s:66:"LLM. (Business Law) + LLM. (Commercial Law) Double Degree with UWE";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523477_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:699:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 39 credits</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 655,800 THB<br> Non-Thai: 673,300 THB<br> US$: 20,403</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"34";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:09:17";s:16:"timestamp_update";s:19:"2019-01-03 13:51:17";}i:2;a:23:{s:13:"article_db_id";s:2:"86";s:11:"url_rewrite";s:40:"ll-m-business-law-international-program-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726043_1-org.jpg";s:5:"title";s:46:"LL. M. (Business Law), (International Program)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523211_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:795:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 39</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 383,400 THB<br> Non-Thai: 405,900 THB<br> US$: 13,530</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"34";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:08:30";s:16:"timestamp_update";s:19:"2019-01-03 13:46:51";}i:3;a:23:{s:13:"article_db_id";s:2:"85";s:11:"url_rewrite";s:32:"ll-m-business-law-thai-programs-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726078_1-org.jpg";s:5:"title";s:37:"LL.M. (Business Law), (Thai Programs)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523176_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:794:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 39</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 227,900 THB<br> Non-Thai: 250,400 THB<br> US$: 7,588</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"34";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:07:41";s:16:"timestamp_update";s:19:"2019-01-03 13:46:16";}i:4;a:23:{s:13:"article_db_id";s:2:"84";s:11:"url_rewrite";s:29:"ph-d-philosophy-and-religion-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725653_1-org.jpg";s:5:"title";s:31:"Ph.D. (Philosophy and Religion)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523034_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:708:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 72</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 335,600 THB<br> Non-Thai: 363,100 THB<br> US$ : 11,003</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:06:51";s:16:"timestamp_update";s:19:"2019-01-03 13:43:54";}i:5;a:23:{s:13:"article_db_id";s:2:"83";s:11:"url_rewrite";s:28:"m-a-philosophy-and-religion-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725716_1-org.jpg";s:5:"title";s:30:"M.A. (Philosophy and Religion)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522996_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:676:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 247,400 THB<br> Non-Thai: 259,900 THB<br> US$ : 7,875</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:05:54";s:16:"timestamp_update";s:19:"2019-01-03 13:43:16";}i:6;a:23:{s:13:"article_db_id";s:2:"82";s:11:"url_rewrite";s:27:"ph-d-counseling-psychology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725747_1-org.jpg";s:5:"title";s:30:"Ph. D. (Counseling Psychology)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522871_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:589:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 9 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated fees</span> :<br> Thai: 590,600 THB<br> Non-Thai: 618,100 THB<br> US$ 18,731</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:04:58";s:16:"timestamp_update";s:19:"2019-01-03 13:41:11";}i:7;a:23:{s:13:"article_db_id";s:2:"81";s:11:"url_rewrite";s:26:"m-s-counseling-psychology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725788_1-org.jpg";s:5:"title";s:28:"M.S. (Counseling Psychology)";s:7:"keyword";s:39:"Hua Mak Campus#Part-time,weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522733_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:793:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 36</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 229,400 THB<br> Non-Thai: 251,900 THB<br> US$ 7,633</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:04:04";s:16:"timestamp_update";s:19:"2019-01-03 13:38:53";}i:8;a:23:{s:13:"article_db_id";s:2:"80";s:11:"url_rewrite";s:28:"ph-d-educational-leadership-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725841_1-org.jpg";s:5:"title";s:30:"Ph.D. (Educational Leadership)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522610_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:591:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 554,500 THB<br> Non-Thai : 572,000 THB<br> US$ : 17,332</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:00:48";s:16:"timestamp_update";s:19:"2019-01-03 13:36:50";}i:9;a:23:{s:13:"article_db_id";s:2:"79";s:11:"url_rewrite";s:32:"m-ed-curriculum-and-instruction-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725913_1-org.jpg";s:5:"title";s:35:"M. Ed. (Curriculum and Instruction)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522249_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:671:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Thai: 226,400 THB<br>Non-Thai: 248,900 THB<br>US$ 7,582</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:59:59";s:16:"timestamp_update";s:19:"2019-01-03 13:30:49";}i:10;a:23:{s:13:"article_db_id";s:2:"78";s:11:"url_rewrite";s:32:"m-ed-educational-administration-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725961_1-org.jpg";s:5:"title";s:35:"M. Ed. (Educational Administration)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:676:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 199,400 THB<br> Non-Thai: 221,900 THB<br> US$ : 6,724</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:59:10";s:16:"timestamp_update";s:19:"2017-11-20 10:39:12";}i:11;a:23:{s:13:"article_db_id";s:2:"77";s:11:"url_rewrite";s:24:"m-s-financial-economics-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725518_1-org.jpg";s:5:"title";s:26:"M.S. (Financial Economics)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521749_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:683:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English, Interview and Written Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 260,400 THB<br> Non-Thai: 282,900 THB<br> US$ : 8,573</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"32";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:57:48";s:16:"timestamp_update";s:19:"2019-01-03 13:22:29";}i:12;a:23:{s:13:"article_db_id";s:2:"76";s:11:"url_rewrite";s:28:"m-s-supply-chain-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725553_1-org.jpg";s:5:"title";s:30:"M.S. (Supply Chain Management)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521666_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:675:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 236,400 THB<br>Non-Thai: 258,900 THB<br> US$ : 7,845</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"32";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:56:36";s:16:"timestamp_update";s:19:"2019-01-03 13:21:06";}i:13;a:23:{s:13:"article_db_id";s:2:"75";s:11:"url_rewrite";s:27:"m-s-information-technology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510661116_1-org.jpg";s:5:"title";s:29:"M.S. (Information Technology)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, Weekday#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546515562_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:687:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai : 240,400 THB<br> Non-Thai : 2,62,900 THB<br> US$ : 7,967</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"31";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:53:55";s:16:"timestamp_update";s:19:"2019-01-03 12:39:56";}i:14;a:23:{s:13:"article_db_id";s:2:"74";s:11:"url_rewrite";s:21:"m-s-computer-science-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510661071_1-org.jpg";s:5:"title";s:23:"M.S. (Computer Science)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:677:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 240,400 THB<br> Non-Thai : 262,900 THB<br> US$ : 7,967</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"31";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:53:05";s:16:"timestamp_update";s:19:"2017-11-20 07:46:53";}i:15;a:23:{s:13:"article_db_id";s:2:"73";s:11:"url_rewrite";s:29:"m-ed-teaching-and-technology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726469_1-org.jpg";s:5:"title";s:31:"M. Ed (Teaching and Technology)";s:7:"keyword";s:30:"Distance Learning#2 - 2.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1227:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br>- Track 1 : 38 credits<br>- Track 2 : 45 credits</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>3,000 THB/credit</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Track 1<br>- Plan A : Thesis option<br> Thai: 230,100 THB<br> Non-Thai: 233,900 THB<br> US$ 7,545<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 225,600 THB<br> Non-Thai: 238,100 THB<br> US$: 7,680<br>Track 2<br>- Plan A : Thesis option <br> Thai: 266,700 THB<br> Non-Thai: 279,200 THB<br> US$: 9,006<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 262,200 THB<br> Non-Thai: 274,700THB<br> US$: 8,861</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"37";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:52:04";s:16:"timestamp_update";s:19:"2017-11-20 11:46:29";}i:16;a:23:{s:13:"article_db_id";s:2:"72";s:11:"url_rewrite";s:42:"m-s-information-technology-and-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726501_1-org.jpg";s:5:"title";s:45:"M.S. (Information Technology and Management) ";s:7:"keyword";s:24:"Distance Learning#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523993_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:825:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>- Plan A : Thesis option<br> Thai: 255,800 THB<br> Non-Thai: 268,300 THB<br> US$ 9,252<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 251,300 THB<br> Non-Thai: 263,800 THB<br> US$ 9,097</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"37";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:51:14";s:16:"timestamp_update";s:19:"2019-01-03 13:59:53";}i:17;a:23:{s:13:"article_db_id";s:2:"71";s:11:"url_rewrite";s:15:"m-s-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726589_1-org.jpg";s:5:"title";s:17:"M.S. (Management)";s:7:"keyword";s:26:"Distance Learning#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523853_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:828:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>- Plan A : Thesis option<br> Thai: 255,800 THB<br> Non-Thai: 268,300 THB<br> US$ 9,252<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 251,300 THB<br> Non-Thai: 263,800 THB<br> US$ 9,097</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"37";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:50:20";s:16:"timestamp_update";s:19:"2019-01-03 13:57:33";}i:18;a:23:{s:13:"article_db_id";s:2:"70";s:11:"url_rewrite";s:30:"m-a-english-language-teaching-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726261_1-org.jpg";s:5:"title";s:32:"M.A. (English Language Teaching)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521946_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:675:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 266,300 THB<br> Non-Thai: 288,800 THB<br> US$: 8,250</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:45:49";s:16:"timestamp_update";s:19:"2019-01-03 13:25:46";}i:19;a:23:{s:13:"article_db_id";s:2:"67";s:11:"url_rewrite";s:39:"mba-hospitality-and-tourism-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658037_1-org.jpg";s:5:"title";s:40:"MBA (Hospitality and Tourism Management)";s:7:"keyword";s:62:"Hua Mak Campus#Part-time, weekend#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:41:"https://www.youtube.com/embed/ZhTa1dp6Gqw";s:13:"brochure_path";s:21:"2019/1546515108_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:770:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination)<br>- Minimum Cummulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 500,000 THB <br> Non-Thai : 550,000 THB<br> US$ :&nbsp;16,667</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:42:42";s:16:"timestamp_update";s:19:"2019-03-22 06:58:01";}}s:13:"result_object";a:20:{i:0;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"88";s:11:"url_rewrite";s:23:"m-s-food-biotechnology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2018/1518256759_1-org.png";s:5:"title";s:25:"M.S. (Food Biotechnology)";s:7:"keyword";s:76:"Hua Mak Campus#Full-time, weekday#Joint Program with UC, Davis, USA#1-2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523566_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:865:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test<br>Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A, Type A1 : Thesis&nbsp;Only<br>- Plan A,&nbsp;Type A2 : Thesis + Coursework<br>- Plan B: Coursework + Independent Study</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Semester System:</span><br>2 Semesters/year</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 290,400 THB<br> Non-Thai: 312,900 THB<br> US$: 9,482</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">More Info</span> :<br>Line: @au_biotech<br>Website: www.biotech.au.edu</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"35";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:10:37";s:16:"timestamp_update";s:19:"2019-01-03 13:52:46";}i:1;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"87";s:11:"url_rewrite";s:58:"llm-business-law-llm-commercial-law-double-degree-with-uwe";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726008_1-org.jpg";s:5:"title";s:66:"LLM. (Business Law) + LLM. (Commercial Law) Double Degree with UWE";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523477_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:699:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 39 credits</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 655,800 THB<br> Non-Thai: 673,300 THB<br> US$: 20,403</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"34";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:09:17";s:16:"timestamp_update";s:19:"2019-01-03 13:51:17";}i:2;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"86";s:11:"url_rewrite";s:40:"ll-m-business-law-international-program-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726043_1-org.jpg";s:5:"title";s:46:"LL. M. (Business Law), (International Program)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523211_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:795:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 39</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 383,400 THB<br> Non-Thai: 405,900 THB<br> US$: 13,530</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"34";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:08:30";s:16:"timestamp_update";s:19:"2019-01-03 13:46:51";}i:3;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"85";s:11:"url_rewrite";s:32:"ll-m-business-law-thai-programs-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726078_1-org.jpg";s:5:"title";s:37:"LL.M. (Business Law), (Thai Programs)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523176_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:794:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 39</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 227,900 THB<br> Non-Thai: 250,400 THB<br> US$: 7,588</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"34";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:07:41";s:16:"timestamp_update";s:19:"2019-01-03 13:46:16";}i:4;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"84";s:11:"url_rewrite";s:29:"ph-d-philosophy-and-religion-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725653_1-org.jpg";s:5:"title";s:31:"Ph.D. (Philosophy and Religion)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523034_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:708:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 72</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 335,600 THB<br> Non-Thai: 363,100 THB<br> US$ : 11,003</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:06:51";s:16:"timestamp_update";s:19:"2019-01-03 13:43:54";}i:5;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"83";s:11:"url_rewrite";s:28:"m-a-philosophy-and-religion-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725716_1-org.jpg";s:5:"title";s:30:"M.A. (Philosophy and Religion)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522996_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:676:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 247,400 THB<br> Non-Thai: 259,900 THB<br> US$ : 7,875</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:05:54";s:16:"timestamp_update";s:19:"2019-01-03 13:43:16";}i:6;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"82";s:11:"url_rewrite";s:27:"ph-d-counseling-psychology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725747_1-org.jpg";s:5:"title";s:30:"Ph. D. (Counseling Psychology)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522871_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:589:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 9 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated fees</span> :<br> Thai: 590,600 THB<br> Non-Thai: 618,100 THB<br> US$ 18,731</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:04:58";s:16:"timestamp_update";s:19:"2019-01-03 13:41:11";}i:7;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"81";s:11:"url_rewrite";s:26:"m-s-counseling-psychology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725788_1-org.jpg";s:5:"title";s:28:"M.S. (Counseling Psychology)";s:7:"keyword";s:39:"Hua Mak Campus#Part-time,weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522733_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:793:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 36</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 229,400 THB<br> Non-Thai: 251,900 THB<br> US$ 7,633</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:04:04";s:16:"timestamp_update";s:19:"2019-01-03 13:38:53";}i:8;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"80";s:11:"url_rewrite";s:28:"ph-d-educational-leadership-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725841_1-org.jpg";s:5:"title";s:30:"Ph.D. (Educational Leadership)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#3 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522610_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:591:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 554,500 THB<br> Non-Thai : 572,000 THB<br> US$ : 17,332</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 11:00:48";s:16:"timestamp_update";s:19:"2019-01-03 13:36:50";}i:9;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"79";s:11:"url_rewrite";s:32:"m-ed-curriculum-and-instruction-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725913_1-org.jpg";s:5:"title";s:35:"M. Ed. (Curriculum and Instruction)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546522249_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:671:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Thai: 226,400 THB<br>Non-Thai: 248,900 THB<br>US$ 7,582</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:59:59";s:16:"timestamp_update";s:19:"2019-01-03 13:30:49";}i:10;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"78";s:11:"url_rewrite";s:32:"m-ed-educational-administration-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725961_1-org.jpg";s:5:"title";s:35:"M. Ed. (Educational Administration)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:676:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 199,400 THB<br> Non-Thai: 221,900 THB<br> US$ : 6,724</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:59:10";s:16:"timestamp_update";s:19:"2017-11-20 10:39:12";}i:11;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"77";s:11:"url_rewrite";s:24:"m-s-financial-economics-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725518_1-org.jpg";s:5:"title";s:26:"M.S. (Financial Economics)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521749_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:683:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English, Interview and Written Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 260,400 THB<br> Non-Thai: 282,900 THB<br> US$ : 8,573</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"32";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:57:48";s:16:"timestamp_update";s:19:"2019-01-03 13:22:29";}i:12;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"76";s:11:"url_rewrite";s:28:"m-s-supply-chain-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510725553_1-org.jpg";s:5:"title";s:30:"M.S. (Supply Chain Management)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521666_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:675:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 236,400 THB<br>Non-Thai: 258,900 THB<br> US$ : 7,845</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"32";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:56:36";s:16:"timestamp_update";s:19:"2019-01-03 13:21:06";}i:13;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"75";s:11:"url_rewrite";s:27:"m-s-information-technology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510661116_1-org.jpg";s:5:"title";s:29:"M.S. (Information Technology)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, Weekday#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546515562_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:687:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai : 240,400 THB<br> Non-Thai : 2,62,900 THB<br> US$ : 7,967</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"31";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:53:55";s:16:"timestamp_update";s:19:"2019-01-03 12:39:56";}i:14;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"74";s:11:"url_rewrite";s:21:"m-s-computer-science-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510661071_1-org.jpg";s:5:"title";s:23:"M.S. (Computer Science)";s:7:"keyword";s:48:"Hua Mak Campus#Part-time, weekday/weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:677:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 240,400 THB<br> Non-Thai : 262,900 THB<br> US$ : 7,967</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"31";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:53:05";s:16:"timestamp_update";s:19:"2017-11-20 07:46:53";}i:15;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"73";s:11:"url_rewrite";s:29:"m-ed-teaching-and-technology-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726469_1-org.jpg";s:5:"title";s:31:"M. Ed (Teaching and Technology)";s:7:"keyword";s:30:"Distance Learning#2 - 2.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1227:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br>- Track 1 : 38 credits<br>- Track 2 : 45 credits</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>3,000 THB/credit</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Track 1<br>- Plan A : Thesis option<br> Thai: 230,100 THB<br> Non-Thai: 233,900 THB<br> US$ 7,545<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 225,600 THB<br> Non-Thai: 238,100 THB<br> US$: 7,680<br>Track 2<br>- Plan A : Thesis option <br> Thai: 266,700 THB<br> Non-Thai: 279,200 THB<br> US$: 9,006<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 262,200 THB<br> Non-Thai: 274,700THB<br> US$: 8,861</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"37";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:52:04";s:16:"timestamp_update";s:19:"2017-11-20 11:46:29";}i:16;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"72";s:11:"url_rewrite";s:42:"m-s-information-technology-and-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726501_1-org.jpg";s:5:"title";s:45:"M.S. (Information Technology and Management) ";s:7:"keyword";s:24:"Distance Learning#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523993_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:825:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>- Plan A : Thesis option<br> Thai: 255,800 THB<br> Non-Thai: 268,300 THB<br> US$ 9,252<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 251,300 THB<br> Non-Thai: 263,800 THB<br> US$ 9,097</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"37";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:51:14";s:16:"timestamp_update";s:19:"2019-01-03 13:59:53";}i:17;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"71";s:11:"url_rewrite";s:15:"m-s-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726589_1-org.jpg";s:5:"title";s:17:"M.S. (Management)";s:7:"keyword";s:26:"Distance Learning#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546523853_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:828:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>- Plan A : Thesis option<br> Thai: 255,800 THB<br> Non-Thai: 268,300 THB<br> US$ 9,252<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br> Thai: 251,300 THB<br> Non-Thai: 263,800 THB<br> US$ 9,097</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"37";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:50:20";s:16:"timestamp_update";s:19:"2019-01-03 13:57:33";}i:18;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"70";s:11:"url_rewrite";s:30:"m-a-english-language-teaching-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726261_1-org.jpg";s:5:"title";s:32:"M.A. (English Language Teaching)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekend#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521946_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:675:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Plan A : Thesis option<br>- Plan B : Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 266,300 THB<br> Non-Thai: 288,800 THB<br> US$: 8,250</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:45:49";s:16:"timestamp_update";s:19:"2019-01-03 13:25:46";}i:19;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"67";s:11:"url_rewrite";s:39:"mba-hospitality-and-tourism-management-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510658037_1-org.jpg";s:5:"title";s:40:"MBA (Hospitality and Tourism Management)";s:7:"keyword";s:62:"Hua Mak Campus#Part-time, weekend#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:41:"https://www.youtube.com/embed/ZhTa1dp6Gqw";s:13:"brochure_path";s:21:"2019/1546515108_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:770:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination)<br>- Minimum Cummulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 500,000 THB <br> Non-Thai : 550,000 THB<br> US$ :&nbsp;16,667</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:42:42";s:16:"timestamp_update";s:19:"2019-03-22 06:58:01";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:20;s:8:"row_data";N;}

@@ -1,0 +1,233 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:7:{i:0;a:23:{s:13:"article_db_id";s:1:"7";s:11:"url_rewrite";s:17:"president-welcome";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507103090_1-org.jpg";s:5:"title";s:19:"President's Welcome";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:2175:"<section>
+<h4>Message from the President</h4>
+<p>Assumption University has been providing education to the youth of the Thai and other nations since 1969. The University employs English as the official medium of instruction and has formal links and cooperation agreements with a large network of international institutions of higher learning for scholastic exchange and research programs.</p>
+<p>The University is administered by the Montfort Brothers of St. Gabriel, a worldwide Catholic Religious Order devoted to education and philanthropic activities. The Congregation operates 15 educational institutions in Thailand.</p>
+<p>The University has a student body of about 19,870 including a fairly large complement of foreign students drawn from 75 countries of the world. It also has a high caliber faculty, a truly international community of scholars and professionals representing diverse academic disciplines, different fields of business and many government organs and these arrangements help considerably in bringing students into close touch with pragmatic aspects of life.</p>
+<p>The University is fully accredited and supervised by the Office of the Commission on Higher Education, the Ministry of Education and its graduates enjoy the privileges accorded to State University graduates. Its academic standards are accepted by the Civil Service Commission of Thailand. Assumption University is recognized in the U.S.A. and other countries and transfer of credits from the University is accepted by many foreign universities. AU Graduates can pursue advanced degrees anywhere in the world.</p>
+<p>The administrators fully appreciate that it is the function of a university to contribute actively to the sustainable development. It is the most important factor in economic and social growth, determining the success and failure of businesses. Thus we consistently pursue two main goals, namely, first to preserve, refine and advance knowledge through imaginative scholarship and second, to transmit that knowledge to our students through effective teaching and dissemination.</p>
+<h6>Rev. Bro. Bancha Saenghiran, <br>f.s.g. Ph. D. <br>President</h6>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 13:14:50";s:16:"timestamp_update";s:19:"2019-05-05 15:43:45";}i:1;a:23:{s:13:"article_db_id";s:1:"8";s:11:"url_rewrite";s:10:"philosophy";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106436_1-org.jpg";s:5:"title";s:10:"Philosophy";s:7:"keyword";s:10:"Philosophy";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:10:"Philosophy";s:7:"content";s:516:"<section>
+<p>In loyalty to its Christian mission, Assumption University stands for</p>
+<ul>
+<li>the inculcation of respect for the three institutions of the Nation: Religion, Country, the King and a democratic way of life.</li>
+<li>the belief that a man justifies himself and his existence by the nobility of his work: <strong>LABOR OMNIA VINCIT</strong></li>
+<li>the commitment to be a light that leads men towards the true source of all knowledge and life: <strong>LUX VERITAS</strong></li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:10:36";s:16:"timestamp_update";s:19:"2017-10-04 14:10:36";}i:2;a:23:{s:13:"article_db_id";s:1:"9";s:11:"url_rewrite";s:23:"objectives-and-policies";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106549_1-org.jpg";s:5:"title";s:23:"Objectives and Policies";s:7:"keyword";s:23:"Objectives and Policies";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:23:"Objectives and Policies";s:7:"content";s:740:"<section>
+<p>Assumption University exists for the main purpose of serving the nation by providing scientific and humanistic knowledge, particularly in the business education and management science through research and interdisciplinary approaches.</p>
+<p>To this end it aims at forming intellectually competent graduates who :</p>
+<ul>
+<li>are morally sound, committed to acting justly, and open to further growth.&nbsp;</li>
+<li>appreciate freedom of expression, imbibe right attitudes and ideologies through a carefully integrated curriculum of Ethics, Science, Languages and Business Management.&nbsp;</li>
+<li>achieve academic excellence through hard work, critical thinking, and effective decision-making.</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:12:29";s:16:"timestamp_update";s:19:"2017-10-04 14:12:29";}i:3;a:23:{s:13:"article_db_id";s:2:"10";s:11:"url_rewrite";s:7:"symbols";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106666_1-org.jpg";s:5:"title";s:7:"Symbols";s:7:"keyword";s:7:"Symbols";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3391:"<section>
+<h4>Sedes Sapientiae : The Seat of Wisdom</h4>
+<p align="justify">It is a tradition handed down for centuries that Christians venerate the Mother of Christ as "the Seat of Wisdom". (Sedes Sapientiae)</p>
+<p align="justify"><img src="/images/stories/abac/sedes1.gif" alt="" align="right" border="0">According to Christian belief, Christ is the wisdom seated on the Throne. This implies, on the one hand, that the Mother of Christ is the Dwelling Place of the Supreme Wisdom of all science.</p>
+<p align="justify">On the other hand, the university is the Alma Mater, or our Mother who is also the "Dwelling Place of Knowledge". In this context, "Assumption" which, besides its religious meaning in glorification of the Mother of Christ, has yet another meaning in Thai, namely" the Abode of Abiding Knowledge" Rightly, "Assumption University" is the Seat of Wisdom.</p>
+<h4>Ashoka Tree</h4>
+<p align="justify"><br>The Assumption University has adopted the Ashoka Tree as its symbol. The Ashoka Tree has as its scientific name "<i>Polyalthea longifolia</i> Benth &amp; Hook. f. var. <i>pandurata</i>" of a Anonanceae Family, a native plant of India and Sri Lanka.</p>
+<p>The Rationale behind the choice of the Ashoka Tree</p>
+<p align="justify"><img src="/images/stories/abac/ashokatree.gif" alt="" align="right" border="0">The reasons why the University has taken it as its symbol are the following:</p>
+<ol>
+<li>
+<div align="justify">The Ashoka Tree is an ever-green tree. This fact signifies freshness, coolness, and constancy, unwavering with the turning of seasons and the changes of time. Thus, it means that the University is determined to fulfill its mission, giving emphasis to academic excellence together with quality and virtues.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree has a most beautiful form, majestically tall, like a stupa.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree is a tree with a beneficial name, because it derives from an Indian word "Ashok", after the name of King Ashok, the Great, the most well known king during Buddha's time, full of wisdom both in the secular and religious realms.</div>
+</li>
+<li>
+<div align="justify">Lastly, it is the tree first brought from India into Thailand in 1957 by the St.Gabriel Foundation of Thailand, patrons of this university (by Bro. John Mary). This first tree was planted in the compound of St. Gabriel's College, and the Forestry Department of Thailand named it "St. Gabriel Ashoka" on 15 th December 1969. Botanic Features of the Ashoka Tree</div>
+</li>
+</ol>
+<p align="justify">The Ashoka Tree is an ever green tree, of narrow-top can form and majestically tall. The bark is grey; its color becomes darker near the extreme top of the trunk, covered with leaves from the bottom to the top, so thick that the trunk's characteristics can hardly be clearly visible. Its leaves are lanceolate, about 0.5-0.7 inches wide, and 4-9 inches long. The widest part of the leaf is near the base; its rim is smooth, but twisted into a tide-like form. Its flower is white greenish shade, without odor, about 1.5-1.75 inches wide. Its fruit is ellipsoid, about 0.5 inches wide and 0.75 inches long, with smooth shiny skin; its color turns yellow, red, then finally black, when it is ripe. Normally, the ripening of the fruit OCCURS between July and August every year.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:14:26";s:16:"timestamp_update";s:19:"2017-10-31 06:11:27";}i:4;a:23:{s:13:"article_db_id";s:2:"11";s:11:"url_rewrite";s:6:"vision";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107028_1-org.png";s:5:"title";s:6:"Vision";s:7:"keyword";s:6:"Vision";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1346:"<section>
+<p><g class="gr_ gr_14 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="14" data-gr-id="14">Assumption</g> University of Thailand envisions itself as:&nbsp;</p>
+<ul>
+<li>
+<div align="left">an international community of scholars,</div>
+</li>
+<li>
+<div align="left">enlivened by Christian inspiration,</div>
+</li>
+<li>
+<div align="left">engaged in the pursuit of Truth and Knowledge,</div>
+</li>
+<li>
+<div align="left">serving human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</div>
+</li>
+</ul>
+<h4>Vision 2000 for The Assumption University Graduates</h4>
+<p align="left"><g class="gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="16" data-gr-id="16">Assumption</g> University of Thailand envisions its graduates as:</p>
+<ul>
+<li>
+<div align="left">healthy and open-minded persons, characterized by personal integrity, an independent mind, and creative thinking,</div>
+</li>
+<li>
+<div align="left">professionally competent, willing to exercise responsible leadership for economic progress in a just society,</div>
+</li>
+<li>
+<div align="left">able to communicate effectively with people from other nations and to participate in globalization.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:20:28";s:16:"timestamp_update";s:19:"2018-12-19 11:09:13";}i:5;a:23:{s:13:"article_db_id";s:2:"12";s:11:"url_rewrite";s:22:"history-and-background";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107177_1-org.jpg";s:5:"title";s:22:"History and Background";s:7:"keyword";s:22:"History and Background";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3218:"<section>
+<p>Assumption University was initially originated from Assumption Commercial College in 1969 as an autonomous higher education institution under the name of Assumption School of Business. In 1972, with the approval of the Ministry of Education, it was officially established as Assumption Business Administration College or ABAC. In May 1975, it was accredited by the Ministry of University Affairs. In 1990, it was granted new status as "Assumption University" by the Ministry of University Affairs.</p>
+<p>The University is a non-profit institution administered by the Brothers of St. Gabriel, a worldwide Catholic religious order, founded in France in 1705 by St. Louis Marie De Montfort, devoted to education and philanthropic activities. The congregation has been operating many educational institutions in Thailand since 1901.</p>
+<p>The University is an international community of scholars, enlivened by Christian inspiration, engaged in the pursuit of truth and knowledge, serving the human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</p>
+<h4>Background of Assumption University</h4>
+<h6>St.Louis Marie D' Montfort</h6>
+<p align="left">A Pilgrim at The Tomb of St. Louis Marie De Montfort</p>
+<p align="left">"You know that I am very indebted to this Saint and to his <i>Treatise on True Devotion to the Blessed Virgin</i>. Today because my pastoral visit has for the most part as its theme the sacrament of baptism, I would like to highlight the fact that, in the mind of St. Louis, the whole spiritual life flows directly from the sacrament of holy baptism as is shown by an important passage of the Act of Consecration to Jesus by the hands of Mary, written in his own precise wording".</p>
+<p class="bodycontent" align="left">These are the words spoken by the Pope in the parish church of Saint-Laurent-sur-Sèvre, during his visit on 19th September 1996 to the tombs of Saint Louis Marie de Montfort and Blessed Marie Louise Trichet. Several times before this, the Pope had recalled that his reading of the <i>True Devotion</i> had been a decisive turning-point in his life, and that Montfort's spirituality had brought him to understand that genuine Marian devotion, far from distracting us from Christ, is on the contrary rooted in the mystery of Christ and can only lead towards him.</p>
+<p>Three congregations trace their foundation to Saint Louis Marie de Montfort namely:</p>
+<ul>
+<li>
+<div align="left">The Daughters of Wisdom, live out the loving search of Wisdom for wounded humanity through a variety of ministries, especially among those whom the world rejects and those alienated from the Church;</div>
+</li>
+<li>
+<div align="left">The Company of Mary, popularly know today as the Montfort Missionaries, devoting themselves to priestly ministry and preaching</div>
+</li>
+<li>
+<div align="left"><span class="bodycontent">The Brothers of the Christian Instruction of St. Gabriel, popularly known today as Montfort Brothers of St. Gabriel, formerly known as the Community of the Holy Spirit, dedicating themselves to Christian education and working among the underprivileged</span>.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:22:57";s:16:"timestamp_update";s:19:"2017-10-31 06:17:15";}i:6;a:23:{s:13:"article_db_id";s:2:"13";s:11:"url_rewrite";s:12:"coat-of-arms";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2018/1546237484_1-org.png";s:5:"title";s:12:"Coat of Arms";s:7:"keyword";s:12:"Coat of Arms";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:4675:"<section>
+<p>The coat of arms of the Brothers of St. Gabriel, which is AU's logo, is shown and engraved on many places but the biggest and noticeable one is on the wall at a stairway in the Hall of Fame.</p>
+<p>It depicts four signs with meaningful content: the ship in the sea symbolizing the sea of life with difficulties that we have to struggle through; the DS Cross which represents Divinity and Science; A.M. and the white lilies to remind students to love their institution as their Alma Mater (Dear Mother) and be as pure in their thoughts, words and mind as the white lilies; and the star and the boat which symbolizes spiritual hope. The four symbols are framed by a shield under which is AU's motto "LABOR OMNIA VINCIT", which means: We can overcome all difficulties through working hard.</p>
+<h4>Brothers of st.Gabriel</h4>
+<p align="left">The name "the Brothers of St.Gabriel" reminds us of those Brothers who sacrificed their lives, and their mother's land, in order to help educate and develop our Thai children to grow in the right path.</p>
+<p align="left">"LABOR OMNIA VINCIT" is the motto of our university. "We can overcome all difficulties through working hard," or, as the Latin proverb says : "Work conquers all things,"</p>
+<h4>"Life-Boat" Symbolized By "The Ship in The Sea"</h4>
+<p align="left">"The ship in the Sea" symbolizes that we have to keep on struggling and facing different difficulties in the sea of life, just like the ship or the boat that fights stormy wind, steamy sun and rainy sea in order NOT to capsize in the middle of the sea. This should always remind us that "Life is a Struggle" or "To Live is to Struggle" against the problems and difficulties and not to give up.</p>
+<h4>"DS" (read "D and S") Cross In The Middle With The Cross</h4>
+<p align="left">"D" or Divinity represents "Religion". We all need religion in life and mind. The Cross is the symbol of "love" and sacrifice "just as Jesus sacrificed his life for our love and he redeemed our sins as he said: "There is no other love greater than sacrificing our life for others."</p>
+<p align="left">"S" or "Science" means "Knowledge," which is the root of man's ability to reason. Everyone should always aim at gaining more knowledge. the more we learn about mundane knowledge, the more we should also learn about "Dharma" or religious, ethical virtues. Moreover, D|S also comes from the French phrase, "Dieu Seul," which means "ALL WE DO IS FOR THE GRACE OF GOD ONLY." It is to remind us of St. Louis Marie de Montfort, the founding Father of the Brothers of St. Gabriel's motto. With this powerful motto, we have the will to work without yielding to difficulties, at studies as well as at work. We all uphold it up to this day.</p>
+<h4>A.M. and The White Lilies</h4>
+<p align="left">"A.M." is abbreviated from a Latin word, "ALMA MATER," meaning literally," Dear Mother," in Latin and indicating " MOTHER COLLEGE," which symbolizes that our institution is like our "Alma Mater", our own birth place and as a part of our own families. We should love our institution as much as we should love our own parents. Moreover, "A.M" is also abbreviated from "AVE MARIA" (in Latin), the name of Jesus' Mother. This means that we should love our own Mother with our heart and soul. And the beautiful snow-white lilies are symbols to remind us that we should be clean and sincere with all our thoughts, words and minds, wherever we are.</p>
+<h4>The Star and The Man In a Boat</h4>
+<p align="left">"The Star and the Boat" symbolizes "Spiritual Hope", meaning that religion is "the light of Dharma or Absolute Truth" and all the knowledge or sciences we have learned from the institution is "the Light of the Intelligence". Altogether they keep conduct and intelligence on track so we are not lost or capsized in the middle of the sea of life. "The man in the boat "reflects us, ourselves, rowing or guiding our own "boat of life."</p>
+<h4>"The Shield" That Frames The "Four Symbols"</h4>
+<p align="left">The "Shield" that frames the "Four Symbols" is the "COAT OF ARMS" which stands for "HONOUR," or "PRIDE and DIGNITY". It also represents the HONOUR,DIGNITY, PRIDE AND PRAISE that our institution has received from the King who reigns over the Kingdom.</p>
+<h4>The Olive Branches</h4>
+<p align="left">The wreath of the "Olive Branches" stands for "Victory" or "Success."(In ancient times, in Greek History, the athletic winner received a wreath of olive branches from the king) Or, this represents "a wreath of high honour" to remind us that we should do good deeds to uphold the honour and fame of our beloved institution or "ALMA MATER" forever.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:25:58";s:16:"timestamp_update";s:19:"2018-12-31 06:24:44";}}s:13:"result_object";a:7:{i:0;O:8:"stdClass":23:{s:13:"article_db_id";s:1:"7";s:11:"url_rewrite";s:17:"president-welcome";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507103090_1-org.jpg";s:5:"title";s:19:"President's Welcome";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:2175:"<section>
+<h4>Message from the President</h4>
+<p>Assumption University has been providing education to the youth of the Thai and other nations since 1969. The University employs English as the official medium of instruction and has formal links and cooperation agreements with a large network of international institutions of higher learning for scholastic exchange and research programs.</p>
+<p>The University is administered by the Montfort Brothers of St. Gabriel, a worldwide Catholic Religious Order devoted to education and philanthropic activities. The Congregation operates 15 educational institutions in Thailand.</p>
+<p>The University has a student body of about 19,870 including a fairly large complement of foreign students drawn from 75 countries of the world. It also has a high caliber faculty, a truly international community of scholars and professionals representing diverse academic disciplines, different fields of business and many government organs and these arrangements help considerably in bringing students into close touch with pragmatic aspects of life.</p>
+<p>The University is fully accredited and supervised by the Office of the Commission on Higher Education, the Ministry of Education and its graduates enjoy the privileges accorded to State University graduates. Its academic standards are accepted by the Civil Service Commission of Thailand. Assumption University is recognized in the U.S.A. and other countries and transfer of credits from the University is accepted by many foreign universities. AU Graduates can pursue advanced degrees anywhere in the world.</p>
+<p>The administrators fully appreciate that it is the function of a university to contribute actively to the sustainable development. It is the most important factor in economic and social growth, determining the success and failure of businesses. Thus we consistently pursue two main goals, namely, first to preserve, refine and advance knowledge through imaginative scholarship and second, to transmit that knowledge to our students through effective teaching and dissemination.</p>
+<h6>Rev. Bro. Bancha Saenghiran, <br>f.s.g. Ph. D. <br>President</h6>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 13:14:50";s:16:"timestamp_update";s:19:"2019-05-05 15:43:45";}i:1;O:8:"stdClass":23:{s:13:"article_db_id";s:1:"8";s:11:"url_rewrite";s:10:"philosophy";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106436_1-org.jpg";s:5:"title";s:10:"Philosophy";s:7:"keyword";s:10:"Philosophy";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:10:"Philosophy";s:7:"content";s:516:"<section>
+<p>In loyalty to its Christian mission, Assumption University stands for</p>
+<ul>
+<li>the inculcation of respect for the three institutions of the Nation: Religion, Country, the King and a democratic way of life.</li>
+<li>the belief that a man justifies himself and his existence by the nobility of his work: <strong>LABOR OMNIA VINCIT</strong></li>
+<li>the commitment to be a light that leads men towards the true source of all knowledge and life: <strong>LUX VERITAS</strong></li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:10:36";s:16:"timestamp_update";s:19:"2017-10-04 14:10:36";}i:2;O:8:"stdClass":23:{s:13:"article_db_id";s:1:"9";s:11:"url_rewrite";s:23:"objectives-and-policies";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106549_1-org.jpg";s:5:"title";s:23:"Objectives and Policies";s:7:"keyword";s:23:"Objectives and Policies";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:23:"Objectives and Policies";s:7:"content";s:740:"<section>
+<p>Assumption University exists for the main purpose of serving the nation by providing scientific and humanistic knowledge, particularly in the business education and management science through research and interdisciplinary approaches.</p>
+<p>To this end it aims at forming intellectually competent graduates who :</p>
+<ul>
+<li>are morally sound, committed to acting justly, and open to further growth.&nbsp;</li>
+<li>appreciate freedom of expression, imbibe right attitudes and ideologies through a carefully integrated curriculum of Ethics, Science, Languages and Business Management.&nbsp;</li>
+<li>achieve academic excellence through hard work, critical thinking, and effective decision-making.</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:12:29";s:16:"timestamp_update";s:19:"2017-10-04 14:12:29";}i:3;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"10";s:11:"url_rewrite";s:7:"symbols";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106666_1-org.jpg";s:5:"title";s:7:"Symbols";s:7:"keyword";s:7:"Symbols";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3391:"<section>
+<h4>Sedes Sapientiae : The Seat of Wisdom</h4>
+<p align="justify">It is a tradition handed down for centuries that Christians venerate the Mother of Christ as "the Seat of Wisdom". (Sedes Sapientiae)</p>
+<p align="justify"><img src="/images/stories/abac/sedes1.gif" alt="" align="right" border="0">According to Christian belief, Christ is the wisdom seated on the Throne. This implies, on the one hand, that the Mother of Christ is the Dwelling Place of the Supreme Wisdom of all science.</p>
+<p align="justify">On the other hand, the university is the Alma Mater, or our Mother who is also the "Dwelling Place of Knowledge". In this context, "Assumption" which, besides its religious meaning in glorification of the Mother of Christ, has yet another meaning in Thai, namely" the Abode of Abiding Knowledge" Rightly, "Assumption University" is the Seat of Wisdom.</p>
+<h4>Ashoka Tree</h4>
+<p align="justify"><br>The Assumption University has adopted the Ashoka Tree as its symbol. The Ashoka Tree has as its scientific name "<i>Polyalthea longifolia</i> Benth &amp; Hook. f. var. <i>pandurata</i>" of a Anonanceae Family, a native plant of India and Sri Lanka.</p>
+<p>The Rationale behind the choice of the Ashoka Tree</p>
+<p align="justify"><img src="/images/stories/abac/ashokatree.gif" alt="" align="right" border="0">The reasons why the University has taken it as its symbol are the following:</p>
+<ol>
+<li>
+<div align="justify">The Ashoka Tree is an ever-green tree. This fact signifies freshness, coolness, and constancy, unwavering with the turning of seasons and the changes of time. Thus, it means that the University is determined to fulfill its mission, giving emphasis to academic excellence together with quality and virtues.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree has a most beautiful form, majestically tall, like a stupa.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree is a tree with a beneficial name, because it derives from an Indian word "Ashok", after the name of King Ashok, the Great, the most well known king during Buddha's time, full of wisdom both in the secular and religious realms.</div>
+</li>
+<li>
+<div align="justify">Lastly, it is the tree first brought from India into Thailand in 1957 by the St.Gabriel Foundation of Thailand, patrons of this university (by Bro. John Mary). This first tree was planted in the compound of St. Gabriel's College, and the Forestry Department of Thailand named it "St. Gabriel Ashoka" on 15 th December 1969. Botanic Features of the Ashoka Tree</div>
+</li>
+</ol>
+<p align="justify">The Ashoka Tree is an ever green tree, of narrow-top can form and majestically tall. The bark is grey; its color becomes darker near the extreme top of the trunk, covered with leaves from the bottom to the top, so thick that the trunk's characteristics can hardly be clearly visible. Its leaves are lanceolate, about 0.5-0.7 inches wide, and 4-9 inches long. The widest part of the leaf is near the base; its rim is smooth, but twisted into a tide-like form. Its flower is white greenish shade, without odor, about 1.5-1.75 inches wide. Its fruit is ellipsoid, about 0.5 inches wide and 0.75 inches long, with smooth shiny skin; its color turns yellow, red, then finally black, when it is ripe. Normally, the ripening of the fruit OCCURS between July and August every year.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:14:26";s:16:"timestamp_update";s:19:"2017-10-31 06:11:27";}i:4;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"11";s:11:"url_rewrite";s:6:"vision";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107028_1-org.png";s:5:"title";s:6:"Vision";s:7:"keyword";s:6:"Vision";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1346:"<section>
+<p><g class="gr_ gr_14 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="14" data-gr-id="14">Assumption</g> University of Thailand envisions itself as:&nbsp;</p>
+<ul>
+<li>
+<div align="left">an international community of scholars,</div>
+</li>
+<li>
+<div align="left">enlivened by Christian inspiration,</div>
+</li>
+<li>
+<div align="left">engaged in the pursuit of Truth and Knowledge,</div>
+</li>
+<li>
+<div align="left">serving human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</div>
+</li>
+</ul>
+<h4>Vision 2000 for The Assumption University Graduates</h4>
+<p align="left"><g class="gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="16" data-gr-id="16">Assumption</g> University of Thailand envisions its graduates as:</p>
+<ul>
+<li>
+<div align="left">healthy and open-minded persons, characterized by personal integrity, an independent mind, and creative thinking,</div>
+</li>
+<li>
+<div align="left">professionally competent, willing to exercise responsible leadership for economic progress in a just society,</div>
+</li>
+<li>
+<div align="left">able to communicate effectively with people from other nations and to participate in globalization.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:20:28";s:16:"timestamp_update";s:19:"2018-12-19 11:09:13";}i:5;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"12";s:11:"url_rewrite";s:22:"history-and-background";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107177_1-org.jpg";s:5:"title";s:22:"History and Background";s:7:"keyword";s:22:"History and Background";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3218:"<section>
+<p>Assumption University was initially originated from Assumption Commercial College in 1969 as an autonomous higher education institution under the name of Assumption School of Business. In 1972, with the approval of the Ministry of Education, it was officially established as Assumption Business Administration College or ABAC. In May 1975, it was accredited by the Ministry of University Affairs. In 1990, it was granted new status as "Assumption University" by the Ministry of University Affairs.</p>
+<p>The University is a non-profit institution administered by the Brothers of St. Gabriel, a worldwide Catholic religious order, founded in France in 1705 by St. Louis Marie De Montfort, devoted to education and philanthropic activities. The congregation has been operating many educational institutions in Thailand since 1901.</p>
+<p>The University is an international community of scholars, enlivened by Christian inspiration, engaged in the pursuit of truth and knowledge, serving the human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</p>
+<h4>Background of Assumption University</h4>
+<h6>St.Louis Marie D' Montfort</h6>
+<p align="left">A Pilgrim at The Tomb of St. Louis Marie De Montfort</p>
+<p align="left">"You know that I am very indebted to this Saint and to his <i>Treatise on True Devotion to the Blessed Virgin</i>. Today because my pastoral visit has for the most part as its theme the sacrament of baptism, I would like to highlight the fact that, in the mind of St. Louis, the whole spiritual life flows directly from the sacrament of holy baptism as is shown by an important passage of the Act of Consecration to Jesus by the hands of Mary, written in his own precise wording".</p>
+<p class="bodycontent" align="left">These are the words spoken by the Pope in the parish church of Saint-Laurent-sur-Sèvre, during his visit on 19th September 1996 to the tombs of Saint Louis Marie de Montfort and Blessed Marie Louise Trichet. Several times before this, the Pope had recalled that his reading of the <i>True Devotion</i> had been a decisive turning-point in his life, and that Montfort's spirituality had brought him to understand that genuine Marian devotion, far from distracting us from Christ, is on the contrary rooted in the mystery of Christ and can only lead towards him.</p>
+<p>Three congregations trace their foundation to Saint Louis Marie de Montfort namely:</p>
+<ul>
+<li>
+<div align="left">The Daughters of Wisdom, live out the loving search of Wisdom for wounded humanity through a variety of ministries, especially among those whom the world rejects and those alienated from the Church;</div>
+</li>
+<li>
+<div align="left">The Company of Mary, popularly know today as the Montfort Missionaries, devoting themselves to priestly ministry and preaching</div>
+</li>
+<li>
+<div align="left"><span class="bodycontent">The Brothers of the Christian Instruction of St. Gabriel, popularly known today as Montfort Brothers of St. Gabriel, formerly known as the Community of the Holy Spirit, dedicating themselves to Christian education and working among the underprivileged</span>.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:22:57";s:16:"timestamp_update";s:19:"2017-10-31 06:17:15";}i:6;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"13";s:11:"url_rewrite";s:12:"coat-of-arms";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2018/1546237484_1-org.png";s:5:"title";s:12:"Coat of Arms";s:7:"keyword";s:12:"Coat of Arms";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:4675:"<section>
+<p>The coat of arms of the Brothers of St. Gabriel, which is AU's logo, is shown and engraved on many places but the biggest and noticeable one is on the wall at a stairway in the Hall of Fame.</p>
+<p>It depicts four signs with meaningful content: the ship in the sea symbolizing the sea of life with difficulties that we have to struggle through; the DS Cross which represents Divinity and Science; A.M. and the white lilies to remind students to love their institution as their Alma Mater (Dear Mother) and be as pure in their thoughts, words and mind as the white lilies; and the star and the boat which symbolizes spiritual hope. The four symbols are framed by a shield under which is AU's motto "LABOR OMNIA VINCIT", which means: We can overcome all difficulties through working hard.</p>
+<h4>Brothers of st.Gabriel</h4>
+<p align="left">The name "the Brothers of St.Gabriel" reminds us of those Brothers who sacrificed their lives, and their mother's land, in order to help educate and develop our Thai children to grow in the right path.</p>
+<p align="left">"LABOR OMNIA VINCIT" is the motto of our university. "We can overcome all difficulties through working hard," or, as the Latin proverb says : "Work conquers all things,"</p>
+<h4>"Life-Boat" Symbolized By "The Ship in The Sea"</h4>
+<p align="left">"The ship in the Sea" symbolizes that we have to keep on struggling and facing different difficulties in the sea of life, just like the ship or the boat that fights stormy wind, steamy sun and rainy sea in order NOT to capsize in the middle of the sea. This should always remind us that "Life is a Struggle" or "To Live is to Struggle" against the problems and difficulties and not to give up.</p>
+<h4>"DS" (read "D and S") Cross In The Middle With The Cross</h4>
+<p align="left">"D" or Divinity represents "Religion". We all need religion in life and mind. The Cross is the symbol of "love" and sacrifice "just as Jesus sacrificed his life for our love and he redeemed our sins as he said: "There is no other love greater than sacrificing our life for others."</p>
+<p align="left">"S" or "Science" means "Knowledge," which is the root of man's ability to reason. Everyone should always aim at gaining more knowledge. the more we learn about mundane knowledge, the more we should also learn about "Dharma" or religious, ethical virtues. Moreover, D|S also comes from the French phrase, "Dieu Seul," which means "ALL WE DO IS FOR THE GRACE OF GOD ONLY." It is to remind us of St. Louis Marie de Montfort, the founding Father of the Brothers of St. Gabriel's motto. With this powerful motto, we have the will to work without yielding to difficulties, at studies as well as at work. We all uphold it up to this day.</p>
+<h4>A.M. and The White Lilies</h4>
+<p align="left">"A.M." is abbreviated from a Latin word, "ALMA MATER," meaning literally," Dear Mother," in Latin and indicating " MOTHER COLLEGE," which symbolizes that our institution is like our "Alma Mater", our own birth place and as a part of our own families. We should love our institution as much as we should love our own parents. Moreover, "A.M" is also abbreviated from "AVE MARIA" (in Latin), the name of Jesus' Mother. This means that we should love our own Mother with our heart and soul. And the beautiful snow-white lilies are symbols to remind us that we should be clean and sincere with all our thoughts, words and minds, wherever we are.</p>
+<h4>The Star and The Man In a Boat</h4>
+<p align="left">"The Star and the Boat" symbolizes "Spiritual Hope", meaning that religion is "the light of Dharma or Absolute Truth" and all the knowledge or sciences we have learned from the institution is "the Light of the Intelligence". Altogether they keep conduct and intelligence on track so we are not lost or capsized in the middle of the sea of life. "The man in the boat "reflects us, ourselves, rowing or guiding our own "boat of life."</p>
+<h4>"The Shield" That Frames The "Four Symbols"</h4>
+<p align="left">The "Shield" that frames the "Four Symbols" is the "COAT OF ARMS" which stands for "HONOUR," or "PRIDE and DIGNITY". It also represents the HONOUR,DIGNITY, PRIDE AND PRAISE that our institution has received from the King who reigns over the Kingdom.</p>
+<h4>The Olive Branches</h4>
+<p align="left">The wreath of the "Olive Branches" stands for "Victory" or "Success."(In ancient times, in Greek History, the athletic winner received a wreath of olive branches from the king) Or, this represents "a wreath of high honour" to remind us that we should do good deeds to uphold the honour and fame of our beloved institution or "ALMA MATER" forever.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:25:58";s:16:"timestamp_update";s:19:"2018-12-31 06:24:44";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:7;s:8:"row_data";N;}

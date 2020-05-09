@@ -1,0 +1,657 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:20:{i:0;a:23:{s:13:"article_db_id";s:2:"66";s:11:"url_rewrite";s:47:"mini-m-b-a-professional-management-certificate-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657959_1-org.jpg";s:5:"title";s:49:"Mini M.B.A. (Professional Management Certificate)";s:7:"keyword";s:44:"ABAC City Campus#Part-time, weekend#4 months";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:387:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 12</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> US$ : 1,970</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:41:36";s:16:"timestamp_update";s:19:"2017-12-01 13:45:36";}i:1;a:23:{s:13:"article_db_id";s:2:"65";s:11:"url_rewrite";s:19:"m-b-a-digital-track";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657881_1-org.jpg";s:5:"title";s:20:"M.B.A. Digital Track";s:7:"keyword";s:74:"Hua Mak Campus , City Campus#Part-time, weekend#1.5 yrs#oversea field trip";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546511487_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:991:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Class Hours:</span> <br>Huamak:&nbsp;Sat - Sun (09.00 a.m. - 04.00 p.m.)<br>City:&nbsp;Sat - Sun (10.30 a.m. - 05.30 p.m.)</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payments </span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required </span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 550,000 THB<br> Non-Thai: 550,000 THB<br> US$: 16,667</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:40:39";s:16:"timestamp_update";s:19:"2019-01-03 10:31:27";}i:2;a:23:{s:13:"article_db_id";s:2:"64";s:11:"url_rewrite";s:37:"m-b-a-digital-fast-track-city-campus-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657825_1-org.jpg";s:5:"title";s:39:"M.B.A. Digital Fast-Track (City Campus)";s:7:"keyword";s:64:"ABAC City Campus#Part-time, weekend#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:515:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination) <br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Thai: 450,000 THB<br>Non-Thai: 472,500 THB<br> US$ : 14,318</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:39:17";s:16:"timestamp_update";s:19:"2018-01-10 09:56:22";}i:3;a:23:{s:13:"article_db_id";s:2:"63";s:11:"url_rewrite";s:35:"m-b-a-professional-evening-program-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657795_1-org.jpg";s:5:"title";s:37:"M.B.A. Professional (Evening Program)";s:7:"keyword";s:64:"ABAC City Campus#Part-time, weekday#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:519:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination) <br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 450,000 THB<br> Non-Thai : 472,500 THB<br> US$ : 14,318</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:36:55";s:16:"timestamp_update";s:19:"2018-01-10 09:59:28";}i:4;a:23:{s:13:"article_db_id";s:2:"62";s:11:"url_rewrite";s:31:"ph-d-english-language-teaching-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726324_1-org.jpg";s:5:"title";s:33:"Ph.D. (English Language Teaching)";s:7:"keyword";s:50:"Hua Mak Campus#Part-time, weekday/weekend#3 years.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521907_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:856:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br> 3 years.</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 54 credits</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 664,100 THB<br> Non-Thai: 691,600 THB<br> US$: 20,958</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-12 17:38:44";s:16:"timestamp_update";s:19:"2019-01-03 13:25:07";}i:5;a:23:{s:13:"article_db_id";s:2:"30";s:11:"url_rewrite";s:9:"insurance";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507743454_1-org.png";s:5:"title";s:9:"Insurance";s:7:"keyword";N;s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:9:"Insurance";s:7:"content";s:3433:"<div class="wpb_wrapper">
+<h4 style="text-align: justify;"><span style="color: #ca0000;"><strong>INSURANCE</strong></span></h4>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong>Announcement</strong></span><span style="color: #333; text-align: justify;"><br> International Students (for both Master and PhD)who already obtained personal insurance and would like be exempted from the insurance provided by the university are required to contact the Office of Graduate Studies before tuition payment is finalized, otherwise the insurance fee will be included and non-refundable.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong>Download Form</strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;"><a href="http://www.grad.au.edu/wp-content/uploads/2015/11/Insurance-Petition.pdf">Insurance Form Exemption</a><br> <a href="http://www.grad.au.edu/wp-content/uploads/2015/11/Insurance-form-exemption.pdf">Insurance Petition</a></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong> Claim Process </strong><br> </span></p>
+<ul style="text-align: justify;">
+<li>If you attend AXA network hospital using your membership card show your membership card and ID. card or passport to the receptionist or cashier</li>
+<li>The hospital will then arrange for all the eligible expenses within your benefit levels to charge us directly.</li>
+<li>If you are being admitted for inpatient treatment, the hospital will contact our help line to confirm your cover and eligibility for treatment.</li>
+<li>On discharge you will be asked to pay for any non medical expenses or charges in excess of your benefits before you leave the hospital. The hospital will contact our help line to confirm how much we will pay and how much you should pay.</li>
+</ul>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong> If you attend non AXA network hospital</strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;">If you attend a hospital which is not on our list, you will need to pay all the expenses yourself first<br> To obtain reimbursement, you will need to submit documents.<br> On receipt of these documents we will reimburse your claim within the next 14 working days</p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong> Documents </strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;">1. Medical certificate showing diagnosis of condition treated together with an itemized medical expenses bill or Attending Physician’s Report.<br> 2. Original receipt.<br> 3. Photostatted copy of your membership card.<br> 4. Copy of passbook for transferring claim amount (1st page)</p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong>Remark </strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;">The supportive documents for claim reimbursement must be submitted within 30 days after treatment.<br> Any questions or problems please contact Ms. Viparat at telephone no. 02 656 8710 ext. 5104.</p>
+<p>For more information about the insurance policies and coverage scheme, please contact ABAC Hua Man Campus, A-Building 3rd Floor</p>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 16:16:09";s:16:"timestamp_update";s:19:"2017-10-11 23:07:34";}i:6;a:23:{s:13:"article_db_id";s:2:"29";s:11:"url_rewrite";s:13:"accommodation";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507743321_1-org.jpg";s:5:"title";s:13:"Accommodation";s:7:"keyword";N;s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:13:"Accommodation";s:7:"content";s:1859:"<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: justify;"><span class="style2" style="color: #004885; font-size: 18px;"><span style="color: #b31e20;"><strong>ACCOMMODATION</strong></span><br> </span></p>
+<p style="text-align: justify;"><span style="color: #555;"><br> At the Hua Mak Campus in the city, although the University will not be able to offer graduate students accommodation in campus, but there are a wide range of neighboring townhouses, rooms and condominiums to choose from. Those are at the immediate area of Au and the range of rents starting from 3,000 baht up to 12,000 baht per month. The rents may or may not include electricity and water. Phones usually cost extra. The electricity is 220 volts and 50 hertz. If you are not offered accommodation by your college, or it is unable to provide the type of housing you need, you should contact the Au International Center.</span></p>
+<p style="text-align: justify;"><span style="color: #555;">At the Suvarnabhumi Campus, there are formal residence halls that have been beautifully designed and furnished with color TV, refrigerator, telephone, private bath and fiber-optic Internet connections. The rooms come in a variety of arrangements such as singles, doubles, triples and quads to accommodate students who wish to live alone or to share with friends. In addition, there are laundry and food services, a well-equipped physical fitness center as well as basketball, volleyball and tennis courts located adjacent to the halls. For the less athletic, there is also a table tennis recreation and board game room. A comprehensive sports complex is under construction, which will have a 50-meter Olympic sized swimming pool, an indoor stadium, gymnasium and other fitness space.</span></p>
+</div>
+</div>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 16:13:13";s:16:"timestamp_update";s:19:"2017-10-11 23:05:21";}i:7;a:23:{s:13:"article_db_id";s:2:"28";s:11:"url_rewrite";s:4:"visa";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509263875_1-org.png";s:5:"title";s:4:"Visa";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:11676:"<div class="entry-content clearfix">
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: justify;"><span class="style2" style="color: #004885; font-size: 18px;"><span style="color: #b31e20;"><strong>APPLYING FOR A STUDENT VISA</strong></span><br> </span></p>
+<p style="text-align: justify;"><span style="color: #555; font-size: 12px;"><br> 1. You will need to know the location of your nearest Royal Thai Embassy or Consulate office. Please note that Consulates accept posted visa applications only which can vary in process time depending on the office and the time of your pending departure. If you go in person to the Royal Thai Embassy applications are normally processed within three days. However this is not a guarantee, therefore it is reasonable to apply a couple of weeks before departure to allow for any unforeseen delays.</span><br> <span style="color: #555; font-size: 12px;"><br> 2. Each person’s situation is different, of course, and there is no magic explanation or single document, certificate, or letter, which can guarantee visa issuance.</span><br> <span style="color: #555; font-size: 12px;"><br> 3. You need to be able to articulate the reasons you will study in your chosen program.&nbsp; You should also be able to explain how studying in Thailand is related to your future professional career when you return home.</span><br> <span style="color: #555; font-size: 12px;"><br> 4. It should be clear at a glance to the officer dealing with your application what written documents you are presenting and what they signify. Lengthy written explanations cannot be quickly read or evaluated. You will be required to produce a copy of the admissions acceptance letter from Assumption to yourself.</span><br> <span style="color: #555; font-size: 12px;"><br> 5. Do not engage the consular officer in an argument. If you are denied a student visa, ask the officer for a list of documents he or she would suggest you bring in order to overcome the refusal, and try to get the reason for which you were denied visa in writing.</span><br> <span class="style2" style="color: #004885; font-size: 18px;"><br> <span style="color: #b31e20;"><strong>AU VISA SERVICES</strong></span></span><span style="color: #555; font-size: 12px;"><br> All services are meant for full time students with proper Non-Immigrant (category Ed) Visas subject to conditions as outlined below. Petitions and other forms are available from Visa Section at either campus. Au I.D-Card and receipt must be shown to receive service.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Stay Permit Extension</strong></span><span style="color: #555; font-size: 12px;"><br> Au Visa Section applies for Non-Immigrant (Class Ed) Stay Permit Extension based on requests made by currently registered full time non-Thai students (12 credits or equivalent a semester). Those who register for less than 12 credits are considered part-time and will not be given extension of stay.<br> Must be applied for no less than 30 days before Expiry.<br> * Processing takes at least 3-4 hours<br> * Generally stay permit last 6 – 12 months.<br> * Passports are sometimes made available temporarily during processing period.<br> Students, who do not submit their passports on time, will be responsible for any additional fees or expenses</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Stay Permit Cancellation</strong></span><span style="color: #555; font-size: 12px;"><br> Please note that extension of Stay Permit is liable to termination by the Bureau of Thailand Immigration for Students under the following categories:<br> 1. Students who are irregular in attendance; or<br> 2. Students who are on probation; or<br> 3. Students whose academic records are unsatisfactory including frequent withdrawals.<br> 4. Students who are retired or<br> 5. Students who graduated.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Re-Entry Permit</strong></span><span style="color: #555; font-size: 12px;"><br> Is strongly suggested for any student who needs to temporarily leave Thailand for whatever purpose. This permit is in addition to the current Stay Permit Extension and does not change the expiry date of the visa. Re-Entry permits take up to week to process. Student should return to Thailand and apply for extension at least two weeks before the Stay Permit Extension expires.<br> – Single Entry – Baht 1,000<br> – Multiple Entry – Baht 3,800<br> </span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Visa letter</strong></span><span style="color: #555; font-size: 12px;"><br> If you know that you’re going to leave Thailand and cannot return before your Stay Permit expire, please contact the AU visa officer at least two weeks in advance, of your leaving Thailand , to obtain the certified letter to confirm that you are a student at AU. You can take these documents to apply for a new visa (ED only) to the Thai embassy or consulate in the country where you are staying. They’ll give you a new visa valid for 3 months. It may take them a few days so be prepared.<br> – The Visa letters are used to apply for new visas abroad at any Royal Thai Embassy / Consulate.<br> – Au Visa Section issues Visa Letters at the request of the students.<br> – Au Visa Section needs at least 3 days for processing.</span></p>
+<p style="text-align: justify;"><span style="color: #b31e20;"><strong><span class="style2" style="font-size: 18px;">90 – DAY NOTICE</span></strong></span></p>
+<p style="text-align: justify;"><span style="color: #555; font-size: 12px;"><br> * All non-Thai students must notify their places of residence to the Bureau of Immigration every 90 days.<br> * Au Visa Section submits 90-day Notices at the request of the students.<br> * Au Visa Section needs at least 3 days for processing.<br> * Must be applied for no less than 7 days before expiry of previous 90-Day Notice.<br> Expired 90-Day Notice can be renewed by exiting Thailand on Re-Entry Permit or obtaining new visa abroad.</span></p>
+<p style="text-align: justify;">Those who fail to comply are liable to a fne of Baht 5,000 with an additional fne of 500 baht for each day past expiry. Bureau of Immigration may collect fee upon exiting Thailand.</p>
+<p style="text-align: justify;">IF YOU MISS the 90-day report due date, you must go to the Immigration Department by yourself and, pay them a penalty of 2,000 Baht for missing your date and report your place of residence. If you lose your 90-day report tag (it will be attached to your passport), the Immigration Department will charge you an additional penalty of (2,000 Baht to 5,000 baht). AU will not pay your penalties. (We’ll take you there provided that you go on our scheduled trip)</p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Change Visa</strong></span><span style="color: #555; font-size: 12px;"><br> (for education)<br> You should never try to enter as a visitor if you intend to become a student. The procedure to change your status is cumbersome and will take up a lot of your time. In order to change your visa status, you are required to have at least 30 valid days on your present visa. Several documents are required from both the university and you, the production of which will take time. Therefore, we strongly advise that you enter with the appropriate visa.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Passport Renewal</strong></span><span style="color: #555; font-size: 12px;"><br> Please check your passport expiry date before you leave your home country. Your passport should extend beyond your intended stay in Thailand . If it does not you can get it extended at the Embassy or Consulate of your home country in Thailand or with the proper authorities in your home country.</span></p>
+<p style="text-align: justify;">Make sure your passport has space (pages) available for a Stay Permit Extension stamp. You can get more pages at any time at the Embassy or Consulate of your home country in Thailand.<br> Passports should be renewed no less than 6 months before passport expires.<span class="style2" style="color: #ff8a00; font-size: 12px;"><br> <strong>Au staff should be informed before renewing passport.</strong><br> </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_center wpb_animate_when_almost_visible wpb_right-to-left wpb_start_animation">
+<div class="vc_single_image-wrapper vc_box_rounded vc_box_border_grey" style="text-align: center;"><img width="571" height="267" src="http://www.grad.au.edu/wp-content/uploads/2015/10/untitled6.png" class="vc_single_image-img attachment-large" alt="untitled6" srcset="http://www.grad.au.edu/wp-content/uploads/2015/10/untitled6.png 571w, http://www.grad.au.edu/wp-content/uploads/2015/10/untitled6-300x140.png 300w" sizes="(max-width: 571px) 100vw, 571px"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p><span class="style2" style="color: #004885; font-size: 18px;"><strong>Point of Entry/Exit</strong><br> </span></p>
+<p style="text-align: justify;"><span style="color: #555; font-size: 12px;"><br> Tm. Card<br> – A card issued prior to entry and attached to passport by Immigration.<br> – TM. card must be retained and attached to passport at all times until next exit from Thailand.<br> Stamps<br> – Immigration Officials issue Stay Permit by stamping passport at the point of entry.<br> – The Stamp provides the date of Stay Permit expiry.<br> Overstay !<br> – The Bureau of Immigration Charges Baht 500 / day for those who overstay their permit.<br> – Charges lived at point of exit.</span></p>
+<p>Overstay If your Stay Permit has expired before you could extend it, you must go to the Immigration Department in person and pay the overstay penalty of 500 baht per day (maximum 20,000 baht). (We’ll take you there provided that you go on our scheduled trip).</p>
+<p>New students who do not have ED visas will have to leave the country to get the proper visa. Other types of visa can not be converted to an ED visa from within Thailand .</p>
+<p>If your passport expires while you are in Thailand your Stay Permit expires on the same date. This is true regardless of the date on the visa. This means that you are subject to the 500 Baht per day overstay fine (maximum 20,000 Baht) from the day your Passport expires. Once your passport has been extended the AU visa officer at no charge to the student can reinstate your visa with the original expiry date.If you had a multiple entry visa this will be lost. If you wish you can purchase a new multiple entry visa, from the Thai government, for 3,800 Baht.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 16:07:26";s:16:"timestamp_update";s:19:"2017-10-29 07:57:55";}i:8;a:23:{s:13:"article_db_id";s:2:"20";s:11:"url_rewrite";s:31:"m-b-a-professional-day-program-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657756_1-org.jpg";s:5:"title";s:33:"M.B.A. Professional (Day Program)";s:7:"keyword";s:64:"ABAC City Campus#Full-time, weekday#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:519:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination) <br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 450,000 THB<br> Non-Thai : 472,500 THB<br> US$ : 14,318</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:23:48";s:16:"timestamp_update";s:19:"2018-01-10 09:59:34";}i:9;a:23:{s:13:"article_db_id";s:2:"19";s:11:"url_rewrite";s:50:"m-b-a-full-time-chinese-track-suvarnabhumi-campus-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657052_1-org.jpg";s:5:"title";s:52:"M.B.A. Full-time Chinese Track (Suvarnabhumi Campus)";s:7:"keyword";s:47:"Suvarnabhumi Campus#Full-time, weekday#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546511174_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:294:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :&nbsp;<br> US$ : 16,700</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:21:21";s:16:"timestamp_update";s:19:"2019-01-03 10:26:14";}i:10;a:23:{s:13:"article_db_id";s:2:"18";s:11:"url_rewrite";s:29:"m-b-a-full-time-chinese-track";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509365324_1-org.jpg";s:5:"title";s:30:"M.B.A. Full-time Chinese Track";s:7:"keyword";s:42:"Hua Mak Campus#Full-time, weekday#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:731:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Thesis/IR and Comprehensive test</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai :&nbsp;337700&nbsp;<br> Non-Thai :&nbsp;350200&nbsp;<br> US$ :&nbsp;10944</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:18:58";s:16:"timestamp_update";s:19:"2017-11-01 12:19:50";}i:11;a:23:{s:13:"article_db_id";s:2:"17";s:11:"url_rewrite";s:20:"m-b-a-weekend-track-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509364359_1-org.jpg";s:5:"title";s:22:"M.B.A. (Weekend-Track)";s:7:"keyword";s:42:"Hua Mak Campus#Part-time, weekend#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:872:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br>3 yrs.</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>IR, Comprehensive test and Field-trip<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai :&nbsp;393500&nbsp;<br> Non-Thai :&nbsp;416000&nbsp;<br> US$ : 13000</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:15:20";s:16:"timestamp_update";s:19:"2017-11-01 12:19:01";}i:12;a:23:{s:13:"article_db_id";s:2:"16";s:11:"url_rewrite";s:76:"m-b-a-evening-program-marketing-finance-general-management-entrepreneurship-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509363255_1-org.jpg";s:5:"title";s:81:"M.B.A. Evening Program (Marketing, Finance, General Management, Entrepreneurship)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:842:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br> 2 yrs.</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Thesis/IR and Comprehensive test</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4,000THB/credit</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai : 280800 <br> Non-Thai : 303300 <br> US$ : 9478</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:08:19";s:16:"timestamp_update";s:19:"2017-11-01 12:16:42";}i:13;a:23:{s:13:"article_db_id";s:2:"15";s:11:"url_rewrite";s:14:"mba-fast-track";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657571_1-org.jpg";s:5:"title";s:14:"MBA Fast Track";s:7:"keyword";s:125:"Hua Mak Campus , City Campus#Marketing, Finance, General Management#Full-time, Part-time weekday#2 yrs#Educational field trip";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546510946_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:1130:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Class Hours:</span> <br>Huamak:&nbsp;Mon - Fri (02.00 p.m. - 05.00 p.m.)<br>City:&nbsp;Mon, Wed, Fri&nbsp;(10.30 a.m. - 03.30 p.m.)</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br><span class="txt-blk"></span></h4>
+<div class="item-text">
+<h4 class="sub_cat_text">- Plan A: Thesis option<br>- Plan B: Non-Thesis option (Comprehensive Examination)<br>- Minimum Cummulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 500,000 THB<br> Non-Thai : 550,000 THB<br> US$ : 16,667</h4>
+</div>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:04:21";s:16:"timestamp_update";s:19:"2019-01-03 10:22:26";}i:14;a:23:{s:13:"article_db_id";s:2:"13";s:11:"url_rewrite";s:12:"coat-of-arms";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2018/1546237484_1-org.png";s:5:"title";s:12:"Coat of Arms";s:7:"keyword";s:12:"Coat of Arms";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:4675:"<section>
+<p>The coat of arms of the Brothers of St. Gabriel, which is AU's logo, is shown and engraved on many places but the biggest and noticeable one is on the wall at a stairway in the Hall of Fame.</p>
+<p>It depicts four signs with meaningful content: the ship in the sea symbolizing the sea of life with difficulties that we have to struggle through; the DS Cross which represents Divinity and Science; A.M. and the white lilies to remind students to love their institution as their Alma Mater (Dear Mother) and be as pure in their thoughts, words and mind as the white lilies; and the star and the boat which symbolizes spiritual hope. The four symbols are framed by a shield under which is AU's motto "LABOR OMNIA VINCIT", which means: We can overcome all difficulties through working hard.</p>
+<h4>Brothers of st.Gabriel</h4>
+<p align="left">The name "the Brothers of St.Gabriel" reminds us of those Brothers who sacrificed their lives, and their mother's land, in order to help educate and develop our Thai children to grow in the right path.</p>
+<p align="left">"LABOR OMNIA VINCIT" is the motto of our university. "We can overcome all difficulties through working hard," or, as the Latin proverb says : "Work conquers all things,"</p>
+<h4>"Life-Boat" Symbolized By "The Ship in The Sea"</h4>
+<p align="left">"The ship in the Sea" symbolizes that we have to keep on struggling and facing different difficulties in the sea of life, just like the ship or the boat that fights stormy wind, steamy sun and rainy sea in order NOT to capsize in the middle of the sea. This should always remind us that "Life is a Struggle" or "To Live is to Struggle" against the problems and difficulties and not to give up.</p>
+<h4>"DS" (read "D and S") Cross In The Middle With The Cross</h4>
+<p align="left">"D" or Divinity represents "Religion". We all need religion in life and mind. The Cross is the symbol of "love" and sacrifice "just as Jesus sacrificed his life for our love and he redeemed our sins as he said: "There is no other love greater than sacrificing our life for others."</p>
+<p align="left">"S" or "Science" means "Knowledge," which is the root of man's ability to reason. Everyone should always aim at gaining more knowledge. the more we learn about mundane knowledge, the more we should also learn about "Dharma" or religious, ethical virtues. Moreover, D|S also comes from the French phrase, "Dieu Seul," which means "ALL WE DO IS FOR THE GRACE OF GOD ONLY." It is to remind us of St. Louis Marie de Montfort, the founding Father of the Brothers of St. Gabriel's motto. With this powerful motto, we have the will to work without yielding to difficulties, at studies as well as at work. We all uphold it up to this day.</p>
+<h4>A.M. and The White Lilies</h4>
+<p align="left">"A.M." is abbreviated from a Latin word, "ALMA MATER," meaning literally," Dear Mother," in Latin and indicating " MOTHER COLLEGE," which symbolizes that our institution is like our "Alma Mater", our own birth place and as a part of our own families. We should love our institution as much as we should love our own parents. Moreover, "A.M" is also abbreviated from "AVE MARIA" (in Latin), the name of Jesus' Mother. This means that we should love our own Mother with our heart and soul. And the beautiful snow-white lilies are symbols to remind us that we should be clean and sincere with all our thoughts, words and minds, wherever we are.</p>
+<h4>The Star and The Man In a Boat</h4>
+<p align="left">"The Star and the Boat" symbolizes "Spiritual Hope", meaning that religion is "the light of Dharma or Absolute Truth" and all the knowledge or sciences we have learned from the institution is "the Light of the Intelligence". Altogether they keep conduct and intelligence on track so we are not lost or capsized in the middle of the sea of life. "The man in the boat "reflects us, ourselves, rowing or guiding our own "boat of life."</p>
+<h4>"The Shield" That Frames The "Four Symbols"</h4>
+<p align="left">The "Shield" that frames the "Four Symbols" is the "COAT OF ARMS" which stands for "HONOUR," or "PRIDE and DIGNITY". It also represents the HONOUR,DIGNITY, PRIDE AND PRAISE that our institution has received from the King who reigns over the Kingdom.</p>
+<h4>The Olive Branches</h4>
+<p align="left">The wreath of the "Olive Branches" stands for "Victory" or "Success."(In ancient times, in Greek History, the athletic winner received a wreath of olive branches from the king) Or, this represents "a wreath of high honour" to remind us that we should do good deeds to uphold the honour and fame of our beloved institution or "ALMA MATER" forever.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:25:58";s:16:"timestamp_update";s:19:"2018-12-31 06:24:44";}i:15;a:23:{s:13:"article_db_id";s:2:"12";s:11:"url_rewrite";s:22:"history-and-background";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107177_1-org.jpg";s:5:"title";s:22:"History and Background";s:7:"keyword";s:22:"History and Background";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3218:"<section>
+<p>Assumption University was initially originated from Assumption Commercial College in 1969 as an autonomous higher education institution under the name of Assumption School of Business. In 1972, with the approval of the Ministry of Education, it was officially established as Assumption Business Administration College or ABAC. In May 1975, it was accredited by the Ministry of University Affairs. In 1990, it was granted new status as "Assumption University" by the Ministry of University Affairs.</p>
+<p>The University is a non-profit institution administered by the Brothers of St. Gabriel, a worldwide Catholic religious order, founded in France in 1705 by St. Louis Marie De Montfort, devoted to education and philanthropic activities. The congregation has been operating many educational institutions in Thailand since 1901.</p>
+<p>The University is an international community of scholars, enlivened by Christian inspiration, engaged in the pursuit of truth and knowledge, serving the human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</p>
+<h4>Background of Assumption University</h4>
+<h6>St.Louis Marie D' Montfort</h6>
+<p align="left">A Pilgrim at The Tomb of St. Louis Marie De Montfort</p>
+<p align="left">"You know that I am very indebted to this Saint and to his <i>Treatise on True Devotion to the Blessed Virgin</i>. Today because my pastoral visit has for the most part as its theme the sacrament of baptism, I would like to highlight the fact that, in the mind of St. Louis, the whole spiritual life flows directly from the sacrament of holy baptism as is shown by an important passage of the Act of Consecration to Jesus by the hands of Mary, written in his own precise wording".</p>
+<p class="bodycontent" align="left">These are the words spoken by the Pope in the parish church of Saint-Laurent-sur-Sèvre, during his visit on 19th September 1996 to the tombs of Saint Louis Marie de Montfort and Blessed Marie Louise Trichet. Several times before this, the Pope had recalled that his reading of the <i>True Devotion</i> had been a decisive turning-point in his life, and that Montfort's spirituality had brought him to understand that genuine Marian devotion, far from distracting us from Christ, is on the contrary rooted in the mystery of Christ and can only lead towards him.</p>
+<p>Three congregations trace their foundation to Saint Louis Marie de Montfort namely:</p>
+<ul>
+<li>
+<div align="left">The Daughters of Wisdom, live out the loving search of Wisdom for wounded humanity through a variety of ministries, especially among those whom the world rejects and those alienated from the Church;</div>
+</li>
+<li>
+<div align="left">The Company of Mary, popularly know today as the Montfort Missionaries, devoting themselves to priestly ministry and preaching</div>
+</li>
+<li>
+<div align="left"><span class="bodycontent">The Brothers of the Christian Instruction of St. Gabriel, popularly known today as Montfort Brothers of St. Gabriel, formerly known as the Community of the Holy Spirit, dedicating themselves to Christian education and working among the underprivileged</span>.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:22:57";s:16:"timestamp_update";s:19:"2017-10-31 06:17:15";}i:16;a:23:{s:13:"article_db_id";s:2:"11";s:11:"url_rewrite";s:6:"vision";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107028_1-org.png";s:5:"title";s:6:"Vision";s:7:"keyword";s:6:"Vision";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1346:"<section>
+<p><g class="gr_ gr_14 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="14" data-gr-id="14">Assumption</g> University of Thailand envisions itself as:&nbsp;</p>
+<ul>
+<li>
+<div align="left">an international community of scholars,</div>
+</li>
+<li>
+<div align="left">enlivened by Christian inspiration,</div>
+</li>
+<li>
+<div align="left">engaged in the pursuit of Truth and Knowledge,</div>
+</li>
+<li>
+<div align="left">serving human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</div>
+</li>
+</ul>
+<h4>Vision 2000 for The Assumption University Graduates</h4>
+<p align="left"><g class="gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="16" data-gr-id="16">Assumption</g> University of Thailand envisions its graduates as:</p>
+<ul>
+<li>
+<div align="left">healthy and open-minded persons, characterized by personal integrity, an independent mind, and creative thinking,</div>
+</li>
+<li>
+<div align="left">professionally competent, willing to exercise responsible leadership for economic progress in a just society,</div>
+</li>
+<li>
+<div align="left">able to communicate effectively with people from other nations and to participate in globalization.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:20:28";s:16:"timestamp_update";s:19:"2018-12-19 11:09:13";}i:17;a:23:{s:13:"article_db_id";s:2:"10";s:11:"url_rewrite";s:7:"symbols";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106666_1-org.jpg";s:5:"title";s:7:"Symbols";s:7:"keyword";s:7:"Symbols";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3391:"<section>
+<h4>Sedes Sapientiae : The Seat of Wisdom</h4>
+<p align="justify">It is a tradition handed down for centuries that Christians venerate the Mother of Christ as "the Seat of Wisdom". (Sedes Sapientiae)</p>
+<p align="justify"><img src="/images/stories/abac/sedes1.gif" alt="" align="right" border="0">According to Christian belief, Christ is the wisdom seated on the Throne. This implies, on the one hand, that the Mother of Christ is the Dwelling Place of the Supreme Wisdom of all science.</p>
+<p align="justify">On the other hand, the university is the Alma Mater, or our Mother who is also the "Dwelling Place of Knowledge". In this context, "Assumption" which, besides its religious meaning in glorification of the Mother of Christ, has yet another meaning in Thai, namely" the Abode of Abiding Knowledge" Rightly, "Assumption University" is the Seat of Wisdom.</p>
+<h4>Ashoka Tree</h4>
+<p align="justify"><br>The Assumption University has adopted the Ashoka Tree as its symbol. The Ashoka Tree has as its scientific name "<i>Polyalthea longifolia</i> Benth &amp; Hook. f. var. <i>pandurata</i>" of a Anonanceae Family, a native plant of India and Sri Lanka.</p>
+<p>The Rationale behind the choice of the Ashoka Tree</p>
+<p align="justify"><img src="/images/stories/abac/ashokatree.gif" alt="" align="right" border="0">The reasons why the University has taken it as its symbol are the following:</p>
+<ol>
+<li>
+<div align="justify">The Ashoka Tree is an ever-green tree. This fact signifies freshness, coolness, and constancy, unwavering with the turning of seasons and the changes of time. Thus, it means that the University is determined to fulfill its mission, giving emphasis to academic excellence together with quality and virtues.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree has a most beautiful form, majestically tall, like a stupa.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree is a tree with a beneficial name, because it derives from an Indian word "Ashok", after the name of King Ashok, the Great, the most well known king during Buddha's time, full of wisdom both in the secular and religious realms.</div>
+</li>
+<li>
+<div align="justify">Lastly, it is the tree first brought from India into Thailand in 1957 by the St.Gabriel Foundation of Thailand, patrons of this university (by Bro. John Mary). This first tree was planted in the compound of St. Gabriel's College, and the Forestry Department of Thailand named it "St. Gabriel Ashoka" on 15 th December 1969. Botanic Features of the Ashoka Tree</div>
+</li>
+</ol>
+<p align="justify">The Ashoka Tree is an ever green tree, of narrow-top can form and majestically tall. The bark is grey; its color becomes darker near the extreme top of the trunk, covered with leaves from the bottom to the top, so thick that the trunk's characteristics can hardly be clearly visible. Its leaves are lanceolate, about 0.5-0.7 inches wide, and 4-9 inches long. The widest part of the leaf is near the base; its rim is smooth, but twisted into a tide-like form. Its flower is white greenish shade, without odor, about 1.5-1.75 inches wide. Its fruit is ellipsoid, about 0.5 inches wide and 0.75 inches long, with smooth shiny skin; its color turns yellow, red, then finally black, when it is ripe. Normally, the ripening of the fruit OCCURS between July and August every year.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:14:26";s:16:"timestamp_update";s:19:"2017-10-31 06:11:27";}i:18;a:23:{s:13:"article_db_id";s:1:"9";s:11:"url_rewrite";s:23:"objectives-and-policies";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106549_1-org.jpg";s:5:"title";s:23:"Objectives and Policies";s:7:"keyword";s:23:"Objectives and Policies";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:23:"Objectives and Policies";s:7:"content";s:740:"<section>
+<p>Assumption University exists for the main purpose of serving the nation by providing scientific and humanistic knowledge, particularly in the business education and management science through research and interdisciplinary approaches.</p>
+<p>To this end it aims at forming intellectually competent graduates who :</p>
+<ul>
+<li>are morally sound, committed to acting justly, and open to further growth.&nbsp;</li>
+<li>appreciate freedom of expression, imbibe right attitudes and ideologies through a carefully integrated curriculum of Ethics, Science, Languages and Business Management.&nbsp;</li>
+<li>achieve academic excellence through hard work, critical thinking, and effective decision-making.</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:12:29";s:16:"timestamp_update";s:19:"2017-10-04 14:12:29";}i:19;a:23:{s:13:"article_db_id";s:1:"8";s:11:"url_rewrite";s:10:"philosophy";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106436_1-org.jpg";s:5:"title";s:10:"Philosophy";s:7:"keyword";s:10:"Philosophy";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:10:"Philosophy";s:7:"content";s:516:"<section>
+<p>In loyalty to its Christian mission, Assumption University stands for</p>
+<ul>
+<li>the inculcation of respect for the three institutions of the Nation: Religion, Country, the King and a democratic way of life.</li>
+<li>the belief that a man justifies himself and his existence by the nobility of his work: <strong>LABOR OMNIA VINCIT</strong></li>
+<li>the commitment to be a light that leads men towards the true source of all knowledge and life: <strong>LUX VERITAS</strong></li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:10:36";s:16:"timestamp_update";s:19:"2017-10-04 14:10:36";}}s:13:"result_object";a:20:{i:0;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"66";s:11:"url_rewrite";s:47:"mini-m-b-a-professional-management-certificate-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657959_1-org.jpg";s:5:"title";s:49:"Mini M.B.A. (Professional Management Certificate)";s:7:"keyword";s:44:"ABAC City Campus#Part-time, weekend#4 months";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:387:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 12</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> US$ : 1,970</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:41:36";s:16:"timestamp_update";s:19:"2017-12-01 13:45:36";}i:1;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"65";s:11:"url_rewrite";s:19:"m-b-a-digital-track";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657881_1-org.jpg";s:5:"title";s:20:"M.B.A. Digital Track";s:7:"keyword";s:74:"Hua Mak Campus , City Campus#Part-time, weekend#1.5 yrs#oversea field trip";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546511487_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:991:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Class Hours:</span> <br>Huamak:&nbsp;Sat - Sun (09.00 a.m. - 04.00 p.m.)<br>City:&nbsp;Sat - Sun (10.30 a.m. - 05.30 p.m.)</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination)<br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payments </span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required </span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 550,000 THB<br> Non-Thai: 550,000 THB<br> US$: 16,667</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:40:39";s:16:"timestamp_update";s:19:"2019-01-03 10:31:27";}i:2;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"64";s:11:"url_rewrite";s:37:"m-b-a-digital-fast-track-city-campus-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657825_1-org.jpg";s:5:"title";s:39:"M.B.A. Digital Fast-Track (City Campus)";s:7:"keyword";s:64:"ABAC City Campus#Part-time, weekend#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:515:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination) <br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br>Thai: 450,000 THB<br>Non-Thai: 472,500 THB<br> US$ : 14,318</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:39:17";s:16:"timestamp_update";s:19:"2018-01-10 09:56:22";}i:3;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"63";s:11:"url_rewrite";s:35:"m-b-a-professional-evening-program-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657795_1-org.jpg";s:5:"title";s:37:"M.B.A. Professional (Evening Program)";s:7:"keyword";s:64:"ABAC City Campus#Part-time, weekday#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:519:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination) <br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 450,000 THB<br> Non-Thai : 472,500 THB<br> US$ : 14,318</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-13 10:36:55";s:16:"timestamp_update";s:19:"2018-01-10 09:59:28";}i:4;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"62";s:11:"url_rewrite";s:31:"ph-d-english-language-teaching-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510726324_1-org.jpg";s:5:"title";s:33:"Ph.D. (English Language Teaching)";s:7:"keyword";s:50:"Hua Mak Campus#Part-time, weekday/weekend#3 years.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546521907_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:856:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br> 3 years.</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 54 credits</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Dissertation and Publication</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>6 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai: 664,100 THB<br> Non-Thai: 691,600 THB<br> US$: 20,958</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:2:"33";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-12 17:38:44";s:16:"timestamp_update";s:19:"2019-01-03 13:25:07";}i:5;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"30";s:11:"url_rewrite";s:9:"insurance";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507743454_1-org.png";s:5:"title";s:9:"Insurance";s:7:"keyword";N;s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:9:"Insurance";s:7:"content";s:3433:"<div class="wpb_wrapper">
+<h4 style="text-align: justify;"><span style="color: #ca0000;"><strong>INSURANCE</strong></span></h4>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong>Announcement</strong></span><span style="color: #333; text-align: justify;"><br> International Students (for both Master and PhD)who already obtained personal insurance and would like be exempted from the insurance provided by the university are required to contact the Office of Graduate Studies before tuition payment is finalized, otherwise the insurance fee will be included and non-refundable.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong>Download Form</strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;"><a href="http://www.grad.au.edu/wp-content/uploads/2015/11/Insurance-Petition.pdf">Insurance Form Exemption</a><br> <a href="http://www.grad.au.edu/wp-content/uploads/2015/11/Insurance-form-exemption.pdf">Insurance Petition</a></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong> Claim Process </strong><br> </span></p>
+<ul style="text-align: justify;">
+<li>If you attend AXA network hospital using your membership card show your membership card and ID. card or passport to the receptionist or cashier</li>
+<li>The hospital will then arrange for all the eligible expenses within your benefit levels to charge us directly.</li>
+<li>If you are being admitted for inpatient treatment, the hospital will contact our help line to confirm your cover and eligibility for treatment.</li>
+<li>On discharge you will be asked to pay for any non medical expenses or charges in excess of your benefits before you leave the hospital. The hospital will contact our help line to confirm how much we will pay and how much you should pay.</li>
+</ul>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong> If you attend non AXA network hospital</strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;">If you attend a hospital which is not on our list, you will need to pay all the expenses yourself first<br> To obtain reimbursement, you will need to submit documents.<br> On receipt of these documents we will reimburse your claim within the next 14 working days</p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong> Documents </strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;">1. Medical certificate showing diagnosis of condition treated together with an itemized medical expenses bill or Attending Physician’s Report.<br> 2. Original receipt.<br> 3. Photostatted copy of your membership card.<br> 4. Copy of passbook for transferring claim amount (1st page)</p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><strong>Remark </strong><br> </span></p>
+<p style="padding-left: 60px; text-align: justify;">The supportive documents for claim reimbursement must be submitted within 30 days after treatment.<br> Any questions or problems please contact Ms. Viparat at telephone no. 02 656 8710 ext. 5104.</p>
+<p>For more information about the insurance policies and coverage scheme, please contact ABAC Hua Man Campus, A-Building 3rd Floor</p>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 16:16:09";s:16:"timestamp_update";s:19:"2017-10-11 23:07:34";}i:6;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"29";s:11:"url_rewrite";s:13:"accommodation";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507743321_1-org.jpg";s:5:"title";s:13:"Accommodation";s:7:"keyword";N;s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:13:"Accommodation";s:7:"content";s:1859:"<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: justify;"><span class="style2" style="color: #004885; font-size: 18px;"><span style="color: #b31e20;"><strong>ACCOMMODATION</strong></span><br> </span></p>
+<p style="text-align: justify;"><span style="color: #555;"><br> At the Hua Mak Campus in the city, although the University will not be able to offer graduate students accommodation in campus, but there are a wide range of neighboring townhouses, rooms and condominiums to choose from. Those are at the immediate area of Au and the range of rents starting from 3,000 baht up to 12,000 baht per month. The rents may or may not include electricity and water. Phones usually cost extra. The electricity is 220 volts and 50 hertz. If you are not offered accommodation by your college, or it is unable to provide the type of housing you need, you should contact the Au International Center.</span></p>
+<p style="text-align: justify;"><span style="color: #555;">At the Suvarnabhumi Campus, there are formal residence halls that have been beautifully designed and furnished with color TV, refrigerator, telephone, private bath and fiber-optic Internet connections. The rooms come in a variety of arrangements such as singles, doubles, triples and quads to accommodate students who wish to live alone or to share with friends. In addition, there are laundry and food services, a well-equipped physical fitness center as well as basketball, volleyball and tennis courts located adjacent to the halls. For the less athletic, there is also a table tennis recreation and board game room. A comprehensive sports complex is under construction, which will have a 50-meter Olympic sized swimming pool, an indoor stadium, gymnasium and other fitness space.</span></p>
+</div>
+</div>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 16:13:13";s:16:"timestamp_update";s:19:"2017-10-11 23:05:21";}i:7;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"28";s:11:"url_rewrite";s:4:"visa";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509263875_1-org.png";s:5:"title";s:4:"Visa";s:7:"keyword";s:0:"";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:11676:"<div class="entry-content clearfix">
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p style="text-align: justify;"><span class="style2" style="color: #004885; font-size: 18px;"><span style="color: #b31e20;"><strong>APPLYING FOR A STUDENT VISA</strong></span><br> </span></p>
+<p style="text-align: justify;"><span style="color: #555; font-size: 12px;"><br> 1. You will need to know the location of your nearest Royal Thai Embassy or Consulate office. Please note that Consulates accept posted visa applications only which can vary in process time depending on the office and the time of your pending departure. If you go in person to the Royal Thai Embassy applications are normally processed within three days. However this is not a guarantee, therefore it is reasonable to apply a couple of weeks before departure to allow for any unforeseen delays.</span><br> <span style="color: #555; font-size: 12px;"><br> 2. Each person’s situation is different, of course, and there is no magic explanation or single document, certificate, or letter, which can guarantee visa issuance.</span><br> <span style="color: #555; font-size: 12px;"><br> 3. You need to be able to articulate the reasons you will study in your chosen program.&nbsp; You should also be able to explain how studying in Thailand is related to your future professional career when you return home.</span><br> <span style="color: #555; font-size: 12px;"><br> 4. It should be clear at a glance to the officer dealing with your application what written documents you are presenting and what they signify. Lengthy written explanations cannot be quickly read or evaluated. You will be required to produce a copy of the admissions acceptance letter from Assumption to yourself.</span><br> <span style="color: #555; font-size: 12px;"><br> 5. Do not engage the consular officer in an argument. If you are denied a student visa, ask the officer for a list of documents he or she would suggest you bring in order to overcome the refusal, and try to get the reason for which you were denied visa in writing.</span><br> <span class="style2" style="color: #004885; font-size: 18px;"><br> <span style="color: #b31e20;"><strong>AU VISA SERVICES</strong></span></span><span style="color: #555; font-size: 12px;"><br> All services are meant for full time students with proper Non-Immigrant (category Ed) Visas subject to conditions as outlined below. Petitions and other forms are available from Visa Section at either campus. Au I.D-Card and receipt must be shown to receive service.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Stay Permit Extension</strong></span><span style="color: #555; font-size: 12px;"><br> Au Visa Section applies for Non-Immigrant (Class Ed) Stay Permit Extension based on requests made by currently registered full time non-Thai students (12 credits or equivalent a semester). Those who register for less than 12 credits are considered part-time and will not be given extension of stay.<br> Must be applied for no less than 30 days before Expiry.<br> * Processing takes at least 3-4 hours<br> * Generally stay permit last 6 – 12 months.<br> * Passports are sometimes made available temporarily during processing period.<br> Students, who do not submit their passports on time, will be responsible for any additional fees or expenses</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Stay Permit Cancellation</strong></span><span style="color: #555; font-size: 12px;"><br> Please note that extension of Stay Permit is liable to termination by the Bureau of Thailand Immigration for Students under the following categories:<br> 1. Students who are irregular in attendance; or<br> 2. Students who are on probation; or<br> 3. Students whose academic records are unsatisfactory including frequent withdrawals.<br> 4. Students who are retired or<br> 5. Students who graduated.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Re-Entry Permit</strong></span><span style="color: #555; font-size: 12px;"><br> Is strongly suggested for any student who needs to temporarily leave Thailand for whatever purpose. This permit is in addition to the current Stay Permit Extension and does not change the expiry date of the visa. Re-Entry permits take up to week to process. Student should return to Thailand and apply for extension at least two weeks before the Stay Permit Extension expires.<br> – Single Entry – Baht 1,000<br> – Multiple Entry – Baht 3,800<br> </span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Visa letter</strong></span><span style="color: #555; font-size: 12px;"><br> If you know that you’re going to leave Thailand and cannot return before your Stay Permit expire, please contact the AU visa officer at least two weeks in advance, of your leaving Thailand , to obtain the certified letter to confirm that you are a student at AU. You can take these documents to apply for a new visa (ED only) to the Thai embassy or consulate in the country where you are staying. They’ll give you a new visa valid for 3 months. It may take them a few days so be prepared.<br> – The Visa letters are used to apply for new visas abroad at any Royal Thai Embassy / Consulate.<br> – Au Visa Section issues Visa Letters at the request of the students.<br> – Au Visa Section needs at least 3 days for processing.</span></p>
+<p style="text-align: justify;"><span style="color: #b31e20;"><strong><span class="style2" style="font-size: 18px;">90 – DAY NOTICE</span></strong></span></p>
+<p style="text-align: justify;"><span style="color: #555; font-size: 12px;"><br> * All non-Thai students must notify their places of residence to the Bureau of Immigration every 90 days.<br> * Au Visa Section submits 90-day Notices at the request of the students.<br> * Au Visa Section needs at least 3 days for processing.<br> * Must be applied for no less than 7 days before expiry of previous 90-Day Notice.<br> Expired 90-Day Notice can be renewed by exiting Thailand on Re-Entry Permit or obtaining new visa abroad.</span></p>
+<p style="text-align: justify;">Those who fail to comply are liable to a fne of Baht 5,000 with an additional fne of 500 baht for each day past expiry. Bureau of Immigration may collect fee upon exiting Thailand.</p>
+<p style="text-align: justify;">IF YOU MISS the 90-day report due date, you must go to the Immigration Department by yourself and, pay them a penalty of 2,000 Baht for missing your date and report your place of residence. If you lose your 90-day report tag (it will be attached to your passport), the Immigration Department will charge you an additional penalty of (2,000 Baht to 5,000 baht). AU will not pay your penalties. (We’ll take you there provided that you go on our scheduled trip)</p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Change Visa</strong></span><span style="color: #555; font-size: 12px;"><br> (for education)<br> You should never try to enter as a visitor if you intend to become a student. The procedure to change your status is cumbersome and will take up a lot of your time. In order to change your visa status, you are required to have at least 30 valid days on your present visa. Several documents are required from both the university and you, the production of which will take time. Therefore, we strongly advise that you enter with the appropriate visa.</span></p>
+<p style="text-align: justify;"><span class="style2" style="color: #ff8a00; font-size: 14px;"><br> <strong>Passport Renewal</strong></span><span style="color: #555; font-size: 12px;"><br> Please check your passport expiry date before you leave your home country. Your passport should extend beyond your intended stay in Thailand . If it does not you can get it extended at the Embassy or Consulate of your home country in Thailand or with the proper authorities in your home country.</span></p>
+<p style="text-align: justify;">Make sure your passport has space (pages) available for a Stay Permit Extension stamp. You can get more pages at any time at the Embassy or Consulate of your home country in Thailand.<br> Passports should be renewed no less than 6 months before passport expires.<span class="style2" style="color: #ff8a00; font-size: 12px;"><br> <strong>Au staff should be informed before renewing passport.</strong><br> </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_center wpb_animate_when_almost_visible wpb_right-to-left wpb_start_animation">
+<div class="vc_single_image-wrapper vc_box_rounded vc_box_border_grey" style="text-align: center;"><img width="571" height="267" src="http://www.grad.au.edu/wp-content/uploads/2015/10/untitled6.png" class="vc_single_image-img attachment-large" alt="untitled6" srcset="http://www.grad.au.edu/wp-content/uploads/2015/10/untitled6.png 571w, http://www.grad.au.edu/wp-content/uploads/2015/10/untitled6-300x140.png 300w" sizes="(max-width: 571px) 100vw, 571px"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p><span class="style2" style="color: #004885; font-size: 18px;"><strong>Point of Entry/Exit</strong><br> </span></p>
+<p style="text-align: justify;"><span style="color: #555; font-size: 12px;"><br> Tm. Card<br> – A card issued prior to entry and attached to passport by Immigration.<br> – TM. card must be retained and attached to passport at all times until next exit from Thailand.<br> Stamps<br> – Immigration Officials issue Stay Permit by stamping passport at the point of entry.<br> – The Stamp provides the date of Stay Permit expiry.<br> Overstay !<br> – The Bureau of Immigration Charges Baht 500 / day for those who overstay their permit.<br> – Charges lived at point of exit.</span></p>
+<p>Overstay If your Stay Permit has expired before you could extend it, you must go to the Immigration Department in person and pay the overstay penalty of 500 baht per day (maximum 20,000 baht). (We’ll take you there provided that you go on our scheduled trip).</p>
+<p>New students who do not have ED visas will have to leave the country to get the proper visa. Other types of visa can not be converted to an ED visa from within Thailand .</p>
+<p>If your passport expires while you are in Thailand your Stay Permit expires on the same date. This is true regardless of the date on the visa. This means that you are subject to the 500 Baht per day overstay fine (maximum 20,000 Baht) from the day your Passport expires. Once your passport has been extended the AU visa officer at no charge to the student can reinstate your visa with the original expiry date.If you had a multiple entry visa this will be lost. If you wish you can purchase a new multiple entry visa, from the Thai government, for 3,800 Baht.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"4";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 16:07:26";s:16:"timestamp_update";s:19:"2017-10-29 07:57:55";}i:8;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"20";s:11:"url_rewrite";s:31:"m-b-a-professional-day-program-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657756_1-org.jpg";s:5:"title";s:33:"M.B.A. Professional (Day Program)";s:7:"keyword";s:64:"ABAC City Campus#Full-time, weekday#1.5 yrs.#Overseas Field Trip";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:519:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>- Non-Thesis option (Comprehensive Examination) <br>- Minimum Cumulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 450,000 THB<br> Non-Thai : 472,500 THB<br> US$ : 14,318</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:23:48";s:16:"timestamp_update";s:19:"2018-01-10 09:59:34";}i:9;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"19";s:11:"url_rewrite";s:50:"m-b-a-full-time-chinese-track-suvarnabhumi-campus-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657052_1-org.jpg";s:5:"title";s:52:"M.B.A. Full-time Chinese Track (Suvarnabhumi Campus)";s:7:"keyword";s:47:"Suvarnabhumi Campus#Full-time, weekday#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546511174_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:294:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :&nbsp;<br> US$ : 16,700</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:21:21";s:16:"timestamp_update";s:19:"2019-01-03 10:26:14";}i:10;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"18";s:11:"url_rewrite";s:29:"m-b-a-full-time-chinese-track";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509365324_1-org.jpg";s:5:"title";s:30:"M.B.A. Full-time Chinese Track";s:7:"keyword";s:42:"Hua Mak Campus#Full-time, weekday#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:731:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Thesis/IR and Comprehensive test</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai :&nbsp;337700&nbsp;<br> Non-Thai :&nbsp;350200&nbsp;<br> US$ :&nbsp;10944</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:18:58";s:16:"timestamp_update";s:19:"2017-11-01 12:19:50";}i:11;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"17";s:11:"url_rewrite";s:20:"m-b-a-weekend-track-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509364359_1-org.jpg";s:5:"title";s:22:"M.B.A. (Weekend-Track)";s:7:"keyword";s:42:"Hua Mak Campus#Part-time, weekend#1.5 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:872:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br>3 yrs.</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br>IR, Comprehensive test and Field-trip<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br>4 installments<br></h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai :&nbsp;393500&nbsp;<br> Non-Thai :&nbsp;416000&nbsp;<br> US$ : 13000</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:15:20";s:16:"timestamp_update";s:19:"2017-11-01 12:19:01";}i:12;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"16";s:11:"url_rewrite";s:76:"m-b-a-evening-program-marketing-finance-general-management-entrepreneurship-";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1509363255_1-org.jpg";s:5:"title";s:81:"M.B.A. Evening Program (Marketing, Finance, General Management, Entrepreneurship)";s:7:"keyword";s:40:"Hua Mak Campus#Part-time, weekday#2 yrs.";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:842:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br> English &amp; Interview</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Qualifications (Work Experience)</span> :<br> 2 yrs.</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br> Thesis/IR and Comprehensive test</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4,000THB/credit</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Approx. Estimated Fees</span> :<br> Thai : 280800 <br> Non-Thai : 303300 <br> US$ : 9478</h4>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"0";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:08:19";s:16:"timestamp_update";s:19:"2017-11-01 12:16:42";}i:13;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"15";s:11:"url_rewrite";s:14:"mba-fast-track";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1510657571_1-org.jpg";s:5:"title";s:14:"MBA Fast Track";s:7:"keyword";s:125:"Hua Mak Campus , City Campus#Marketing, Finance, General Management#Full-time, Part-time weekday#2 yrs#Educational field trip";s:9:"video_url";s:0:"";s:13:"brochure_path";s:21:"2019/1546510946_1.pdf";s:10:"short_desc";s:1:"-";s:7:"content";s:1130:"<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Class Hours:</span> <br>Huamak:&nbsp;Mon - Fri (02.00 p.m. - 05.00 p.m.)<br>City:&nbsp;Mon, Wed, Fri&nbsp;(10.30 a.m. - 03.30 p.m.)</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Entrance</span> :<br>AU English Proficiency Test &amp; Interview Examination</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Graduation Required</span> :<br><span class="txt-blk"></span></h4>
+<div class="item-text">
+<h4 class="sub_cat_text">- Plan A: Thesis option<br>- Plan B: Non-Thesis option (Comprehensive Examination)<br>- Minimum Cummulative GPA 3.00</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Fee Payment</span> :<br> 4 installments</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Credits Required</span> :<br> 48</h4>
+</div>
+<div class="item-text">
+<h4 class="sub_cat_text"><span class="txt-blk">Estimated Fees</span> :<br> Thai : 500,000 THB<br> Non-Thai : 550,000 THB<br> US$ : 16,667</h4>
+</div>
+</div>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"6";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 15:04:21";s:16:"timestamp_update";s:19:"2019-01-03 10:22:26";}i:14;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"13";s:11:"url_rewrite";s:12:"coat-of-arms";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2018/1546237484_1-org.png";s:5:"title";s:12:"Coat of Arms";s:7:"keyword";s:12:"Coat of Arms";s:9:"video_url";s:0:"";s:13:"brochure_path";s:0:"";s:10:"short_desc";s:1:"-";s:7:"content";s:4675:"<section>
+<p>The coat of arms of the Brothers of St. Gabriel, which is AU's logo, is shown and engraved on many places but the biggest and noticeable one is on the wall at a stairway in the Hall of Fame.</p>
+<p>It depicts four signs with meaningful content: the ship in the sea symbolizing the sea of life with difficulties that we have to struggle through; the DS Cross which represents Divinity and Science; A.M. and the white lilies to remind students to love their institution as their Alma Mater (Dear Mother) and be as pure in their thoughts, words and mind as the white lilies; and the star and the boat which symbolizes spiritual hope. The four symbols are framed by a shield under which is AU's motto "LABOR OMNIA VINCIT", which means: We can overcome all difficulties through working hard.</p>
+<h4>Brothers of st.Gabriel</h4>
+<p align="left">The name "the Brothers of St.Gabriel" reminds us of those Brothers who sacrificed their lives, and their mother's land, in order to help educate and develop our Thai children to grow in the right path.</p>
+<p align="left">"LABOR OMNIA VINCIT" is the motto of our university. "We can overcome all difficulties through working hard," or, as the Latin proverb says : "Work conquers all things,"</p>
+<h4>"Life-Boat" Symbolized By "The Ship in The Sea"</h4>
+<p align="left">"The ship in the Sea" symbolizes that we have to keep on struggling and facing different difficulties in the sea of life, just like the ship or the boat that fights stormy wind, steamy sun and rainy sea in order NOT to capsize in the middle of the sea. This should always remind us that "Life is a Struggle" or "To Live is to Struggle" against the problems and difficulties and not to give up.</p>
+<h4>"DS" (read "D and S") Cross In The Middle With The Cross</h4>
+<p align="left">"D" or Divinity represents "Religion". We all need religion in life and mind. The Cross is the symbol of "love" and sacrifice "just as Jesus sacrificed his life for our love and he redeemed our sins as he said: "There is no other love greater than sacrificing our life for others."</p>
+<p align="left">"S" or "Science" means "Knowledge," which is the root of man's ability to reason. Everyone should always aim at gaining more knowledge. the more we learn about mundane knowledge, the more we should also learn about "Dharma" or religious, ethical virtues. Moreover, D|S also comes from the French phrase, "Dieu Seul," which means "ALL WE DO IS FOR THE GRACE OF GOD ONLY." It is to remind us of St. Louis Marie de Montfort, the founding Father of the Brothers of St. Gabriel's motto. With this powerful motto, we have the will to work without yielding to difficulties, at studies as well as at work. We all uphold it up to this day.</p>
+<h4>A.M. and The White Lilies</h4>
+<p align="left">"A.M." is abbreviated from a Latin word, "ALMA MATER," meaning literally," Dear Mother," in Latin and indicating " MOTHER COLLEGE," which symbolizes that our institution is like our "Alma Mater", our own birth place and as a part of our own families. We should love our institution as much as we should love our own parents. Moreover, "A.M" is also abbreviated from "AVE MARIA" (in Latin), the name of Jesus' Mother. This means that we should love our own Mother with our heart and soul. And the beautiful snow-white lilies are symbols to remind us that we should be clean and sincere with all our thoughts, words and minds, wherever we are.</p>
+<h4>The Star and The Man In a Boat</h4>
+<p align="left">"The Star and the Boat" symbolizes "Spiritual Hope", meaning that religion is "the light of Dharma or Absolute Truth" and all the knowledge or sciences we have learned from the institution is "the Light of the Intelligence". Altogether they keep conduct and intelligence on track so we are not lost or capsized in the middle of the sea of life. "The man in the boat "reflects us, ourselves, rowing or guiding our own "boat of life."</p>
+<h4>"The Shield" That Frames The "Four Symbols"</h4>
+<p align="left">The "Shield" that frames the "Four Symbols" is the "COAT OF ARMS" which stands for "HONOUR," or "PRIDE and DIGNITY". It also represents the HONOUR,DIGNITY, PRIDE AND PRAISE that our institution has received from the King who reigns over the Kingdom.</p>
+<h4>The Olive Branches</h4>
+<p align="left">The wreath of the "Olive Branches" stands for "Victory" or "Success."(In ancient times, in Greek History, the athletic winner received a wreath of olive branches from the king) Or, this represents "a wreath of high honour" to remind us that we should do good deeds to uphold the honour and fame of our beloved institution or "ALMA MATER" forever.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:25:58";s:16:"timestamp_update";s:19:"2018-12-31 06:24:44";}i:15;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"12";s:11:"url_rewrite";s:22:"history-and-background";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107177_1-org.jpg";s:5:"title";s:22:"History and Background";s:7:"keyword";s:22:"History and Background";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3218:"<section>
+<p>Assumption University was initially originated from Assumption Commercial College in 1969 as an autonomous higher education institution under the name of Assumption School of Business. In 1972, with the approval of the Ministry of Education, it was officially established as Assumption Business Administration College or ABAC. In May 1975, it was accredited by the Ministry of University Affairs. In 1990, it was granted new status as "Assumption University" by the Ministry of University Affairs.</p>
+<p>The University is a non-profit institution administered by the Brothers of St. Gabriel, a worldwide Catholic religious order, founded in France in 1705 by St. Louis Marie De Montfort, devoted to education and philanthropic activities. The congregation has been operating many educational institutions in Thailand since 1901.</p>
+<p>The University is an international community of scholars, enlivened by Christian inspiration, engaged in the pursuit of truth and knowledge, serving the human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</p>
+<h4>Background of Assumption University</h4>
+<h6>St.Louis Marie D' Montfort</h6>
+<p align="left">A Pilgrim at The Tomb of St. Louis Marie De Montfort</p>
+<p align="left">"You know that I am very indebted to this Saint and to his <i>Treatise on True Devotion to the Blessed Virgin</i>. Today because my pastoral visit has for the most part as its theme the sacrament of baptism, I would like to highlight the fact that, in the mind of St. Louis, the whole spiritual life flows directly from the sacrament of holy baptism as is shown by an important passage of the Act of Consecration to Jesus by the hands of Mary, written in his own precise wording".</p>
+<p class="bodycontent" align="left">These are the words spoken by the Pope in the parish church of Saint-Laurent-sur-Sèvre, during his visit on 19th September 1996 to the tombs of Saint Louis Marie de Montfort and Blessed Marie Louise Trichet. Several times before this, the Pope had recalled that his reading of the <i>True Devotion</i> had been a decisive turning-point in his life, and that Montfort's spirituality had brought him to understand that genuine Marian devotion, far from distracting us from Christ, is on the contrary rooted in the mystery of Christ and can only lead towards him.</p>
+<p>Three congregations trace their foundation to Saint Louis Marie de Montfort namely:</p>
+<ul>
+<li>
+<div align="left">The Daughters of Wisdom, live out the loving search of Wisdom for wounded humanity through a variety of ministries, especially among those whom the world rejects and those alienated from the Church;</div>
+</li>
+<li>
+<div align="left">The Company of Mary, popularly know today as the Montfort Missionaries, devoting themselves to priestly ministry and preaching</div>
+</li>
+<li>
+<div align="left"><span class="bodycontent">The Brothers of the Christian Instruction of St. Gabriel, popularly known today as Montfort Brothers of St. Gabriel, formerly known as the Community of the Holy Spirit, dedicating themselves to Christian education and working among the underprivileged</span>.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:22:57";s:16:"timestamp_update";s:19:"2017-10-31 06:17:15";}i:16;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"11";s:11:"url_rewrite";s:6:"vision";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507107028_1-org.png";s:5:"title";s:6:"Vision";s:7:"keyword";s:6:"Vision";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:1346:"<section>
+<p><g class="gr_ gr_14 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="14" data-gr-id="14">Assumption</g> University of Thailand envisions itself as:&nbsp;</p>
+<ul>
+<li>
+<div align="left">an international community of scholars,</div>
+</li>
+<li>
+<div align="left">enlivened by Christian inspiration,</div>
+</li>
+<li>
+<div align="left">engaged in the pursuit of Truth and Knowledge,</div>
+</li>
+<li>
+<div align="left">serving human society, especially through the creative use of interdisciplinary approaches and cybertechnology.</div>
+</li>
+</ul>
+<h4>Vision 2000 for The Assumption University Graduates</h4>
+<p align="left"><g class="gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="16" data-gr-id="16">Assumption</g> University of Thailand envisions its graduates as:</p>
+<ul>
+<li>
+<div align="left">healthy and open-minded persons, characterized by personal integrity, an independent mind, and creative thinking,</div>
+</li>
+<li>
+<div align="left">professionally competent, willing to exercise responsible leadership for economic progress in a just society,</div>
+</li>
+<li>
+<div align="left">able to communicate effectively with people from other nations and to participate in globalization.</div>
+</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:20:28";s:16:"timestamp_update";s:19:"2018-12-19 11:09:13";}i:17;O:8:"stdClass":23:{s:13:"article_db_id";s:2:"10";s:11:"url_rewrite";s:7:"symbols";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106666_1-org.jpg";s:5:"title";s:7:"Symbols";s:7:"keyword";s:7:"Symbols";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:1:"-";s:7:"content";s:3391:"<section>
+<h4>Sedes Sapientiae : The Seat of Wisdom</h4>
+<p align="justify">It is a tradition handed down for centuries that Christians venerate the Mother of Christ as "the Seat of Wisdom". (Sedes Sapientiae)</p>
+<p align="justify"><img src="/images/stories/abac/sedes1.gif" alt="" align="right" border="0">According to Christian belief, Christ is the wisdom seated on the Throne. This implies, on the one hand, that the Mother of Christ is the Dwelling Place of the Supreme Wisdom of all science.</p>
+<p align="justify">On the other hand, the university is the Alma Mater, or our Mother who is also the "Dwelling Place of Knowledge". In this context, "Assumption" which, besides its religious meaning in glorification of the Mother of Christ, has yet another meaning in Thai, namely" the Abode of Abiding Knowledge" Rightly, "Assumption University" is the Seat of Wisdom.</p>
+<h4>Ashoka Tree</h4>
+<p align="justify"><br>The Assumption University has adopted the Ashoka Tree as its symbol. The Ashoka Tree has as its scientific name "<i>Polyalthea longifolia</i> Benth &amp; Hook. f. var. <i>pandurata</i>" of a Anonanceae Family, a native plant of India and Sri Lanka.</p>
+<p>The Rationale behind the choice of the Ashoka Tree</p>
+<p align="justify"><img src="/images/stories/abac/ashokatree.gif" alt="" align="right" border="0">The reasons why the University has taken it as its symbol are the following:</p>
+<ol>
+<li>
+<div align="justify">The Ashoka Tree is an ever-green tree. This fact signifies freshness, coolness, and constancy, unwavering with the turning of seasons and the changes of time. Thus, it means that the University is determined to fulfill its mission, giving emphasis to academic excellence together with quality and virtues.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree has a most beautiful form, majestically tall, like a stupa.</div>
+</li>
+<li>
+<div align="justify">The Ashoka Tree is a tree with a beneficial name, because it derives from an Indian word "Ashok", after the name of King Ashok, the Great, the most well known king during Buddha's time, full of wisdom both in the secular and religious realms.</div>
+</li>
+<li>
+<div align="justify">Lastly, it is the tree first brought from India into Thailand in 1957 by the St.Gabriel Foundation of Thailand, patrons of this university (by Bro. John Mary). This first tree was planted in the compound of St. Gabriel's College, and the Forestry Department of Thailand named it "St. Gabriel Ashoka" on 15 th December 1969. Botanic Features of the Ashoka Tree</div>
+</li>
+</ol>
+<p align="justify">The Ashoka Tree is an ever green tree, of narrow-top can form and majestically tall. The bark is grey; its color becomes darker near the extreme top of the trunk, covered with leaves from the bottom to the top, so thick that the trunk's characteristics can hardly be clearly visible. Its leaves are lanceolate, about 0.5-0.7 inches wide, and 4-9 inches long. The widest part of the leaf is near the base; its rim is smooth, but twisted into a tide-like form. Its flower is white greenish shade, without odor, about 1.5-1.75 inches wide. Its fruit is ellipsoid, about 0.5 inches wide and 0.75 inches long, with smooth shiny skin; its color turns yellow, red, then finally black, when it is ripe. Normally, the ripening of the fruit OCCURS between July and August every year.</p>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:14:26";s:16:"timestamp_update";s:19:"2017-10-31 06:11:27";}i:18;O:8:"stdClass":23:{s:13:"article_db_id";s:1:"9";s:11:"url_rewrite";s:23:"objectives-and-policies";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106549_1-org.jpg";s:5:"title";s:23:"Objectives and Policies";s:7:"keyword";s:23:"Objectives and Policies";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:23:"Objectives and Policies";s:7:"content";s:740:"<section>
+<p>Assumption University exists for the main purpose of serving the nation by providing scientific and humanistic knowledge, particularly in the business education and management science through research and interdisciplinary approaches.</p>
+<p>To this end it aims at forming intellectually competent graduates who :</p>
+<ul>
+<li>are morally sound, committed to acting justly, and open to further growth.&nbsp;</li>
+<li>appreciate freedom of expression, imbibe right attitudes and ideologies through a carefully integrated curriculum of Ethics, Science, Languages and Business Management.&nbsp;</li>
+<li>achieve academic excellence through hard work, critical thinking, and effective decision-making.</li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:12:29";s:16:"timestamp_update";s:19:"2017-10-04 14:12:29";}i:19;O:8:"stdClass":23:{s:13:"article_db_id";s:1:"8";s:11:"url_rewrite";s:10:"philosophy";s:11:"is_category";s:1:"0";s:13:"category_slug";s:0:"";s:13:"category_name";N;s:11:"main_cat_id";N;s:12:"main_picture";s:25:"2017/1507106436_1-org.jpg";s:5:"title";s:10:"Philosophy";s:7:"keyword";s:10:"Philosophy";s:9:"video_url";s:0:"";s:13:"brochure_path";N;s:10:"short_desc";s:10:"Philosophy";s:7:"content";s:516:"<section>
+<p>In loyalty to its Christian mission, Assumption University stands for</p>
+<ul>
+<li>the inculcation of respect for the three institutions of the Nation: Religion, Country, the King and a democratic way of life.</li>
+<li>the belief that a man justifies himself and his existence by the nobility of his work: <strong>LABOR OMNIA VINCIT</strong></li>
+<li>the commitment to be a light that leads men towards the true source of all knowledge and life: <strong>LUX VERITAS</strong></li>
+</ul>
+</section>";s:13:"user_admin_id";s:1:"1";s:6:"cat_id";s:1:"1";s:8:"lang_iso";s:2:"en";s:6:"active";s:1:"1";s:17:"fb_comment_active";s:1:"0";s:16:"fb_comment_limit";N;s:15:"fb_comment_sort";N;s:7:"arrange";N;s:16:"timestamp_create";s:19:"2017-10-04 14:10:36";s:16:"timestamp_update";s:19:"2017-10-04 14:10:36";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:20;s:8:"row_data";N;}
